@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+{% load i18n %}
+{% load static %}
+<html>
+<head>
+    <title>{% trans "Foodify More Info" %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=0.75">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+    <link rel="icon" type="image/x-icon" href="{% static '/collected/collected/icon/foodify-logo-in-a-white-circle.ico' %}">
+</head><!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GQ02LDBY0D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GQ02LDBY0D');
+</script>
+<body>
+    {% include 'header_to_homeroom.html' %}
+    <div class="container">
+        <h1> {{ food_name }} </h1> <br>
+        <div class="grey_rectangle_3">
+
+            {% if food_name_korean != "" %}
+                <div class="font_custom_grey">{% trans "Menu Name in Korean" %}</div>
+                <div class="font_custom_more_main">{{ food_name_korean }}</div>
+                <hr>
+            {% endif %}
+            {% if food_description != "" %}
+                <div class="font_custom_grey">{% trans "Menu Description" %}</div>
+                <div class="font_custom_more_main">{{ food_description }}</div>
+                <hr>
+            {% endif %} 
+
+            <div class="font_custom_grey">{% trans "Taste Index" %}</div>
+            <div class="horizontal_arrangement_left">
+                <div class="more_white_small_rectangle">
+                    <div class="more_taste_title"> {% trans "Sweetness" %} </div>
+                    <div class="more_taste_index"> {{ sweet }} </div>
+                </div>
+                <div class="more_white_small_rectangle">
+                    <div class="more_taste_title"> {% trans "Saltiness" %} </div>
+                    <div class="more_taste_index"> {{ salty }} </div>
+                </div>
+                <div class="more_white_small_rectangle">
+                    <div class="more_taste_title"> {% trans "Spiceness" %} </div>
+                    <div class="more_taste_index"> {{ spicy }} </div>
+                </div>
+            </div>
+
+            <hr> 
+
+            <div class="font_custom_grey">{% trans "Served at" %}</div>
+            <div class="font_custom_more_main">{{ restaurant }}</div>
+            <div class="font_custom_small">Located in {{ location }}</div>
+            <div id="map" style="width:100%;height:350px;"></div>
+            <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=2fff0eeb650e583d47427afd73e925cf&libraries=services"></script>
+            <script>
+                // 마커를 클릭하면 장소명을 표출할 인포윈도우 입니다
+                var infowindow = new kakao.maps.InfoWindow({zIndex:1});
+                
+                var mapContainer = document.getElementById('map'), // 지도를 표시할 div 
+                    mapOption = {
+                        center: new kakao.maps.LatLng(37.566826, 126.9786567), // 지도의 중심좌표
+                        level: 3 // 지도의 확대 레벨
+                    };  
+                
+                // 지도를 생성합니다    
+                var map = new kakao.maps.Map(mapContainer, mapOption); 
+                
+                // 장소 검색 객체를 생성합니다
+                var ps = new kakao.maps.services.Places(); 
+                
+                // 키워드로 장소를 검색합니다
+                var restaurant_searchterm = "{{ restaurant_searchterm }}";
+                ps.keywordSearch(restaurant_searchterm, placesSearchCB); 
+                
+                // 키워드 검색 완료 시 호출되는 콜백함수 입니다
+                function placesSearchCB (data, status, pagination) {
+                    if (status === kakao.maps.services.Status.OK) {
+                
+                        // 검색된 장소 위치를 기준으로 지도 범위를 재설정하기위해
+                        // LatLngBounds 객체에 좌표를 추가합니다
+                        var bounds = new kakao.maps.LatLngBounds();
+                
+                        for (var i=0; i<data.length; i++) {
+                            displayMarker(data[i]);    
+                            bounds.extend(new kakao.maps.LatLng(data[i].y, data[i].x));
+                        }       
+                
+                        // 검색된 장소 위치를 기준으로 지도 범위를 재설정합니다
+                        map.setBounds(bounds);
+                    } 
+                }
+                
+                // 지도에 마커를 표시하는 함수입니다
+                function displayMarker(place) {
+                    
+                    // 마커를 생성하고 지도에 표시합니다
+                    var marker = new kakao.maps.Marker({
+                        map: map,
+                        position: new kakao.maps.LatLng(place.y, place.x) 
+                    });
+                
+                    // 마커에 클릭이벤트를 등록합니다
+                    kakao.maps.event.addListener(marker, 'click', function() {
+                        // 마커를 클릭하면 장소명이 인포윈도우에 표출됩니다
+                        var restaurant_name = "{{ restaurant }}";
+                        infowindow.setContent('<div style="padding:5px;font-size:12px;">' + restaurant_name + '</div>');
+                        infowindow.open(map, marker);
+                    });
+                }
+                </script>
+            <hr> 
+
+            <div class="font_custom_grey">{% trans "Price (in KRW)" %}</div>
+            <div class="font_custom_more_main">{{ price }}</div>
+
+            <hr> 
+
+            <div class="font_custom_grey">{% trans "Country of Origin" %}</div>
+            <div class="font_custom_more_main">{{ origin }}</div>
+
+            <hr>
+
+            <div class="font_custom_grey">{% trans "Menu Type (in Korean)" %}</div>
+            <div class="font_custom_more_main">{{ menu_type }}</div>
+
+            <hr> 
+
+            <div class="font_custom_grey">{% trans "Main Ingredient (in Korean)" %}</div>
+            <div class="font_custom_more_main">{{ main_ingredient }}</div>
+
+            <hr>
+
+            <div class="font_custom_grey">{% trans "Additional Info" %}</div>
+            
+            <div class="option-container">
+                <div class="font_custom_more_add">{% trans "Vegetarian" %} </div>
+                <div class="tickable-box checkmark">{{ vegetarian }}</div>
+            </div>
+            
+            <div class="option-container">
+                <div class="font_custom_more_add">{% trans "Hindu (Beef-free)" %}</div>
+                <div class="tickable-box x-mark">{{ hindu }}</div>
+              </div>
+            
+            <div class="option-container">
+                <div class="font_custom_more_add">{% trans "Islam (Pork-free)" %}</div>
+                <div class="tickable-box checkmark">{{ islam }}</div>
+              </div>
+
+            <div class="custom_note"> {% trans "Please note that this information may not be 100% accurate since we do not have the exact recipe information." %}</div>
+        </div>
+        <br>
+        
+        <a class="filled_rectangle" href="/homeroom">{% trans "Go back to Homeroom" %}</a>
+
+        </div>
+    </div>
+</body>
+</html>

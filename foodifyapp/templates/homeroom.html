@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+{% load static %}
+{% load i18n %}
+<head>
+    <title>Foodify</title>
+    <meta name="viewport" content="width=device-width, initial-scale=0.75">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+    <link rel="icon" type="image/x-icon" href="{% static '/collected/collected/icon/foodify-logo-in-a-white-circle.ico' %}">
+</head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GQ02LDBY0D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GQ02LDBY0D');
+</script>
+<body>
+    {% include 'header_to_homeroom.html' %}
+    <div class="container">
+        <h1>Foodify Homeroom</h1>
+        {% blocktrans %}
+            Welcome, {{username}}.
+        {% endblocktrans %} <br><br>
+
+        <a href="/recommend" class="no_text_decoration"type="button"> 
+            <button class="grey_rectangle" type="button">
+                <div class="horizontal_arrangement_left">
+                    <img src="{% static 'images/recommendation.png' %}" class="homeroom_button_icon" alt="Recommendation">
+                    <div>
+                        <div class="homeroom_button_title"> {% trans "Recommended Just for You" %} </div>
+                        <div class="homeroom_button_description"> {% trans "Menu selected based on your preferences" %} </div>
+                    </div>
+                </div>
+            </button>
+        </a>
+        <a href="/food_random" class="no_text_decoration" type="button"> 
+            <button class="grey_rectangle" type="button">
+                <div class="horizontal_arrangement_left">
+                    <img src="{% static 'images/random.png' %}" class="homeroom_button_icon" alt="Random">
+                    <div>
+                        <div class="homeroom_button_title"> {% trans "Complete Random" %} </div>
+                        <div class="homeroom_button_description"> {% trans "Returns any food in random" %} </div>
+                    </div>
+                </div>
+            </button>
+        </a>
+        <a href="/desire" class="no_text_decoration" type="button"> 
+            <button class="grey_rectangle" type="button">
+                <div class="horizontal_arrangement_left">
+                    <img src="{% static 'images/choice.png' %}" class="homeroom_button_icon" alt="Random">
+                    <div>
+                        <div class="homeroom_button_title"> {% trans "Search for Your Desires"%} (Beta) </div>
+                        <div class="homeroom_button_description"> {% trans "Returns all foods that complies to your desires today" %} </div>
+                    </div>
+                </div>
+            </button>
+        </a>
+        
+        <p> {% trans "More features will come along with new updates." %} </p>
+        <br> <br>
+        <div class='attribution'> {% trans 'The icons used in this page has been designed using images from Flaticon.com' %} </div>
+    </div>
+    <script>
+        
+    </script>
+</body>
+
+</html>

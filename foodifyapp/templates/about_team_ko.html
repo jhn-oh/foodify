@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+{% load i18n %}
+{% load static %}
+<html>
+<head>
+    <title>{% trans "Foodify" %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=0.75">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+    <link rel="icon" type="image/x-icon" href="{% static '/collected/collected/icon/foodify-logo-in-a-white-circle.ico' %}">
+</head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GQ02LDBY0D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GQ02LDBY0D');
+</script>
+<body>
+    {% include 'header.html' %}
+    <div class="container">
+        <h1> {% trans "About Us" %} </h1>
+            <div class="button-container">
+                <a class="white_button_half" type="button" href="/about/project"> {% trans "Our Project"%} </a> 
+                <a class="filled_button_half" type="button" href="/about/team"> {% trans "Our Team"%} </a>
+            </div>
+            <br>
+            <h2> Our Team </h2>
+            {% comment %} <img src="https://www.insert.com/images/here.jpg" alt="Image of Foodify Team"> {% endcomment %}
+
+            
+            <br>
+            <div class="button-container">
+                <b> 오주현  <br> 한지수  <br> 김세연  <br> 위가영  <br> 정현수  </b> 
+                <div class="v_line"></div>
+                연세대학교 도시공학과 23 <br> 연세대학교 도시공학과 23 <br> 연세대학교 경영학과 23 <br> 연세대학교 경영학과 23 <br> 연세대학교 경영학과 23
+            </div>
+            <br>
+            <p>
+                저희 팀 PlatePal은 모두 연세대학교 신입생으로, 국제캠퍼스에서 생활하며 외국인 학생들이 겪을 수 있는 식생활에서의 불편함 문제를 해결하기 위해 모였습니다. 
+                서로 하우스와 전공이 다르지만, 하나의 목표를 향해 지난 4월 처음 만난 뒤 DB 구성, 웹사이트 개발, 홍보 등 다양한 업무를 함께 이어가고 있습니다. 
+            </p>
+        </div>
+    </div>
+</body>
+</html>

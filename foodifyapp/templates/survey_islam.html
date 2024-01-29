@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+{% load i18n %}
+{% load static %}
+<html>
+<head>
+    <title>{% trans "Foodify" %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=0.75">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+</head><!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GQ02LDBY0D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GQ02LDBY0D');
+</script>
+<body>
+    {% include 'header_to_homeroom.html' %}
+    <div class="container">
+        <h1> {% trans "Initial Survey" %} </h1>
+        {% trans "13/15 Complete." %}
+        <br>
+
+        <br> <b>
+            {% trans "Do you specify yourself as Islam?" %}
+            </b>
+            {% trans "If you say 'yes' to this question, we will try to avoid pork from your recommendation."%}
+            <br> <br> 
+    
+            <a href="yes" class="white_rectangle">{% trans  "Yes" %}</a> <br>
+            <a href="no" class="white_rectangle">{% trans  "No" %}</a> <br>
+    
+    </div>
+</body>
+</html>

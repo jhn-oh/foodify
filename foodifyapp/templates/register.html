@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+{% load i18n %}
+{% load static %}
+<html>
+<head>
+    <title>{% trans "Foodify Register"%}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=0.65">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+</head><!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GQ02LDBY0D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GQ02LDBY0D');
+</script>
+<body>
+    {% include 'header.html' %}
+    <div class="container"> 
+        <h1>{% trans "Register to Foodify" %}</h1>
+        <br>
+        <form method="POST" action = "">
+            {% csrf_token %}
+            <input name="username" class="register_box" placeholder="Username">
+            <input name="email" type="email" class="register_box" placeholder="Email">
+            <input name="password1" type="password" class="register_box" placeholder="Password">
+            <input name="password2" type="password" class="register_box" placeholder="Password Confirmation">
+            <br>
+            <div class="terms_and_conditions" id="red_background"> {{form.errors}} </div>
+        <ul class="terms_and_conditions">
+            <li>{% trans "Your password can't be too similar to your personal information."%}</li>
+            <li>{% trans "Your password must contain at least 8 characters."%}</li>
+            <li>{% trans "Your password can't be a commonly used password."%}</li>
+            <li>{% trans "Your password can't be entirely numeric."%}</li>
+        </ul>
+
+        <br>
+        {% trans "Already have your account?"%} <a href="/login"> {% trans "Log In" %} </a>
+        <br><br><br>
+            <button type="submit" class="filled_rectangle">{% trans  "Register" %}</button>
+        <!-- <input type="submit" name="Create User"> --> 
+        <form/>
+        <br>
+        <div class="font_size_16_5">
+        {% blocktrans %}
+        By registering, you are agreeing to our <a href="/terms"> Terms of Service</a>  and <a href="/privacy"> Privacy Policy</a>.
+        {% endblocktrans %}
+        </div>
+    </div>
+
+</body>
+</html>

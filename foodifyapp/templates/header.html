@@ -1,0 +1,47 @@
+{% load static %}
+{% load i18n %}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Foodify</title>
+    <style>
+        body {
+            margin: 5;
+            padding: 5;
+            width = 100%;
+        }
+        header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            background-color: #FFFFFF;
+            padding: 10px;
+        }
+        .logo {
+            display: flex;
+            align-items: center;
+        }
+        .logo img {
+            height: 60px;
+            margin-right: 10px;
+        }
+        .language-button {
+            padding: 5px 10px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <a href="/home"> <img src="{% static 'svg/foodify_logo.svg' %}" alt="Foodify Logo"> </a>
+            <!-- <span>My Website</span> 로고 옆에 글자 넣는 것-->
+        </div>
+        {% comment %} <button class="language-button">Language</button> {% endcomment %}
+    </header>
+</body>
+</html>

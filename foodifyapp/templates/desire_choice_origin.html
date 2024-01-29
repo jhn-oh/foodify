@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+{% load i18n %}
+{% load static %}
+<html>
+<head>
+    <title>{% trans "Foodify" %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=0.75">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+</head><!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GQ02LDBY0D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GQ02LDBY0D');
+</script>
+<body>
+    {% include 'header_to_homeroom.html' %}
+    <div class="container">
+        <h1> {% trans "Search for Your Desires" %} </h1>
+        <br>
+
+        <br> <b>
+            {% trans "Which kind of food do you prefer today?" %}
+            </b>
+            <br>
+    
+            <a href={{ k }} class="white_rectangle">{% trans  "Korean food" %}</a> <br>
+            <a href={{ c }} class="white_rectangle">{% trans  "Chinese food" %}</a> <br>
+            <a href={{ j }} class="white_rectangle">{% trans  "Japanese food" %}</a> <br>
+            <a href={{ w }} class="white_rectangle">{% trans  "Western food" %}</a> <br>
+            <a href={{ a }} class="white_rectangle">{% trans  "Asian food" %}</a> <br>
+    
+    </div>
+</body>
+</html>

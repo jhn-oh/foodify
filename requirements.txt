@@ -1,0 +1,2 @@
+Django==3.2.21
+virtualenv @ git+https://github.com/pypa/virtualenv.git@97b3060c0c679d382129224b8bde7565c7344cb7

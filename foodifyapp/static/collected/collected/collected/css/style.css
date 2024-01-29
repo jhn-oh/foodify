@@ -1,0 +1,525 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap');
+
+body {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 17px;
+    color:#333;
+}
+
+a {
+  color:black;
+  /* text-decoration: none; */
+}
+
+
+
+.container {
+    margin: 0 auto;
+    padding: 10px;
+    display: grid;
+    justify-content: center;
+    box-sizing: border-box; /* 패딩과 테두리를 포함한 크기로 상자를 만듦. */
+    text-align: center;
+    width: 500px !important;
+    /* max-width: 500px !important; */
+  }
+
+  @media (max-width: 768px) {
+    .container {
+      width: 80%;
+    }
+
+    .filled_button_450 {
+      width: 90%
+    }
+
+    .filled_rectangle, .white_rectangle, .white_button_full, .login_box, .homeroom_button, .grey_rectangle, .grey_rectangle_2, .grey_rectangle_more {
+      width: 100%;
+    }
+  }
+
+#homepage_graphic {
+  width: 500px;
+}
+
+.filled_rectangle {
+  display: inline-block;
+  width: 500px;
+  min-width: 320px;
+  box-sizing: border-box;
+  height: 45px;
+  background: #1F3373;
+  border-radius: 5px;
+  align-items: center;
+  color: white;
+  text-decoration: none;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.white_rectangle {
+  display: inline-block;
+  box-sizing: border-box;
+  width: 500px;
+  height: 45px;
+  border: 1.2px solid #1F3373;
+  border-radius: 10px;
+  color: #1F3373;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+}
+
+.login_box {
+  display: inline-block;
+  box-sizing: border-box;
+  width: 95%;
+  height: 40px;
+  border: 1.2px solid #1F3373;
+  border-radius: 5px;
+  color: #1F3373;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+
+.register_box {
+  display: inline-block;
+  box-sizing: border-box;
+  width: 100%;
+  height: 40px;
+  border: 1.2px solid #1F3373;
+  border-radius: 5px;
+  color: #1F3373;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+
+.white_button_full {
+  display: inline-block;
+  box-sizing: border-box;
+  width: 500px;
+  height: 45px;
+  margin: 10px;
+  border: 1.2px solid #1F3373;
+  border-radius: 10px;
+  color: #1F3373;
+  background: white;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+}
+
+.button-container, .horizontal_arrangement {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  text-align: center;
+}
+
+.horizontal_arrangement_left {
+  display: flex;
+  width: 100%;
+}
+
+input {
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 16px;
+  color: black;
+}
+
+input::placeholder {
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 16px;
+}
+
+.filled_button_half {
+  display: inline-block;
+  width: 50%;
+  height: 45px;
+  background: #1F3373;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+}
+
+.filled_button_half_2 {
+  display: inline-block;
+  width: 47%;
+  height: 45px;
+  background: #1F3373;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+}
+
+.white_button_half {
+  display: inline-block;
+  box-sizing: border-box;
+  width: 50%;
+  height: 45px;
+  border: 1.2px solid #1F3373;
+  border-radius: 10px;
+  color: #1F3373;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+}
+
+.terms_and_conditions {
+  text-align:left;
+  font-size: 16px;
+}
+
+.attribution {
+  font-size: 12px;
+}
+
+#red_background {
+  background-color: #F8C8DC;
+}
+
+#logout_button {
+  display: inline-block;
+  width: auto;
+  box-sizing: border-box;
+  background: #1F3373;
+  padding: 5px;
+  border-radius: 4px;
+  align-items: center;
+  color: white;
+  text-decoration: none;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight: 400;
+  font-size: 13px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.grey_rectangle {
+  display: inline-block;
+  box-sizing: border-box;
+  width: 500px;
+  /* height: 100px; */
+  border: 1.2px solid #F5F5F5;
+  border-radius: 12px;
+  color: #111810;
+  padding: 12px;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  text-align: left;
+  margin: 10px;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.grey_rectangle_2 {
+  display: inline-block;
+  box-sizing: border-box;
+  width: 500px;
+  /* height: 100px; */
+  border: 1.2px solid #F5F5F5;
+  background-color:#F5F5F5;
+  border-radius: 20px;
+  color: #111810;
+  padding: 12px;
+  padding-top: 35px;
+  padding-bottom: 35px;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 18px;
+  /* display: flex; */
+  align-items: center;
+  text-align: center;
+  margin: 10px;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.grey_rectangle_3 {
+  display: inline-block;
+  box-sizing: border-box;
+  width: 500px;
+  /* height: 100px; */
+  border: 1.2px solid #F5F5F5;
+  background-color:#F5F5F5;
+  border-radius: 20px;
+  color: #111810;
+  padding: 25px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-decoration: none;
+  font-weight: 500;
+  /* display: flex; */
+  align-items: center;
+  text-align: center;
+  margin: 10px;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+
+.grey_rectangle_more {
+  display: inline-block;
+  box-sizing: border-box;
+  width: 500px;
+  /* height: 100px; */
+  border: 1.2px solid hsl(0, 74%, 39%);
+  background-color:#F5F5F5;
+  border-radius: 20px;
+  color: #111810;
+  padding: 12px;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 18px;
+  /* display: flex; */
+  align-items: center;  
+  text-align: center;
+  margin: 10px;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.homeroom_button_title {
+  font-size: 20px;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight: 700;
+  text-decoration: none !important;
+}
+
+.homeroom_button_description {
+  font-size: 16px;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight: 400;
+  text-decoration: none !important;
+}
+
+.homeroom_button_icon {
+  height: 45px;
+  margin: 5px;
+  margin-right: 15px;
+}
+
+.homeroom_button a, .homeroom_button_title a, .homeroom_button_description a {
+  text-decoration: none !important;
+}
+
+.no_text_decoration {
+  text-decoration: none;
+}
+
+.font_500 {
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight: 500;
+}
+
+.fade_in {
+  opacity: 0; /* Set the initial opacity to 0 (completely transparent) */
+  transition: opacity 1s; /* Define the transition property (opacity) and duration (1 second) */
+}
+
+.font_size_16_5 {
+  font-size: 16.5px;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight: 400;
+}
+
+.yangjjok {
+  text-align: justify;
+}
+
+.v_line {
+  border-left : 3px solid #c4c4c4;
+  height : auto;
+  margin-left: 10px;
+  margin-right: 10px; 
+}
+
+.font_custom_grey {
+  text-align: left;
+  color: grey;
+  font-size: 12pt;
+  padding: 5px;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight: 500;
+}
+
+.font_custom_more_main {
+  text-align: left;
+  font-size: 20px;
+  padding: 5px;
+  font-family: 'Noto Sans KR', sans-serif;
+  color: black;
+  font-weight: bold;
+}
+
+.font_custom_more_add {
+  text-align: left;
+  font-size: 13px;
+  padding: 5px;
+  font-family: 'Noto Sans KR', sans-serif;
+  color: black;
+  font-weight: bold;
+  margin-top: 0;
+  margin-left: 5px
+}
+
+.font_custom_small {
+  text-align: left;
+  font-size: 14px;
+  margin-top: 0;
+  font-family: 'Noto Sans KR', sans-serif;
+  color: black;
+  font-weight: bold;
+  margin-left: 6px
+}
+
+.custom_note {
+  text-align: justify;
+  margin-left: 6px;
+  margin-right: 6px;
+  color: grey;
+  font-size: 10pt;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+.option-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.font_custom_more_add {
+  margin-right: 10px;
+  font-size: 16px;
+}
+
+.tickable-box {
+  width: 20px;
+  height: 20px;
+  font-size: 16px;
+  display: inline-block;
+  text-align: center;
+  line-height: 20px;
+}
+
+.checkmark {
+  color: green;
+}
+
+.x-mark {
+  color: red;
+}
+
+.more_white_small_rectangle {
+  display: inline-block;
+  box-sizing: border-box;
+  width: auto;
+  height: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border: 1.2px solid white;
+  background-color: white;
+  border-radius: 10px;
+  color: black;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 18px;
+  display: flex;
+  flex-direction: column; 
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+}
+
+.more_taste_title {
+  font-size: 13px;
+}
+
+.more_taste_title {
+  text-align: center;
+  color: rgb(76, 76, 76);
+  font-size: 10pt;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+.more_taste_index {
+  text-align: center;
+  color: black;
+  font-size: 18pt;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight: bold;
+}
+
+.custom_h1 {
+  display: block;
+  font-size: 2em;
+  margin-top: 0.67em;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+  /*I just decreased the margins */
+}
+
+.custom_b {
+  font-weight: light;
+}
+
+.map {
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}

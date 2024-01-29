@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+{% load i18n %}
+{% load static %}
+<html>
+<head>
+    <title>{% trans "Foodify" %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=0.75">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+</head><!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GQ02LDBY0D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GQ02LDBY0D');
+</script>
+<body>
+    {% include 'header_to_homeroom.html' %}
+    <div class="container">
+        <h1> {% trans "Initial Survey" %} </h1>
+
+
+        <div class="grey_rectangle_2 font_size_16_5">
+            {% blocktrans %}
+            <b> Welcome to Foodify! </b> <br>
+            This is a initial survey for Foodify, asking you whether you like certain foods or not. <br>
+            The data will only be used for finding the best food for you. <br>
+            The whole survey will only take about a minuite.
+            {% endblocktrans %}
+        </div>
+        <br>
+        <div class="button-container">
+            <a class="filled_rectangle" href="/survey">{% trans "Start survey" %}</a>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+{% load i18n %}
+{% load static %}
+<html>
+<head>
+    <title>{% trans "Foodify" %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=0.75">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+    <link rel="icon" type="image/x-icon" href="{% static '/collected/collected/icon/foodify-logo-in-a-white-circle.ico' %}">
+</head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GQ02LDBY0D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GQ02LDBY0D');
+</script>
+<body>
+    {% include 'header.html' %}
+    <div class="container">
+        <h1> {% trans "About Us" %} </h1> <br>
+        <div class="button-container">
+            <a class="filled_button_half" type="button" href="/about/project"> {% trans "Our Project"%} </a> 
+            <a class="white_button_half" type="button" href="/about/team"> {% trans "Our Team"%} </a>
+        </div>
+        <br>
+        <h2> How it all started </h2>
+            <p class="yangjjok">
+                <b> “What should I eat today?”  </b> <br>
+                Foodify was created just to reduce this stress off your plate. <br>
+
+                As humans, we always contemplate what to eat each meal. Especially, this could be a bigger matter for foreigners who are still adjusting to living in South Korea. Figuring out what ‘this’ food even is, how much it costs, or whether ‘this’ food fits my dietary restrictions…<br>
+
+                There exist many challenges in choosing a menu.<br>
+
+                Foodify aims to ease this difficulty by suggesting menus finely tuned for each user.
+            </p>
+        
+        <h2> Our Story </h2>
+        <p class="yangjjok">
+            Deciding on what to eat on a daily basis could be a major headache for Yonsei’s residential students residing in Songdo. Unfortunately, foreign students find this a greater challenge. Foodify aims to be the magic pill for such migraines: it recommends menus depending on various factors such as the user’s dietary restrictions. <br>
+
+            Through the usage of Django, we created a website that carries approximately 2,000 types of food from eateries in Songdo’s Triple Street and Campus Town. Within the database, which provides both Korean and English, you will find the name of the eatery, the location, the name of the food, the categorization of the menu (country of origin, type of food, etc.), price, the flavor of the food (savory, sweet or spicy), the main ingredients of the food, dietary restrictions (vegetarian, vegan, Muslim, Hindu, etc.) and more.<br> 
+
+            Thanks to Foodify, all ethnicities will be enjoying their meals stress-free! Plus, with a built-in map, you will be able to find the eatery in no time. <br>
+
+            If you are in trouble deciding on what to eat, Foodify will set you free!
+        </p>
+        <h2> How Foodify Works </h2>
+        <p class="yangjjok"> 
+            In order to receive suggestions, you must first create a user’s profile. If the user is using Foodify for the first time, the user will undergo a short survey that checks your preferences out of 10 random food menus. This will give us an idea of what you enjoy to eat!<br>
+
+            Next, when the user presses the suggestion button, a list of food menus that best match the user’s preferences will be calculated. This list will then be filtered to provide the perfect suggestions for the user!<br>
+
+            When the finalized results appear, the user will undergo another survey regarding whether they like the suggested menu or not. If the answer is the latter, do not worry! We will suggest another menu. Finally, if you meet the perfect menu, Foodify will provide all the necessary details such as the price of the menu and the location of the eatery. All the surveys conducted within Foodify will be saved in the user’s profile in order to suggest a better-fitted menu for the future!
+        </p>
+        <h2> Attribution </h2>
+        <p class="yangjjok">
+            Foodify was created thanks to various open-source projects. The following includes the open-source projects we have utilized.
+            <ul class="yangjjok">
+                <li> Python </li>
+                <li> Django </li>
+                <li> Lottie </li>
+                <li> Flaticon </li>
+                <li> Noto Sans</li>
+            </ul>
+        </p>
+    </div>
+</body>
+</html>

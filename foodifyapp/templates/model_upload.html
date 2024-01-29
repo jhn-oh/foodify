@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+{% load i18n %}
+{% load static %}
+<html>
+<head>
+    <title>{% trans "Foodify" %}</title>
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+</head>
+<body>
+    {% include 'header.html' %}
+    <div class="container">
+        <h1> Upload data to the Model </h1>
+        This page is dedicated for admins only.
+        <br>
+        {{ csv }}
+        <br>
+        {{ value1 }}
+        <br>
+        {{ value2 }}
+        <br>
+        {{ success }}
+        <form method="post">
+            {% csrf_token %}
+            {% comment %} <textarea name="textbox" rows="40" cols="50"></textarea> {% endcomment %}
+            <button type="submit">Upload to models!</button>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,810 @@
+국밥올림,Gukbab-olim,Campus Town,갈비탕,Galbitang,Short rib soup,갈비탕,Korean,10000,3,1,2,소고기,0,1,0
+국밥올림,Gukbab-olim,Campus Town,곱창전골,Gopchangjeongol,Intesine hot pot,곱창전골,Korean,30000,3,1,4,곱창,0,0,1
+국밥올림,Gukbab-olim,Campus Town,소내장탕,Sonaejangtang,cow organ soup,내장탕,Korean,9000,3,1,3,소고기,0,1,0
+국밥올림,Gukbab-olim,Campus Town,돼지국밥,Dwaejigukbap,Pork Soup,돼지국밥,Korean,9000,2,1,3,돼지고기,0,0,1
+국밥올림,Gukbab-olim,Campus Town,갈비만두,Galbi mandu,Beef short ribs dumpling,만두,Korean,6000,3,1,3,만두,0,0,1
+국밥올림,Gukbab-olim,Campus Town,얼큰 소고기 국밥,Eolkeun sogogi gukbap,Spicy beef soup (with rice),매운 국밥,Korean,10000,3,1,4,국,1,1,1
+국밥올림,Gukbab-olim,Campus Town,수육(대),Suyuk L,Braised pork L,수육,Korean,35000,2,1,2,돼지고기,0,0,1
+국밥올림,Gukbab-olim,Campus Town,수육(소),Suyuk S,Braisd pork S,수육,Korean,25000,2,1,2,돼지고기,0,0,1
+국밥올림,Gukbab-olim,Campus Town,모둠순대,Modeum sundae,Assorted blood sausage,순대,Korean,10000,1,1,2,돼지고기,0,0,1
+국밥올림,Gukbab-olim,Campus Town,순대국밥,Sundae guk bap,Blood sausage soup with rice,순대국밥,Korean,9000,2,1,4,돼지고기,0,0,1
+국밥올림,Gukbab-olim,Campus Town,제육정식,Jeyuk jeongsik,Stir fried spicy pork set menu,제육볶음,Korean,10000,3,1,4,돼지고기,0,0,1
+국밥올림,Gukbab-olim,Campus Town,편육,Pyeonyuk,braised pork,편육,Korean,10000,2,1,2,돼지고기,0,0,1
+김밥덕후,Gimbap Deokhu,Campus Town,우거지갈비탕,Ugeoji Galbitang,Cabbage and short rib soup,갈비탕,Korean,8000,3,1,2,소고기,0,1,0
+김밥덕후,Gimbap Deokhu,Campus Town,뚝배기삼겹,Ttugbaegi samgyeop,Pork Belly with Kimchi (in heated bowl),고기,Korean,8500,3,1,2,돼지고기,0,0,1
+김밥덕후,Gimbap Deokhu,Campus Town,덕후김밥,Deokhu gimbap,,김밥,Korean,3000,2,3,2,밥,1,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,김치김밥,Kimchi gimbap,,김밥,Korean,3500,3,1,2,밥,1,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,참치김밥,Tuna gimbap,,김밥,Korean,4000,2,1,2,밥,1,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,치즈김밥,Cheese gimbap,,김밥,Korean,4000,3,1,2,밥,1,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,땡초김밥,Ttaengcho gimbap,Hot Peppers Gimbap,김밥,Korean,4000,3,1,4,밥,1,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,불고기김밥,Bulgogi gimbap,,김밥,Korean,4000,3,1,2,밥,0,1,0
+김밥덕후,Gimbap Deokhu,Campus Town,매운불고기김밥,Spicy Bulgogi Gimbap,,김밥,Korean,4000,3,1,4,밥,0,1,0
+김밥덕후,Gimbap Deokhu,Campus Town,킹소세지김밥,King sausage gimbap,,김밥,Korean,4500,3,1,2,밥,0,0,1
+김밥덕후,Gimbap Deokhu,Campus Town,샐러드김밥,Salad gimbap,,김밥,Korean,4500,2,1,2,밥,1,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,삼겹살김밥,samgyeobsal gimbap,,김밥,Korean,5000,2,1,2,밥,0,0,1
+김밥덕후,Gimbap Deokhu,Campus Town,김치볶음밥,Kimchi bokkeumbap,Kimchi Fried Rice,김치볶음밥,Korean,6500,3,1,3,밥,1,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,참치김치볶음밥,Chamchi kimchi bokkeumbap,Tuna Kimchi Fried Rice,김치볶음밥,Korean,7000,3,1,3,밥,0,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,삼겹살김치찌개,Samgyeobsal kimchi jjigae,Kimchi Pork belly stew,김치찌개,Korean,8000,3,1,3,돼지고기,0,0,1
+김밥덕후,Gimbap Deokhu,Campus Town,김치찌개,kimchi jjigae,,김치찌개,Korean,6500,3,1,3,김치,1,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,스팸김치찌개,Spam kimchi jjigae,Spam kimchi soup,김치찌개,Korean,7000,4,1,3,돼지고기,0,0,1
+김밥덕후,Gimbap Deokhu,Campus Town,참치김치찌개,Chamchi kimchi jjigae,Tuna Kimchi Stew,김치찌개,Korean,7000,3,1,3,참치,0,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,닭갈비덮밥,Dakgalbideopbap,Chicken Rice Bowl,닭갈비덮밥,Korean,7500,3,1,3,닭고기,0,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,왕돈가스,Wang donkatsu,Big Pork Cutlet,돈까스,Korean,8000,2,1,2,돼지고기,0,0,1
+김밥덕후,Gimbap Deokhu,Campus Town,치즈돈가스,Cheese donkatsu,Cheese Pork Cutlet,돈까스,Korean,8000,3,2,2,돼지고기,0,0,1
+김밥덕후,Gimbap Deokhu,Campus Town,고구마돈가스,Goguma donkatsu,Sweet potato pork Cutlet,돈까스,Korean,8000,2,2,2,돼지고기,0,0,1
+김밥덕후,Gimbap Deokhu,Campus Town,돈가스 세트,Donkatsu set,Pork Cutlet Set,돈까스,Korean,12000,2,2,2,돼지고기,0,0,1
+김밥덕후,Gimbap Deokhu,Campus Town,동태찌개,Dontae jjigae,Pollack stew,동태찌개,Korean,8000,3,1,3,동태,0,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,된장찌개,Doenjang jjigae,Soy Bean Paste Soup,된장찌개,Korean,6500,3,1,3,된장,1,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,청국장,Chonggukjang,Cheonggukjang,된장찌개,Korean,6500,4,1,3,된장,1,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,사골떡국,Sagoltteokguk,Rice cake bone soup,떡국/만두국,Korean,7000,3,1,2,떡,0,0,1
+김밥덕후,Gimbap Deokhu,Campus Town,사골만두국,Sagolmanduguk,Dumpling bone Soup,떡국/만두국,Korean,7000,3,1,2,만두,0,0,1
+김밥덕후,Gimbap Deokhu,Campus Town,사골떡만두국,Sagoltteokmanduguk,Rice cake and dumpling bone soup,떡국/만두국,Korean,7000,3,1,2,떡,0,0,1
+김밥덕후,Gimbap Deokhu,Campus Town,떡볶이,Tteokbokki,Spicy rice cake,떡볶이,Korean,5000,3,2,3,떡,1,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,라볶이,Rabokki,Spicy rice cake with ramyun noodles,떡볶이,Korean,5000,3,2,3,떡,1,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,쫄볶이,Jjolbokki,Spicy rice cake with stringy noodles,떡볶이,Korean,5000,3,2,3,떡,1,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,라면,Ramyeon,Ramen,라면,Korean,3500,3,1,3,면,1,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,떡라면,Tteok ramyeon,Rice cake ramen,라면,Korean,4000,3,1,3,면,1,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,치즈라면,Cheese ramyeon,Cheese ramen,라면,Korean,4000,4,2,3,면,1,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,만두라면,Mandu ramyeon,Ramen with Dumplings,라면,Korean,4000,3,1,3,면,1,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,짬뽕라면,Jjamppong ramyeon,Spicy seafood ramen,라면,Korean,5000,4,1,3,면,1,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,새우볶음밥,Shrimp Fried Rice,,볶음밥,Korean,7500,2,1,2,밥,1,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,소고기볶음밥,Beef Fried Rice,,볶음밥,Korean,7500,2,1,2,밥,1,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,계란볶음밥,Egg Fried Rice,,볶음밥,Korean,7000,2,1,2,밥,1,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,햄야채볶음밥,Ham vegetable fried rice,,볶음밥,Korean,7000,2,1,2,밥,1,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,부대찌개,Budaejjigae,,부대찌개,Korean,8000,4,1,3,돼지고기,0,0,1
+김밥덕후,Gimbap Deokhu,Campus Town,뚝배기불고기,Ttukbaegi bulgogi,Grilled Bulgogi,불고기,Korean,8000,4,1,2,소고기,0,1,0
+김밥덕후,Gimbap Deokhu,Campus Town,불고기덮밥,bulgogi deopbap,Bulgogi Rice Bowl,불고기덮밥,Korean,8000,3,1,2,소고기,0,1,0
+김밥덕후,Gimbap Deokhu,Campus Town,비빔국수,Bibimguksu,Bibim noodles,비빔국수,Korean,6000,2,1,3,면,1,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,쫄면,Jjolmyeon,Spicy mixed noodles,비빔국수,Korean,6000,2,1,3,면,1,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,알밥,Albap,Fish egg rice bowl,비빔밥,Korean,6500,2,1,2,밥,1,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,비빔밥,Bibimbap,,비빔밥,Korean,6000,2,1,3,밥,1,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,돌솥비빔밥,Dolsot bibimbap,Stone bowl bibimbap,비빔밥,Korean,6500,2,1,3,밥,1,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,고등어구이백반,Godeungeogui baekban,Grilled Mackerel Set Menu,생선구이,Korean,9000,2,1,2,생선,0,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,고등어 김치 조림,Godeungeo kimchi jorim,Braised mackerel and kimchi stew,생선조림,Korean,7000,3,1,3,생선,0,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,순두부찌개,Sundubu jjigae,Suntofu Stew,순두부찌개,Korean,6500,4,1,3,돼지고기,0,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,알탕,Altang,Fish egg stew,알탕,Korean,8000,2,1,3,해산물,0,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,오므라이스,Omurice,,오므라이스,Korean,7000,2,2,2,계란,0,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,김치오므라이스,Kimchi omurice,,오므라이스,Korean,7000,3,2,2,계란,0,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,오징어 덮밥,Ojingeo deopbap,Squid Rice Bowl,오징어덮밥,Korean,8000,3,1,3,오징어,0,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,우동,Udon,,우동,Japanese,5500,3,1,2,밀가루,1,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,김치우동,Kimchi udon,,우동,Japanese,5500,3,1,3,밀가루,1,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,육개장,Yukgaejang,Spicy beef soup,육개장,Korean,8000,3,1,3,소고기,0,1,0
+김밥덕후,Gimbap Deokhu,Campus Town,잔치국수,Janchiguksu,Soup noodles,잔치국수,Korean,5500,2,1,3,밀가루,1,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,제육덮밥,Jeyuk deopbap,Stir fried spicy pork rice bowl,제육덮밥,Korean,7500,3,1,4,돼지고기,0,0,1
+김밥덕후,Gimbap Deokhu,Campus Town,김치제육돌솥,Kimchi jeyuk dolsot,Kimchi spicy pork stone bowl,제육덮밥,Korean,7500,3,1,3,돼지고기,0,0,1
+김밥덕후,Gimbap Deokhu,Campus Town,오징어 제육 덮밥,Ojingeo jeyuk deopbap,Octopus spicy pork rice bowl,제육덮밥,Korean,8000,3,1,4,돼지고기,0,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,칼국수,Kalguksu,Soup noodles,칼국수,Korean,7000,3,1,3,면,0,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,김치칼국수,Kimchi kalguksu,Kimchi soup noodles,칼국수,Korean,7500,3,1,3,면,0,1,1
+김밥덕후,Gimbap Deokhu,Campus Town,황태해장국,Hwangtae haejang guk,Dried pollack hangover soup,해장국,Korean,7500,3,1,3,황태,0,1,1
+남해바다,The southern sea,Campus Town,생우럭매운탕 중,Saeng ureong maeuntang M,Spicy rock fish stew M,매운탕,Korean,25000,3,1,4,생선,0,1,1
+남해바다,The southern sea,Campus Town,생우럭매운탕 대,Saeng ureong maeuntang L,Spicy rock fish sew L,매운탕,Korean,35000,3,1,4,생선,0,1,1
+남해바다,The southern sea,Campus Town,모듬구이,Modeumgui,Assorted roasted seafood,생선구이,Korean,25000,3,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,삼치구이(점심),Samchigui,Grilled scomberomorini (Lunch),생선구이,Korean,10000,2,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,고등어구이(점심),Godeungeogui,Grilled Mackerel(Lunch),생선구이,Korean,10000,2,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,가리비찜,Garibijjim,Steamed Scallop,생선찜,Korean,30000,3,1,2,해물,0,1,1
+남해바다,The southern sea,Campus Town,알밥(점심),Albap,Fish roe rice bowl (Lunch),알밥,Korean,7000,2,1,2,해산물,0,1,1
+남해바다,The southern sea,Campus Town,해물알탕 중,Haemuraltang M,Seafood roe soup M,알탕,Korean,25000,2,1,3,해산물,0,1,1
+남해바다,The southern sea,Campus Town,해물알탕 대,Haemuraltang L,Seafood roe soup L,알탕,Korean,35000,2,1,3,해산물,0,1,1
+남해바다,The southern sea,Campus Town,알탕(점심),Altang,Fish roe soup(Lunch),알탕,Korean,9000,2,1,3,해산물,0,1,1
+남해바다,The southern sea,Campus Town,맑은 조개탕,Malgeun jogaetang,Clam soup,조개탕,Korean,20000,2,1,3,해산물,0,1,1
+남해바다,The southern sea,Campus Town,활어초밥(점심),Hwareo chobap,Fresh fish Sushi(Lunch),초밥,Korean,10000,2,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,연어초밥(점심),Yeoneo chobap,Salmon Sushi(Lunch),초밥,Korean,10000,2,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,모듬초밥,Modeum chobap,Assorted Sushi(Lunch),초밥,Korean,10000,2,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,바지락칼국수(점심),Bajirak kalguksu,Clam soup noodles,칼국수,Korean,7000,3,1,3,면,0,1,1
+남해바다,The southern sea,Campus Town,해물칼국수(점심),Haemul kalguksu,Seafood soup noodles,칼국수,Korean,8000,3,1,3,면,0,1,1
+남해바다,The southern sea,Campus Town,새우튀김,Saeu twigim,Fried Shrimp,튀김,Korean,15000,2,2,2,새우,0,1,1
+남해바다,The southern sea,Campus Town,오징어튀김,Ojingeo twigim,Fried Squid,튀김,Korean,15000,2,2,2,오징어,0,1,1
+남해바다,The southern sea,Campus Town,광어 소,Gwangeo S,Flatfish S,회,Korean,30000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,광어 중,Gwangeo M,Flatfish M,회,Korean,40000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,광어 대,Gwangeo L,Flatfish L,회,Korean,55000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,우럭 소,Ureok S,Rockfish S,회,Korean,30000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,우럭 중,Ureok M,Rockfish M,회,Korean,40000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,우럭 대,Uroek L,Rockfish L,회,Korean,55000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,연어 소,Yeoneo S,Salmon S,회,Korean,30000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,연어 중,Yeoneo M,Salmon M,회,Korean,40000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,연어 대,Yeoneo L,Salmon L,회,Korean,55000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,광어+우럭 소,Gwangeo + ureok S,Flatfish+Rockfish Sashimi S,회,Korean,30000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,광어+우럭 중,Gwangeo + ureok M,Flatfish+Rockfish Sashimi M,회,Korean,40000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,광어+우럭 대,Gwangeo + ureok L,Flatfish+Rockfish Sashimi L,회,Korean,55000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,광어+연어 소,Gwangeo + yeoneo S,Flatfish+Salmon Sashimi S,회,Korean,30000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,광어+연어 중,Gwangeo + yeoneo M,Flatfish+Salmon Sashimi M,회,Korean,40000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,광어+연어 대,Gwangeo + yeoneo L,Flatfish+Salmon Sashimi L,회,Korean,55000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,우럭+연어 소,Ureok + yeoneo S,Rockfish+Salmon Sashimi S,회,Korean,30000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,우럭+연어 중,Ureok + yeoneo M,Rockfish+Salmon Sashimi M,회,Korean,40000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,우럭+연어 대,Ureok + yeoneo L,Rockfish+Salmon Sashimi L,회,Korean,55000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,도미 중,Domi M,Snapper Sashimi M,회,Korean,50000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,도미 대,Domi L,Snapper Sashimi L,회,Korean,60000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,농어 중,Nongeo M,Bass Sashimi M,회,Korean,50000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,농어 대,Nongeo L,Bass Sashimi L,회,Korean,60000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,놀래미 중,Nollaemi M,Hexagrammidae Sashimi M,회,Korean,50000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,놀래미 대,Nollaemi L,Hexagrammidae Sashimi L,회,Korean,60000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,강도다리 중,Gangdodari M,Starry flounder Sashimi M,회,Korean,50000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,강도다리 대,Gangdodari L,Starry flounder Sashimi L,회,Korean,60000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,줄돔 중,Juldom M,Red sea bream Sashimi M,회,Korean,60000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,줄돔 대,Juldom L,Red sea bream Sashimi L,회,Korean,70000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,감성돔 중,Gamseongdom M,Black sea bream Sashimi M,회,Korean,60000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,감성돔 대,Gamseongdom L,Black sea bream Sashimi L,회,Korean,70000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,찰광어 중,Chalgwangeo M,Turbot Sashimi M,회,Korean,60000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,찰광어 대,Chalgwangeo L,Turbot Sashimi L,회,Korean,70000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,도다리회 세꼬시 소,Dodarihwae sekkosi S,Bone-in sliced flounder S,회,Korean,40000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,도다리회 세꼬시 중,Dodarihwae sekkosi M,Bone-in sliced flounder M,회,Korean,50000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,도다리회 세꼬시,Dodarihwae sekkosi L,Bone-in sliced flounder L,회,Korean,60000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,쥐치 세꼬시 소,Jwichi sekkosi S,Bone-in sliced filefish S,회,Korean,40000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,쥐치 세꼬시 중,Jwichi sekkosi M,Bone-in sliced filefish M,회,Korean,50000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,쥐치 세꼬시 대,Jwichi sekkosi L,Bone-in sliced filefish L,회,Korean,60000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,도다리+쥐치 소,Dodari + jwichi S,Flounder+Filefish S,회,Korean,40000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,도다리+쥐치 중,Dodari + jwichi M,Flounder+Filefish M,회,Korean,50000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,도다리+쥐치 대,Dodari + jwichi L,Flounder+Filefish L,회,Korean,60000,1,1,2,생선,0,1,1
+남해바다,The southern sea,Campus Town,남해물회,Namhae mulhwae,Namhae cold raw fish soup,회,Korean,40000,1,1,3,생선,0,1,1
+남해바다,The southern sea,Campus Town,오징어물회,Ojingeo mulhwae,Squid cold raw fish soup,회,Korean,25000,1,1,3,오징어,0,1,1
+남해바다,The southern sea,Campus Town,일반물회,Ilban mulhwae,cold raw fish soup,회,Korean,15000,1,1,3,생선,0,1,1
+남해바다,The southern sea,Campus Town,회무침,Hwaemuchim,Spicy raw fish salad,회,Korean,25000,2,1,3,생선,0,1,1
+남해바다,The southern sea,Campus Town,소라찜,Sorajjim,Steamed Conch,회,Korean,20000,1,1,2,소라,0,1,1
+남해바다,The southern sea,Campus Town,모듬해산물,Modeum haesanmul,Assorted seafood,회,Korean,40000,1,1,2,해산물,0,1,1
+남해바다,The southern sea,Campus Town,전복,Jeonbok,Abalone,회,Korean,30000,1,1,2,전복,0,1,1
+남해바다,The southern sea,Campus Town,문어,Muneo,Octopus,회,Korean,30000,1,1,2,문어,0,1,1
+남해바다,The southern sea,Campus Town,산낙지,Sannakji,Live octopus,회,Korean,20000,1,1,2,산낙지,0,1,1
+남해바다,The southern sea,Campus Town,해삼,Haesam,Sea cucumber,회,Korean,20000,1,1,2,해삼,0,1,1
+남해바다,The southern sea,Campus Town,개불,Gaebul,Spoon worm,회,Korean,20000,1,1,2,개불,0,1,1
+남해바다,The southern sea,Campus Town,가리비,Garibi,Scallop,회,Korean,20000,1,1,2,가리비,0,1,1
+남해바다,The southern sea,Campus Town,멍게,Meonggae,Sea squirt,회,Korean,15000,1,1,2,멍게,0,1,1
+남해바다,The southern sea,Campus Town,석화,Seokhwa,Oyster,회,Korean,15000,1,1,2,석화,0,1,1
+남해바다,The southern sea,Campus Town,회덮밥(점심),Hwae deopbap,Sashimi Bibimbap (Lunch),회덮밥,Korean,10000,2,1,3,생선,0,1,1
+노랑통닭 송도2호,Norangtongdak,Campus Town,"칼칼한 청양 치킨(오리지널,순살)","Kalkalhan cheongyang chicken (original, bonless)","Spicy pepper fried chicekn (original,boneless)",치킨,Korean,21000,3,1,4,닭고기,0,1,1
+노랑통닭 송도2호,Norangtongdak,Campus Town,"칼칼한 청양 치킨(오리지널,뼈)","Kalkalhan cheongyang chicken (original, bone in)","Spicy pepper fried chicekn (original, bone in)",치킨,Korean,21000,3,1,4,닭고기,0,1,1
+노랑통닭 송도2호,Norangtongdak,Campus Town,"칼칼한 청양 치킨(레귤러,순살)","Kalkalhan cheongyang chicken (regular, bonless)","Spicy pepper fried chicekn (regular,boneless)",치킨,Korean,19000,3,1,4,닭고기,0,1,1
+노랑통닭 송도2호,Norangtongdak,Campus Town,"뿌리노랑 치킨(오리지널,순살)","Ppurinorang chicken (original, bonless)","Ppuri yellow fried Chicken(original,boneless)",치킨,Korean,21000,3,2,2,닭고기,0,1,1
+노랑통닭 송도2호,Norangtongdak,Campus Town,"뿌리노랑 치킨(레귤러,순살)","Ppurinorang chicken (original, bone in)","Ppuri yellow fried Chicken(regular,boneless)",치킨,Korean,19000,3,2,2,닭고기,0,1,1
+노랑통닭 송도2호,Norangtongdak,Campus Town,"엄청 큰 후라이드 치킨(오리지널,순살)","Eomcheong keun fried chicken (original, bonless)","A very large fried Chicken(original,boneless)",치킨,Korean,18000,3,2,2,닭고기,0,1,1
+노랑통닭 송도2호,Norangtongdak,Campus Town,"엄청 큰 후라이드 치킨(오리지널,뼈)","Eomcheong keun fried chicken (original, bone in)","A very large fried Chicken(original,bone in)",치킨,Korean,18000,3,2,2,닭고기,0,1,1
+노랑통닭 송도2호,Norangtongdak,Campus Town,"엄청 큰 후라이드 치킨(레귤러,순살)","Eomcheong keun fried chicken (regular, bonless)","A very large fried Chicken(regular,boneless)",치킨,Korean,16000,3,2,2,닭고기,0,1,1
+노랑통닭 송도2호,Norangtongdak,Campus Town,"알싸한 마늘 치킨(오리지널,순살)","Alssahan maneul chicken (original, bonless)","Garlic fried Chicken(original,boneless)",치킨,Korean,21000,3,2,3,닭고기,0,1,1
+노랑통닭 송도2호,Norangtongdak,Campus Town,"알싸한 마늘 치킨(오리지널,뼈)","Alssahan maneul chicken (original, bone in)","Garlic fried Chicken(original,bone in)",치킨,Korean,21000,3,2,3,닭고기,0,1,1
+노랑통닭 송도2호,Norangtongdak,Campus Town,"알싸한 마늘 치킨(레귤러,순살)","Alssahan maneul chicken (regular, bonless)","Garlic fried Chicken(regular,boneless)",치킨,Korean,19000,3,2,3,닭고기,0,1,1
+노랑통닭 송도2호,Norangtongdak,Campus Town,"맵싸한 고추 치킨(오리지널,순살)","Maepssahan gochu chicken (original, bonless)","Chili fried Chicken(original,boneless)",치킨,Korean,20000,3,1,4,닭고기,0,1,1
+노랑통닭 송도2호,Norangtongdak,Campus Town,"맵싸한 고추 치킨(오리지널,)","Maepssahan gochu chicken (original, bone in)","Chili fried Chicken(original,bone in)",치킨,Korean,20000,3,1,4,닭고기,0,1,1
+노랑통닭 송도2호,Norangtongdak,Campus Town,"맵싸한 고추 치킨(레귤러,순살)","Maepssahan gochu chicken (regular, bonless)","Chili fried Chicken(regular,boneless)",치킨,Korean,18000,3,1,4,닭고기,0,1,1
+노랑통닭 송도2호,Norangtongdak,Campus Town,"엄청 큰 양념 치킨(오리지널,순살)","Eomcheon keun yagnyeom chicken (original, boneless)","Seasoned spicy fried Chicken(original,boneless)",치킨,Korean,20000,3,1,3,닭고기,0,1,1
+노랑통닭 송도2호,Norangtongdak,Campus Town,"엄청 큰 양념 치킨(오리지널,뼈)","Eomcheon keun yagnyeom chicken (original, bone in)","Seasoned spicy fried Chicken(original,bone in )",치킨,Korean,20000,3,1,3,닭고기,0,1,1
+노랑통닭 송도2호,Norangtongdak,Campus Town,"엄청 큰 양념 치킨(레귤러,순살)","Eomcheon keun yagnyeom chicken (regular, boneless)","Seasoned spicy fried Chicken(regular,boneless)",치킨,Korean,18000,3,1,3,닭고기,0,1,1
+노랑통닭 송도2호,Norangtongdak,Campus Town,"엄청 큰 깐풍 치킨(오리지널,순살)","Eomcheon keun kkanpung chicken (original, boneless)","Chinese chlil fried Chicken(original,boneless)",치킨,Korean,20000,3,2,3,닭고기,0,1,1
+노랑통닭 송도2호,Norangtongdak,Campus Town,"엄청 큰 깐풍 치킨(오리지널,뼈)","Eomcheon keun kkanpung chicken (original, bone in)","Chinese chlil fried Chicken(original,bone in)",치킨,Korean,20000,3,2,3,닭고기,0,1,1
+노랑통닭 송도2호,Norangtongdak,Campus Town,"엄청 큰 깐풍 치킨(레귤러,순살)","Eomcheon keun kkanpung chicken (regular, boneless)","Chinese chlil fried Chicken(regular,boneless)",치킨,Korean,18000,3,2,3,닭고기,0,1,1
+노랑통닭 송도2호,Norangtongdak,Campus Town,"바삭 누룽지 치킨(오리지널,순살)","basak nurungji chicken (original, boneless)","Crispy rice fried Chicken(original,boneless)",치킨,Korean,20000,3,2,2,닭고기,0,1,1
+노랑통닭 송도2호,Norangtongdak,Campus Town,"바삭 누룽지 치킨(오리지널,뼈)","basak nurungji chicken (original, bone in)","Crispy rice fried Chicken(original,bone in)",치킨,Korean,20000,3,2,2,닭고기,0,1,1
+노랑통닭 송도2호,Norangtongdak,Campus Town,"바삭 누룽지 치킨(레귤러,순살)","basak nurungji chicken (regular, boneless)","Crispy rice fried Chicken(regular,boneless)",치킨,Korean,18000,3,2,2,닭고기,0,1,1
+노랑통닭 송도2호,Norangtongdak,Campus Town,"파닭 후라이드 치킨(오리지널,순살)","Padak fried chicken (original, boneless)","Green onion fried Chicken(original,boneless)",치킨,Korean,20000,3,2,3,닭고기,0,1,1
+노랑통닭 송도2호,Norangtongdak,Campus Town,"파닭 후라이드 치킨(오리지널,)","Padak fried chicken (original, bone in)","Green onion fried Chicken(original,bone in)",치킨,Korean,20000,3,2,3,닭고기,0,1,1
+노랑통닭 송도2호,Norangtongdak,Campus Town,"간장 THE한 치킨(오리지널,순살)","Ganjang THE han chicken (original, boneless)","Soy sauce fried Chicken(original,boneless)",치킨,Korean,21000,4,2,2,닭고기,0,1,1
+노랑통닭 송도2호,Norangtongdak,Campus Town,"간장 THE한 치킨(오리지널,뼈)","Ganjang THE han chicken (original, bone in)","Soy sauce fried Chicken(original,bone in)",치킨,Korean,21000,4,2,2,닭고기,0,1,1
+노랑통닭 송도2호,Norangtongdak,Campus Town,"간장 THE한 치킨(레귤러,순살)","Ganjang THE han chicken (regular, boneless)","Soy sauce fried Chicken(regular,boneless)",치킨,Korean,19000,4,2,2,닭고기,0,1,1
+노랑통닭 송도2호,Norangtongdak,Campus Town,"고추장 THE한 치킨(오리지널,순살)","Gochujang THE han chicken (original, boneless)","Gochujang fried Chicken(original,boneless)",치킨,Korean,21000,3,1,3,닭고기,0,1,1
+노랑통닭 송도2호,Norangtongdak,Campus Town,"고추장 THE한 치킨(오리지널,뼈)","Gochujang THE han chicken (original, bone in)","Gochujang fried Chicken(original,bone in)",치킨,Korean,21000,3,1,3,닭고기,0,1,1
+노랑통닭 송도2호,Norangtongdak,Campus Town,"고추장 THE한 치킨(레귤,순살)","Gochujang THE han chicken (regular, boneless)","Gochujang fried Chicken(regular,boneless)",치킨,Korean,19000,3,1,3,닭고기,0,1,1
+동대문엽기떡볶이,Dongdaemoon Tteokboki (Spicy Rice Cake),Campus Town,계란찜,Gyeranjjim,Steamed egg,계란찜,Korean,2000,1,2,1,달걀,1,1,1
+동대문엽기떡볶이,Dongdaemoon Tteokboki (Spicy Rice Cake),Campus Town,주먹김밥,Jumeok gimbap,Rice balls,김밥,Korean,2000,2,2,2,밥,1,1,1
+동대문엽기떡볶이,Dongdaemoon Tteokboki (Spicy Rice Cake),Campus Town,꿔바로우,Kkwobarou,Sweet and sour pork,꿔바로우,Korean,5900,2,2,2,돼지고기,0,0,1
+동대문엽기떡볶이,Dongdaemoon Tteokboki (Spicy Rice Cake),Campus Town,엽기 무뼈닭발,Yeopgi Muppyeodakbal,Spicy Chicken feet (no bone),닭발,Korean,15000,3,2,4,닭발,0,1,1
+동대문엽기떡볶이,Dongdaemoon Tteokboki (Spicy Rice Cake),Campus Town,엽기 국물닭발,Yeopgi Gungmul dakbal,Spicy Chicken feet soup (no bone),닭발,Korean,15000,3,2,4,닭발,0,1,1
+동대문엽기떡볶이,Dongdaemoon Tteokboki (Spicy Rice Cake),Campus Town,엽기 오돌뼈,Yeopgi odolppyeo,Spicy bone marrow,닭발,Korean,14000,3,2,4,닭발,0,1,1
+동대문엽기떡볶이,Dongdaemoon Tteokboki (Spicy Rice Cake),Campus Town,닭발 세트 (닭발메뉴 + 주먹김밥 + 계란찜),Dakbal Set,Chicken Foot Set (Chicken Feet Menu + Pork Gimbap + Egg Steamed),닭발,Korean,17500,3,2,4,닭발,0,1,1
+동대문엽기떡볶이,Dongdaemoon Tteokboki (Spicy Rice Cake),Campus Town,엽기오돌뼈밥,Yeopgi odolppyeo bap,Spicy bone marrow with rice,닭발,Korean,4500,3,2,4,닭발,0,1,1
+동대문엽기떡볶이,Dongdaemoon Tteokboki (Spicy Rice Cake),Campus Town,엽기닭볶음탕,Yeopgi dakbokeumtang,Spicy chicken stew,닭볶음탕,Korean,24000,3,2,4,닭고기,0,1,1
+동대문엽기떡볶이,Dongdaemoon Tteokboki (Spicy Rice Cake),Campus Town,엽기떡볶이,Yeopgi tteokbokki,Yeopgi rice cake,떡볶이,Korean,14000,3,2,4,떡,1,1,1
+동대문엽기떡볶이,Dongdaemoon Tteokboki (Spicy Rice Cake),Campus Town,로제떡볶이,Rose tteokbokki,Rose spicy rice cake,떡볶이,Korean,16000,3,2,3,떡,1,1,1
+동대문엽기떡볶이,Dongdaemoon Tteokboki (Spicy Rice Cake),Campus Town,짜장떡볶이,Jjajang tteokbokki,Black bean sauce rice cake,떡볶이,Korean,16000,3,2,3,떡,1,1,1
+동대문엽기떡볶이,Dongdaemoon Tteokboki (Spicy Rice Cake),Campus Town,마라떡볶이,Mala tteokbokki,Mala spicy rice cake,떡볶이,Korean,16000,3,2,4,떡,1,1,1
+동대문엽기떡볶이,Dongdaemoon Tteokboki (Spicy Rice Cake),Campus Town,2인 엽떡,Yeoptteok for two,Spicy rice cake for two,떡볶이,Korean,9000,3,2,4,떡,1,1,1
+동대문엽기떡볶이,Dongdaemoon Tteokboki (Spicy Rice Cake),Campus Town,실속 세트 (떡볶이 + 주먹김밥 + 모둠튀김),Silsok set (tteokbokki + jumeokgimbap + modumtwigim),Rice cake + rice balls + assorted fried food,떡볶이,Korean,17500,3,2,4,떡,1,1,1
+동대문엽기떡볶이,Dongdaemoon Tteokboki (Spicy Rice Cake),Campus Town,베스트 세트 (떡볶이 + 주먹김밥 + 모둠튀김 + 중국당면),Best set (tteokbokki + jumeokgimbap +modumtwigim + junggukdangmyueon),Rice cake + rice balls + assorted fried food + chinese glass noodles,떡볶이,Korean,20000,3,2,4,떡,1,1,1
+동대문엽기떡볶이,Dongdaemoon Tteokboki (Spicy Rice Cake),Campus Town,스페셜 세트 (떡볶이 + 주먹김밥 + 모둠튀김 + 중국당면 + 엽봉),Special set (tteokboki + jumeokgimbap + modumtwigim + junggukdangmyeon + yeopbong),Rice cake + rice balls + assorted fried food + chinese glass noodles + yeopbong,떡볶이,Korean,25000,3,2,4,떡,1,1,1
+동대문엽기떡볶이,Dongdaemoon Tteokboki (Spicy Rice Cake),Campus Town,순대,Sundae,Blood sausage,순대,Korean,3000,1,1,2,돼지고기,0,0,1
+동대문엽기떡볶이,Dongdaemoon Tteokboki (Spicy Rice Cake),Campus Town,엽봉,Yeopbong,,엽봉,Korean,5000,2,1,2,닭고기,0,1,1
+동대문엽기떡볶이,Dongdaemoon Tteokboki (Spicy Rice Cake),Campus Town,오뎅탕,Odengtang,Fish cake soup,오뎅탕,Korean,6000,3,1,3,오뎅,0,1,1
+동대문엽기떡볶이,Dongdaemoon Tteokboki (Spicy Rice Cake),Campus Town,참치마요밥,Chamchi mayo bap,Tuna mayo kimbap,주먹밥,Korean,3500,2,1,2,참치,0,1,1
+동대문엽기떡볶이,Dongdaemoon Tteokboki (Spicy Rice Cake),Campus Town,계란야채죽,Gyeranyachae juk,Egg vegetable porridge,죽,Korean,5000,2,2,1,야채,1,1,1
+동대문엽기떡볶이,Dongdaemoon Tteokboki (Spicy Rice Cake),Campus Town,오뎅튀김,Odeng twigim,Fried fish cake,튀김,Korean,2000,2,2,2,생선,0,1,1
+동대문엽기떡볶이,Dongdaemoon Tteokboki (Spicy Rice Cake),Campus Town,오징어튀김,Ojingeo twigim,Fried Squid,튀김,Korean,1000,2,2,2,오징어,0,1,1
+동대문엽기떡볶이,Dongdaemoon Tteokboki (Spicy Rice Cake),Campus Town,김말이,Gimmari,Fried seaweed roll with glass noodles,튀김,Korean,2000,2,2,2,김,1,1,1
+동대문엽기떡볶이,Dongdaemoon Tteokboki (Spicy Rice Cake),Campus Town,야채튀김,Yachae twigim,Fried vegetables,튀김,Korean,1000,2,2,2,야채,1,1,1
+동대문엽기떡볶이,Dongdaemoon Tteokboki (Spicy Rice Cake),Campus Town,만두,Mandu,Dumpling,튀김,Korean,2000,2,2,2,만두,0,0,1
+동대문엽기떡볶이,Dongdaemoon Tteokboki (Spicy Rice Cake),Campus Town,모둠 튀김,Modeum twigim,Assorted fried food,튀김,Korean,2000,2,2,2,모둠,0,1,1
+동대문엽기떡볶이,Dongdaemoon Tteokboki (Spicy Rice Cake),Campus Town,바삭치즈만두,Basak cheese mandu,Crispy cheese dumplings,튀김,Korean,2000,2,2,2,만두,0,1,1
+동대문엽기떡볶이,Dongdaemoon Tteokboki (Spicy Rice Cake),Campus Town,엽도그,Yeopdog,corndog,튀김,Korean,2000,2,2,2,돼지고기,0,1,1
+레드문,Red Moon,Campus Town,감바스 피칸테,Gambas piccante,Gambas al Ajillo,감바스,Western,16900,1,2,2,새우,1,1,1
+레드문,Red Moon,Campus Town,알감자&랜치소스,Steamed Potato & Ranch Sauce,Steamed Potato & Ranch Sauce,감자,Western,11900,3,2,1,감자,1,1,1
+레드문,Red Moon,Campus Town,BBQ 플래터,BBQ Platter,,고기구이,Western,18900,3,1,2,돼지고기,0,0,0
+레드문,Red Moon,Campus Town,이태리 골벵이소면,Itaeri golbengisomyeon,Italian seasoned bai-top shell with rice noodles,골뱅이,Western,17900,2,2,4,골벵이,1,1,1
+레드문,Red Moon,Campus Town,멜론 반 통,Half of a Melon,Half of a Melon,과일,Western,11900,1,1,1,과일,1,1,1
+레드문,Red Moon,Campus Town,파인 반 통,Half of a Pineapple,Half of a Pineapple,과일,Western,11900,1,3,1,과일,1,1,1
+레드문,Red Moon,Campus Town,파인 멜론 반반,Half of a melon and half of a pineapple,Half of a melong and half of a pineapple,과일,Western,11900,1,3,1,과일,1,1,1
+레드문,Red Moon,Campus Town,레드문 떡볶이,Redmoon Tteokbokki,Red moon spicy rice cake,떡볶이,Korean,13900,3,2,3,떡,1,1,1
+레드문,Red Moon,Campus Town,베사메나쵸,Besame Nacho,,베사베나쵸,Western,13500,3,1,3,나쵸,1,1,1
+레드문,Red Moon,Campus Town,봉골레 수제비,Vongole Sujebi,,봉골레 수제비,Korean,17900,3,1,2,수제비,0,1,1
+레드문,Red Moon,Campus Town,어묵반 홍합반,Eomukban honghapban,Fish cake and mussel soup,오뎅탕,Japanese,19500,3,1,3,해산물,0,1,1
+레드문,Red Moon,Campus Town,버팔로&감자튀김,Buffalo & French Fries,,윙,Western,12900,4,1,2,닭고기,0,1,1
+레드문,Red Moon,Campus Town,해물 토마토 짬뽕,Haemul tomato jjamppong,Seafood Tomato spicy noodles,짬뽕,Western,18900,3,1,3,면,0,0,1
+레드문,Red Moon,Campus Town,치즈 플레이트,Cheese plate,Cheese Plate,치즈,Western,22500,2,1,1,치즈,0,1,1
+레드문,Red Moon,Campus Town,팝콘 치킨,Popcorn chicken,Popcorn Chicken,치킨,Western,14900,3,2,2,닭고기,0,1,1
+레드문,Red Moon,Campus Town,순살 크리스피 치킨,Sunsal crispy chicken,boneless crispy Chicken,치킨,Western,17900,3,2,2,닭고기,0,1,1
+레드문,Red Moon,Campus Town,로제 치킨,Rose chicken,Rose Chicken,치킨,Western,19500,3,2,3,닭고기,0,1,1
+레드문,Red Moon,Campus Town,트러플 감자튀김,Truffle gamjatwigim,Truffle french fries,튀김,Western,12900,2,2,2,감자,1,1,1
+레드문,Red Moon,Campus Town,스노윙치즈 포테이토,Snowing cheese potato,Snowing cheese potato,튀김,Western,10900,2,2,2,감자,1,1,1
+레드문,Red Moon,Campus Town,아라비아따 파스타,Arabiata pasta,Arabiata pasta,파스타,Western,14900,3,2,3,면,1,1,1
+레드문,Red Moon,Campus Town,레드문 크림 파스타,Redmoon cream pasta,Red Moon Cream Pasta,파스타,Western,14900,2,2,2,면,0,0,1
+레드문,Red Moon,Campus Town,쉬림프 봉골레 파스타,Shrimp vongole pasta,Shrimp vongole pasta,파스타,Western,14900,2,2,2,면,0,1,1
+레드문,Red Moon,Campus Town,페페로니 피자,Pepperoni pizza,Pepperoni Pizza,피자,Western,19900,4,1,2,빵,0,0,1
+레드문,Red Moon,Campus Town,트러플머쉬룸 피자,Truffle mushroom pizza,Truffle Mushroom Pizza,피자,Western,18900,3,1,2,빵,0,1,1
+레드문,Red Moon,Campus Town,불고기 피자,Bulgogi pizza,Bulgogi Pizza,피자,Western,19500,4,1,2,빵,0,1,0
+레드문,Red Moon,Campus Town,고르곤졸라 피자,Gorgonzola pizza,Gorgonzola Pizza,피자,Western,18900,3,2,2,빵,1,1,1
+레드문,Red Moon,Campus Town,포테이토 피자,Potato pizza,Potato Pizza,피자,Western,19900,3,1,2,빵,0,1,1
+레드문,Red Moon,Campus Town,쿼터파운드치즈 피자,Quarter pound cheese pizza,Quarter Pound Cheese Pizza,피자,Western,19900,4,1,2,빵,1,1,1
+레드문,Red Moon,Campus Town,레드문 하와이안 피자,Redmoon hawaiian pizza,Red Moon Hawaiian Pizza,피자,Western,18900,3,2,2,빵,0,0,1
+레드문,Red Moon,Campus Town,크리스피 하몽 피자,Crispy jamon pizza,Crispy jamon pizza,피자,Western,22500,3,2,2,빵,0,0,1
+레드문,Red Moon,Campus Town,반반 피자,Banban pizza,Half and half pizza,피자,Western,20900,3,1,2,빵,0,1,1
+레드문,Red Moon,Campus Town,하몽 플레이트,Jamon plate,Jamon plate,하몽,Western,26900,3,1,1,돼지고기,0,0,1
+레드문,Red Moon,Campus Town,하몽 멜론,Jamon melon,Jamon melon,하몽,Western,16900,2,1,1,돼지고기,0,0,1
+레드문,Red Moon,Campus Town,OK수수알전,OKsusualjeon,Corn pancake,전,Korean,11900,3,1,2,옥수수,1,1,1
+리김밥 송도캠퍼스타운점,Lee's Gimbap,Campus Town,리김밥,Lee gimbap,,김밥,Korean,3700,2,1,2,밥,1,1,1
+리김밥 송도캠퍼스타운점,Lee's Gimbap,Campus Town,야채김밥,Vegetable Gimbap,,김밥,Korean,3200,1,1,2,밥,1,1,1
+리김밥 송도캠퍼스타운점,Lee's Gimbap,Campus Town,달콤유부우엉김밥,Dalkom yubu ueong gimbap,Sweet fried tofu and burdock root Gimbap,김밥,Korean,4500,3,3,2,밥,1,1,1
+리김밥 송도캠퍼스타운점,Lee's Gimbap,Campus Town,무말랭이 마약김밥,Mumallaengi mayak gimbap,Seasoned dried radish Gimbap,김밥,Korean,4500,3,2,3,밥,1,1,1
+리김밥 송도캠퍼스타운점,Lee's Gimbap,Campus Town,매콤견과류 김밥,Maekom gyeongwaryu gimbap,Spicy nut Gimbap,김밥,Korean,4800,3,1,3,밥,1,1,1
+리김밥 송도캠퍼스타운점,Lee's Gimbap,Campus Town,참치김밥,Tuna gimbap,,김밥,Korean,4200,2,1,3,밥,0,1,1
+리김밥 송도캠퍼스타운점,Lee's Gimbap,Campus Town,크래미와사마요김밥,Wasabi mayonnaise crabmeat Gimbap,,김밥,Korean,4800,2,2,2,밥,0,1,1
+리김밥 송도캠퍼스타운점,Lee's Gimbap,Campus Town,허니치킨김밥,Honey chicken gimbap,,김밥,Korean,4800,3,3,2,밥,0,0,1
+리김밥 송도캠퍼스타운점,Lee's Gimbap,Campus Town,버섯불고기김밥,Mushroom Bulgogi Gimbap,,김밥,Korean,5000,3,2,2,밥,0,0,1
+리김밥 송도캠퍼스타운점,Lee's Gimbap,Campus Town,매콤제육김밥,Maekomjeyuk gimbap,Spicy pork Gimbap,김밥,Korean,5000,3,1,4,밥,0,0,1
+리김밥 송도캠퍼스타운점,Lee's Gimbap,Campus Town,에그돈가츠김밥,Egg donkatsu gimbap,Egg & pork cutlet Gimbap,김밥,Korean,5800,2,3,2,밥,0,0,1
+리김밥 송도캠퍼스타운점,Lee's Gimbap,Campus Town,에그쉬림프김밥,Egg & shrimp gimbap,,김밥,Korean,5800,2,3,2,밥,0,1,1
+리김밥 송도캠퍼스타운점,Lee's Gimbap,Campus Town,꼬마김밥(치즈제외),Kkoma gimbap (without cheese),Kids Gimbap(except cheese),김밥,Korean,2400,2,1,2,밥,1,1,1
+리김밥 송도캠퍼스타운점,Lee's Gimbap,Campus Town,꼬마김밥(치즈포함),Kkoma gimbap (with cheese),Kids Gimbap(include cheese),김밥,Korean,2900,3,2,2,밥,1,1,1
+리김밥 송도캠퍼스타운점,Lee's Gimbap,Campus Town,치즈듬뿍 견과류김밥,Cheese deumppung gyeongwaryu gimbap,Double cheese&spicy nut Gimbap,김밥,Korean,5800,3,3,2,밥,1,1,1
+리김밥 송도캠퍼스타운점,Lee's Gimbap,Campus Town,치즈듬뿍 제육김밥,Cheese deumppung jeyuk gimbap,Double cheese&spicy pork Gimbap,김밥,Korean,6000,3,3,3,밥,0,0,1
+리김밥 송도캠퍼스타운점,Lee's Gimbap,Campus Town,바삭 통 등심돈까스,Basak tong deungsim donkatsu,Sirloin pork cutlet,돈까스,Korean,8900,2,2,2,돼지고기,0,0,1
+리김밥 송도캠퍼스타운점,Lee's Gimbap,Campus Town,로제 통 등심돈까스,Rose tong deungsim donkatsu,Rose sauce Sirloin pork cutlet,돈까스,Korean,9500,3,2,2,돼지고기,0,0,1
+리김밥 송도캠퍼스타운점,Lee's Gimbap,Campus Town,바삭 함박 볼카츠,Basak hambak bolkatsu,Mince pork cutlet,돈까스,Korean,9500,2,2,2,돼지고기,0,0,1
+리김밥 송도캠퍼스타운점,Lee's Gimbap,Campus Town,국물떡볶이,Gungmul tteokbokki,Spicy rice cake (with more sauce),떡볶이,Korean,4500,3,2,3,떡,1,1,1
+리김밥 송도캠퍼스타운점,Lee's Gimbap,Campus Town,로제떡볶이,Rose tteokbokki,Rose spicy rice cake,떡볶이,Korean,6500,3,2,3,떡,1,1,1
+리김밥 송도캠퍼스타운점,Lee's Gimbap,Campus Town,라볶이,Rabokki,Spicy rice cake with ramyun noodles,떡볶이,Korean,6500,3,2,3,떡,1,1,1
+리김밥 송도캠퍼스타운점,Lee's Gimbap,Campus Town,리라면,Lee ramyeon,Lee Ramen,라면,Korean,4500,3,1,3,면,1,1,1
+리김밥 송도캠퍼스타운점,Lee's Gimbap,Campus Town,얼큰해물라면,Eolkeunhaemul ramyeon,Spicy seafood Ramen,라면,Korean,6500,3,1,4,면,1,1,1
+리김밥 송도캠퍼스타운점,Lee's Gimbap,Campus Town,소불고기덮밥,Sobulgogi deopbap,Bulgogi&Rice,불고기덮밥,Korean,8500,3,1,2,소고기,0,1,0
+리김밥 송도캠퍼스타운점,Lee's Gimbap,Campus Town,슬러시소바,Slushy soba noodles,,소바,Korean,7000,1,1,1,면,1,1,1
+리김밥 송도캠퍼스타운점,Lee's Gimbap,Campus Town,리우동,Lee udon,,우동,Korean,4500,3,1,2,밀가루,1,1,1
+리김밥 송도캠퍼스타운점,Lee's Gimbap,Campus Town,어묵우동,Fish cake Udon,,우동,Korean,5500,3,1,2,밀가루,1,1,1
+리김밥 송도캠퍼스타운점,Lee's Gimbap,Campus Town,순두부육개장&공기밥,Sundubuyukgaejang & gonggibap,Silk tofu spicy beef soup and rice,육개장,Korean,9000,3,1,3,소고기,0,1,0
+리김밥 송도캠퍼스타운점,Lee's Gimbap,Campus Town,제육덮밥,Jeyuk deopbap,Stir fried spicy pork rice bowl,제육덮밥,Korean,8500,3,1,4,돼지고기,0,0,1
+리김밥 송도캠퍼스타운점,Lee's Gimbap,Campus Town,채소밭쫄면,Chaesobat jjolmyeon,Spicy stringy noodles with vegetables,쫄면,Korean,7000,3,1,3,밀가루,1,0,1
+리김밥 송도캠퍼스타운점,Lee's Gimbap,Campus Town,치킨카레라이스,Chicken curry rice,Chicken curry rice,카레,Korean,8500,3,1,2,카레,0,1,1
+리김밥 송도캠퍼스타운점,Lee's Gimbap,Campus Town,새우카레라이스,Saeu curry rice,Shrimp curry rice,카레,Korean,8500,3,1,2,카레,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,케이준떡강정 S,Cajun tteokgangjeong S,Cajun fried rice cake S,닭강정,Korean,4200,3,2,3,닭고기,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,간장마늘떡강정 S,Ganjang maneull tteokgangjeong S,Soy sauce garlic fried rice cake S,닭강정,Korean,4400,4,2,3,닭고기,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,치파오떡강정 S,Chipao tteokgangjeong S,Qipao fried rice cake S,닭강정,Korean,4400,3,2,3,닭고기,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,케이준떡강정 R,Cajun tteokgangjeong R,Cajun fried rice cake R,닭강정,Korean,11500,3,2,3,닭고기,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,간장마늘떡강정 R,Ganjang maneull tteokgangjeong R,Soy sauce garlic fried rice cake R,닭강정,Korean,12000,4,2,3,닭고기,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,치파오떡강정 R,Chipao tteokgangjeong R,Qipao fried rice cake R,닭강정,Korean,12000,3,2,3,닭고기,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,꿀꽈배기싸이순살,kkulkkwabaegi ssai sunsal,Honey Chicken thigh,치킨,Korean,14900,3,2,2,닭고기,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,꿀간장누룽지싸이순살,Kkulganjang nurungji ssai sunsal,Honey soy sauce crispy rice Chicken thigh,치킨,Korean,14500,3,2,2,닭고기,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,마늘톡겨자싸이순살,Maneul tokgyeoja ssai sunsal,Garlic mustard Chicken thigh,치킨,Korean,14500,3,2,3,닭고기,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,꿀간장누룽지치킨,Kkulganjang nurungji chicken,Honey soy sauce crispy rice Chicken,치킨,Korean,19500,3,2,2,닭고기,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,마늘톡겨자치킨,Maneul tokgyeoja chicken,Garlic mustard Chicken,치킨,Korean,19500,3,2,3,닭고기,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,치즈뿌치싸이순살(체다),Cheese ppuchi ssai sunsal (cheddar),Cheddar cheese Chicken thigh,치킨,Korean,13900,4,2,2,닭고기,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,핫치즈싸이순살,Hot cheese ssai sunsal,Hot cheese Chicken thigh,치킨,Korean,14500,3,2,3,닭고기,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,치파오싸이순살,Chipao ssai sunsal,Qipao Chicken thigh,치킨,Korean,13900,3,2,3,닭고기,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,맘스양념싸이순살,Mom's yangyeom ssai sunsal,Seasoned spicy Chicken thigh,치킨,Korean,13900,3,2,3,닭고기,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,간장마늘싸이순살,Ganjang maneul ssai sunsal,Soy sauce garlic Chicken thigh,치킨,Korean,13900,4,2,3,닭고기,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,후라이드싸이순살,Fried ssai sunsal,Fried Chicken thigh,치킨,Korean,11900,3,2,2,닭고기,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,치즈뿌치(체다),Cheese,Cheddar cheese Chicken,치킨,Korean,18900,4,2,2,닭고기,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,간장마늘치킨,Ganjang maneul chicken,Soy Sauce Garlic Chicken,치킨,Korean,18900,4,2,3,닭고기,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,맘스양념치킨,Mom's yangyeom chicken,Seasoned spicy Chicken,치킨,Korean,18900,4,2,3,닭고기,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,후라이드치킨,Fried chicken,Fried Chicken,치킨,Korean,16900,3,2,2,닭고기,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,골드맥앤치즈비프버거,Gold mac and cheese beef burger,Gold Mac & Cheese Beef Burger,햄버거,Western,6700,4,1,2,빵,0,1,0
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,골드맥앤치즈치킨버거,Gold mac and cheese beef burger,Gold Mac & Cheese Chicken Burger,햄버거,Western,6200,4,1,2,빵,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,아라비아따치즈버거,Arabiata cheese burger,Arrabbiata cheese Burger,햄버거,Western,7100,3,1,3,빵,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,칠리새우버거,Chili saeu burger,Chili shrimp Burger,햄버거,Western,3800,3,1,3,빵,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,비프스테이크버거,Beef steak burger,Beef Steak Burger,햄버거,Western,6200,3,1,2,빵,0,1,0
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,청양마요미트볼버거,Cheongyang mayo meatball burger,Spicy mayonnaise meatball Burger,햄버거,Western,5900,3,1,3,빵,0,1,0
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,오리지널미트볼버거,Original meatball burger,Original meatball Burger,햄버거,Western,5900,3,1,2,빵,0,1,0
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,트리플딥치즈비프버거,Triple dipcheese beef burger,Triple dip cheese beef Burger,햄버거,Western,5800,3,1,2,빵,0,1,0
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,야채통통치킨버거,Yachae tongtong burger,Vegetable chicken Burger,햄버거,Western,5900,3,1,2,빵,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,갈릭바베큐치킨버거,Garlic barbecue chicken burger,Garlic Barbecue Chicken Burger,햄버거,Western,5900,4,1,2,빵,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,그릴드더블비프버거,Grilled double beef burger,Grilled double beef Burger,햄버거,Western,8700,3,1,2,빵,0,1,0
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,그릴드비프버거,Grilled beef burger,Grilled Beef Burger,햄버거,Western,5100,3,1,2,빵,0,1,0
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,트리플딥치즈싸이버거,Triple dipcheese ssai burger,Triple dip cheese thigh Burger,햄버거,Western,5400,4,1,2,빵,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,쉬림프싸이플렉스버거,Shrimp ssai flex burger,Shrimp thigh flex Burger,햄버거,Western,7000,3,1,2,빵,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,딥치즈싸이버거,Dipcheese ssai burger,Dip cheese thigh Burger,햄버거,Western,5100,4,1,2,빵,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,화이트갈릭싸이버거,White garlic ssai burger,White garlic thigh Burger,햄버거,Western,5200,3,1,2,빵,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,싸이플렉스버거,Ssai flex burger,Thigh flex Burger,햄버거,Western,7700,3,1,2,빵,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,새우불고기버거,Saeu bulgogi burger,Shrimp Bulgogi Burger,햄버거,Western,5700,3,1,2,빵,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,싸이버거,Ssai burger,Thigh Burger,햄버거,Western,4600,3,1,2,빵,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,불싸이버거,Bul ssai burger,Spicy thigh Burger,햄버거,Western,4800,3,1,4,빵,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,딥치즈버거,Dipcheese burger,Dip cheese Burger,햄버거,Western,4800,4,1,2,빵,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,인크레더블버거,Incredible burger,Incredible Burger,햄버거,Western,5700,3,1,2,빵,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,언빌리버블버거,Unbelievable burger,Unbelievable Burger,햄버거,Western,5900,3,1,2,빵,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,불고기버거,Bulgogi burger,Bulgogi Burger,햄버거,Western,3900,4,1,2,빵,0,1,0
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,통새우버거,Tongsaeu burger,Shrimp Burger R,햄버거,Western,3500,3,1,2,빵,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,화이트갈릭버거,White garlic burger,White Garlic Burger,햄버거,Western,4900,3,1,2,빵,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,디럭스불고기버거,Deluxe bulgogi burger,Deluxe Bulgogi Burger,햄버거,Western,5200,4,1,2,빵,0,1,0
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,할라피뇨통살버거,Jalapeno tongsal burger,Jalapeno Burger,햄버거,Western,4800,3,1,3,빵,0,1,1
+맘스터치 캠퍼스타운역점,Mom's Touch,Campus Town,휠렛버거,Fillet burger,Fillet Burger,햄버거,Western,4400,3,1,2,빵,0,1,0
+매일회사랑,Sushi Love Everyday,Campus Town,볼락매운탕,Bollangmaeuntang,Spicy bolak soup,매운탕,Korean,25000,3,1,4,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,매운탕 (별도),Maeuntang,Spicy seafood soup,매운탕,Korean,7000,3,1,4,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,모듬물회,Modeum mulhwae,Assorted sashimi,물회,Korean,15000,1,1,3,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,전복물회,Jeonboyyukoemulhwae,Abalone sashimi,물회,Korean,15000,1,1,3,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,우동,udon,,우동,Korean,4000,3,1,2,밀가루,1,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,조개탕,Jogaetang,Clam soup,조개탕,Korean,20000,2,1,3,해산물,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,활어초밥,hwareo chobap,Fresh fish sushi,초밥,Korean,12000,2,1,2,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,연어초밥,Yeoneo chobap,Salmon sushi,초밥,Korean,12000,2,1,2,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,날치알김쌈,Nalchial gimssam,Tobiko and seaweed sushi,초밥,Korean,10000,2,1,2,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,새우튀김,Saeu twigim,Shrimp Tempura,튀김,Korean,15000,2,2,2,새우,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,오징어튀김,Ojingeo twigim,Fried Squid,튀김,Korean,18000,2,2,2,오징어,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,산우럭튀김,Sanureok twigim,Fried rock fish,튀김,Korean,25000,2,2,2,우럭,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,볼락튀김,Bollak twigim,Fried mud fish,튀김,Korean,20000,2,2,2,볼락,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,산우럭탕 (중),Sanureoktang M,Fresh rockfish soup M,해물탕,Korean,30000,3,1,3,우럭,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,산우럭탕 (대),Sanureoktang L,Fresh rockfish soup L,해물탕,Korean,55000,3,1,3,우럭,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,광어 (포장) (소),Gwangeo (take away) (S),Flounder,회,Korean,23000,1,1,2,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,광어 (포장) (중),Gwangeo (take away) (M),Flounder,회,Korean,34000,1,1,2,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,광어 (포장) (대),Gwangeo (take away) (L),Flounder,회,Korean,45000,1,1,2,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,연어 (포장) (소),Yeoneo (take away) (S),Salmon,회,Korean,25000,1,1,2,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,연어 (포장) (중),Yeoneo (take away) (M),Salmon,회,Korean,38000,1,1,2,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,연어 (포장) (대),Yeoneo (take away) (L),Salmon,회,Korean,50000,1,1,2,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,도미 (포장) (중),Domi (take away) (S),Domi,회,Korean,50000,1,1,2,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,농어 (포장) (대),Nongeo (take away) (L),Bass,회,Korean,70000,1,1,2,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,도다리 세꼬시 (포장) (소),Dodari sekkosi (take away) (S),Packaged flounder (small),회,Korean,30000,1,1,2,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,도다리 세꼬시 (포장) (중),Dodari sekkosi (take away) (M),Packaged flounder (medium),회,Korean,45000,1,1,2,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,도다리 세꼬시 (포장) (대),Dodari sekkosi (take away) (L),Packaged flounder (large),회,Korean,60000,1,1,2,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,광어 (소),Gwangeo (S),Flatfish (small),회,Korean,33000,1,1,2,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,광어 (중),Gwangeo (M),Flatfish (medium),회,Korean,44000,1,1,2,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,광어 (대),Gwangeo (L),Flatfish (large),회,Korean,55000,1,1,2,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,광어 + 우럭 (소),Gwangeo + ureok (S),Flatfish + rockfish (small),회,Korean,35000,1,1,2,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,우럭 (중),Ureok (M),Rockfish (medium),회,Korean,48000,1,1,2,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,광어 + 연어 (대),Gwangeo + yeoneo (L),Flounder + Salmon (Large),회,Korean,60000,1,1,2,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,도미 (중),Domi (M),Sea bream (medium),회,Korean,60000,1,1,2,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,농어 (대),Nongeo (L),Bass (large),회,Korean,80000,1,1,2,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,도다리회 (소),Dodarihwae (S),Flounder sashimi (small),회,Korean,40000,1,1,2,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,도다리 세꼬시 (중),Dodari sekkosi (M),Flounder whole sashimi (medium),회,Korean,55000,1,1,2,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,쥐 치 세꼬시 (대),Jwichi sekkosi (L),Ratfish (large),회,Korean,70000,1,1,2,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,줄돔 (중),Juldom (M),Line bream (medium),회,Korean,70000,1,1,2,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,줄돔 (대),Juldom (L),Line bream (large),회,Korean,100000,1,1,2,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,감성돔,Gamseongdom,Black sea bream,회,Korean,999999,1,1,2,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,능성어,Neungseongeo,Grouper,회,Korean,999999,1,1,2,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,참소라,Chamsora,Conch,회,Korean,30000,1,1,2,소라,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,산낙지,Sannakji,Live Octopus,회,Korean,25000,1,1,2,낙지,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,해삼,Haesam,Sea Cucumber,회,Korean,25000,1,1,2,해삼,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,전복,Jeonbok,Abalone,회,Korean,30000,1,1,2,정복,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,멍게,Meongge,Sea ??Squirt,회,Korean,15000,1,1,2,멍게,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,소라찜,Sorajjim,Steamed conch,회,Korean,30000,1,1,2,소라,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,회무침,Hwaemuchim,Seasoned sashimi salad,회,Korean,30000,2,1,3,생선,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,전복치,Jeonbokchi,Abalone,회,Korean,100000,1,1,2,전복,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,도다리 + 우럭 (세꼬시) (중),Dodari + ureok (sekkosi) (M),Flounder + rockfish sashimi (medium),회,Korean,55000,1,1,2,해산물,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,도다리 + 우럭 (세꼬시) (대),Dodari + ureok (sekkosi) (L),Flounder + rockfish sashimi (large),회,Korean,70000,1,1,2,해산물,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,숭어 (소),Sungeo (S),Mullet (Small),회,Korean,35000,1,1,2,숭어,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,숭어 (중),Sungeo (M),Mullet (Middle),회,Korean,48000,1,1,2,숭어,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,숭어 (대),Sungeo (L),Mullet (Large),회,Korean,60000,1,1,2,숭어,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,갑오징어,Gabojingeo,Cuttlefish,회,Korean,45000,2,1,2,오징어,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,해삼 + 멍게 + 전복,Haesam + meongge + jeonbok,Sea Cucumber + Sea Urchin + Abalone,회,Korean,35000,1,1,2,해산물,0,1,1
+매일회사랑,Sushi Love Everyday,Campus Town,회덮밥,Hwae deopbap,Sashimi rice bowl,회덮밥,Korean,10000,2,1,3,생선,0,1,1
+백채김치찌개,Baekchae Kimchi Stew,Campus Town,통돼지 김치찌개 (단품) (1인분),Tongdwaeji kimchi jjigae (1 portion),Big slabs of pork kimchi stew (1 portion),김치찌개,Korean,9000,3,1,3,돼지고기,0,0,1
+백채김치찌개,Baekchae Kimchi Stew,Campus Town,통돼지 김치찌개 (1인 세트),Tongdwaeji kimchi jjigae (1 portion set menu),Big slabs of pork kimchi stew (1 portion set menu),김치찌개,Korean,12000,3,1,3,돼지고기,0,0,1
+백채김치찌개,Baekchae Kimchi Stew,Campus Town,통돼지 김치찌개 (2-3인 세트),Tongdwaeji kimchi jjigae (2-3 portion set menu),Big slabs of pork kimchi stew (2-3 portion set menu),김치찌개,Korean,24000,3,1,3,돼지고기,0,0,1
+백채김치찌개,Baekchae Kimchi Stew,Campus Town,통돼지 김치찌개 (3-4인 세트),Tongdwaeji kimchi jjigae (3-4 portion set menu),Big slabs of pork kimchi stew (3-4 portion set menu),김치찌개,Korean,33000,3,1,3,돼지고기,0,0,1
+백채김치찌개,Baekchae Kimchi Stew,Campus Town,통돼지 김치찌개 (4-5인 세트),Tongdwaeji kimchi jjigae (4-5 portion set menu),Big slabs of pork kimchi stew (4-5 portion set menu),김치찌개,Korean,42000,3,1,3,돼지고기,0,0,1
+백채김치찌개,Baekchae Kimchi Stew,Campus Town,달걀말이,Dalgyalmari,Egg Roll,달걀말이,Korean,7000,2,1,1,달걀,1,1,1
+백채김치찌개,Baekchae Kimchi Stew,Campus Town,치즈달걀말이,Cheese dalgyalmari,Cheese Egg Roll,달걀말이,Korean,8000,3,2,1,달걀,1,1,1
+백채김치찌개,Baekchae Kimchi Stew,Campus Town,통돼지 두루치기/ 짜글이 (단품) (1인분),Tongdwaeji duruchigi/ jjageuri (danpum),Pork stew (1 serving),두루치기/짜글이,Korean,11000,4,1,3,돼지고기,0,0,1
+백채김치찌개,Baekchae Kimchi Stew,Campus Town,통돼지 두루치기/ 짜글이 (2-3인 세트),Tongdwaeji duruchigi/ jjageuri (2-3 portion),Pork stew (2-3 serving),두루치기/짜글이,Korean,29000,4,1,3,돼지고기,0,0,1
+백채김치찌개,Baekchae Kimchi Stew,Campus Town,통돼지 두루치기/ 짜글이 (3-4인 세트),Tongdwaeji duruchigi/ jjageuri (3-4 portion),Pork stew (3-4 serving),두루치기/짜글이,Korean,39000,4,1,3,돼지고기,0,0,1
+백채김치찌개,Baekchae Kimchi Stew,Campus Town,통돼지 두루치기/ 짜글이 (4-5인 세트),Tongdwaeji duruchigi/ jjageuri (4-5 portion),Pork stew (4-5 serving),두루치기/짜글이,Korean,49000,4,1,3,돼지고기,0,0,1
+백채김치찌개,Baekchae Kimchi Stew,Campus Town,만두탕수,Mandutangsu,Sweet and sour dumplings,튀김,Korean,6000,2,2,2,만두,0,0,1
+백채김치찌개,Baekchae Kimchi Stew,Campus Town,햄구이,Hamgui,Toasted ham,햄구이,Korean,7000,3,1,2,돼지고기,0,0,1
+백채김치찌개,Baekchae Kimchi Stew,Campus Town,미니햄구이,Mini hamui,Mini Ham,햄구이,Korean,3000,3,1,2,돼지고기,0,0,1
+본가,Bonga (Home Food),Campus Town,"부대김치찌개 (계란후라이, 조미김, 공기밥)",Budae kimchi jjigae,"Army stew (w/ fried egg, seeweed, and rice)",김치찌개,Korean,9000,4,1,3,돼지고기,0,0,1
+본가,Bonga (Home Food),Campus Town,"참치김치찌개 (계란후라이, 조미김, 공기밥)",Chamchi kimchi jjigae,"Tuna Kimchi Stew (w/ fried egg, seaweed, and rice)",김치찌개,Korean,8000,3,1,3,참치,0,1,1
+본가,Bonga (Home Food),Campus Town,"삼겹김치찌개 (계란후라이, 조미김, 공기밥)",Samgyeop kimchi jjigae,"Pork Belly Kimchi Stew (w/ fried egg, seaweed, and rice)",김치찌개,Korean,8000,3,1,3,돼지고기,0,0,1
+본가,Bonga (Home Food),Campus Town,"해물순두부찌개 (계란후라이, 조미김, 공기밥)",Haemulsundub jjigae,"Seafood silk tofu stew (w/ fried egg, seaweed, and rice)",김치찌개,Korean,8000,3,1,3,해물,0,1,1
+본가,Bonga (Home Food),Campus Town,돈가스김치나베&공기밥 (제주생등심),Donkatsu kimchi nabe & gonggibap (Jeju saengdeungsim),Fried pork cutlet with kimchi and rice,나베,Korean,9500,3,2,3,돼지고기,0,0,1
+본가,Bonga (Home Food),Campus Town,뽕잎열무물냉면 (여름메뉴: 열무이야기),Ppongipyelomu mullaengmyeon,Mulberry leaf summer young radish kimchi cold noodles,냉면,Korean,8500,2,1,3,열무,1,1,1
+본가,Bonga (Home Food),Campus Town,뽕잎열무비빔냉면 (여름메뉴: 열무이야기),Ppongipyelomu bibimnaengmyeon,Mulberry leaf summer young radish kimchi spicy noodles,냉면,Korean,8500,2,1,3,열무,1,1,1
+본가,Bonga (Home Food),Campus Town,제육덮밥 (직화/ 비직화 선택가능),Jeyuk deopbap,Stir fried spicy pork bibimbap,덮밥,Korean,8000,3,1,4,밥,0,0,1
+본가,Bonga (Home Food),Campus Town,쭈꾸미덮밥 (직화/ 비직화 선택가능),Jjukkumi deopbap,Amphioctopus fangsiao rice bowl,덮밥,Korean,9000,3,1,4,밥,0,1,1
+본가,Bonga (Home Food),Campus Town,쭈꾸미&제육덮밥,Jjukkumi & jeyuk deopbap,Amphioctopus fangsiao and stir fried spicy porj rice bowl,덮밥,Korean,9500,3,1,4,밥,0,0,1
+본가,Bonga (Home Food),Campus Town,수제돈가스 (제주생등심),Suje donkatsu (Jeju saengdeungsim),Handmade pork cutlet,돈까스,Japanese,9000,2,2,2,돼지고기,0,0,1
+본가,Bonga (Home Food),Campus Town,치즈돈가스 (제주생등심),Cheese donkatsu (Jeju saengdeungsim),,돈까스,Japanese,10000,3,2,2,돼지고기,0,0,1
+본가,Bonga (Home Food),Campus Town,사골떡국,Sagoltteokguk,Rice cake bone soup,떡국/만두국,Korean,8000,3,1,2,떡,0,0,1
+본가,Bonga (Home Food),Campus Town,사골만둣국,Sagolmanduguk,Dumpling bone Soup,떡국/만두국,Korean,8000,3,1,2,만두,0,0,1
+본가,Bonga (Home Food),Campus Town,사골떡만둣국,Sagoltteokmanduguk,Rice cake and dumpling bone soup,떡국/만두국,Korean,8000,3,1,2,떡,0,0,1
+본가,Bonga (Home Food),Campus Town,김치베이컨볶음밥,Kimchi bacon bokkeumbap,Kimchi Bacon Fried Rice,볶음밥,Korean,8000,3,1,3,밥,1,1,1
+본가,Bonga (Home Food),Campus Town,참치김치볶음밥,Chamchi kimchi bokkeumbap,Tuna Kimchi Fried Rice,볶음밥,Korean,8000,3,1,3,밥,1,1,1
+본가,Bonga (Home Food),Campus Town,베이컨야채볶음밥,Bacon yachae bokkeumbap,Bacon vegetable fried rice,볶음밥,Western,8000,3,1,2,밥,1,1,1
+본가,Bonga (Home Food),Campus Town,불고기볶음밥,Bulgogi bokkeumbap,Bulgogi Fried Rice,볶음밥,Korean,8500,3,1,2,밥,1,1,1
+본가,Bonga (Home Food),Campus Town,불고기비빔밥,Bulgogi bibimbap,,볶음밥,Korean,9000,3,1,2,밥,1,1,1
+본가,Bonga (Home Food),Campus Town,"뚝배기 불고기 (계란후라이, 조미김, 공기밥)","Ttukbaegi bulgogi (gyeranhurai, jomigim, gonggibap)","Ttuki Bulgogi (Egg Fried, Seasoned Kim, Air Rice)",불고기,Korean,9000,3,1,2,소고기,0,1,0
+본가,Bonga (Home Food),Campus Town,쭈꾸미비빔밥,Jjukkumi bibimbap,Amphioctupus fangsiao bibimbap,비빔밥,Korean,9000,3,1,3,쭈꾸미,0,1,1
+본가,Bonga (Home Food),Campus Town,모밀소바 (냉),Momil soba,Buckwheat soba (cold),소바,Japanese,7500,2,1,2,면,1,1,1
+본가,Bonga (Home Food),Campus Town,알밥,Albap,Fish roe rice bowl,알밥,Korean,7500,2,1,2,해산물,0,1,1
+본가,Bonga (Home Food),Campus Town,치즈알밥,Cheese albap,Fish roe rice bowl w/ cheese,알밥,Korean,8500,3,2,2,해산물,0,1,1
+본가,Bonga (Home Food),Campus Town,열무물국수 (여름메뉴: 열무이야기),Yeolmumulguksu,Cold noodles with young summer radish kimchi,열무국수,Korean,8500,2,1,2,채소,1,1,1
+본가,Bonga (Home Food),Campus Town,열무비빔국수 (여름메뉴: 열무이야기),Yeolmubibimguksu,Spicy noodles with young summer radish kimchi,열무국수,Korean,8500,2,1,3,채소,1,1,1
+본가,Bonga (Home Food),Campus Town,오므라이스,Omurice,,오므라이스,Japanese,8000,3,2,2,계란,0,1,1
+본가,Bonga (Home Food),Campus Town,치즈오므라이스,Cheese omurice,,오므라이스,Japanese,9000,3,2,2,계란,0,1,1
+본가,Bonga (Home Food),Campus Town,김치치즈오므라이스,Kimchi cheese omurice,,오므라이스,Korean,9000,3,2,3,계란,0,1,1
+본가,Bonga (Home Food),Campus Town,유부우동,Yubu udon,,우동,Japanese,6000,3,1,2,밀가루,1,1,1
+본가,Bonga (Home Food),Campus Town,수제어묵우동,Fish cake udon,,우동,Japanese,7000,3,1,2,밀가루,1,1,1
+본가,Bonga (Home Food),Campus Town,새우튀킴우동,Fried shrimp udon,,우동,Japanese,7000,3,1,2,밀가루,1,1,1
+본가,Bonga (Home Food),Campus Town,김치우동,Kimchi udon,,우동,Korean,6500,3,1,2,밀가루,1,1,1
+본가,Bonga (Home Food),Campus Town,"본가 한우육개장 (계란후라이, 조미김, 공기밥)","Bonga hanuyukgaejang (gyeranhurai, jomigim, gonggibap)",Spicy korean beef soup (fried egg + salted seaweed + rice),육개장,Korean,9000,3,1,3,소고기,0,1,0
+본가,Bonga (Home Food),Campus Town,쫄면 (수제 소스),Jjolmyeon (sujae sauce),Noodles (Homemade Sauce),쫄면,Korean,7000,2,1,3,밀가루,1,0,1
+본가,Bonga (Home Food),Campus Town,돈카레볶음밥,Don curry rice,Pork curry fried rice,카레,Japanese,9000,3,1,2,카레,0,0,1
+본가,Bonga (Home Food),Campus Town,검은콩국수 (여름메뉴: 열무이야기),Geomeun kong guksu,Black Soybean Noodles (Summer Menu: Story Story),콩국수,Korean,8500,2,1,2,면,1,1,1
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,냉이불고기현미죽,Naengi bulgogi hyeonmi juk,Horseradish bulgogi brown rice porridge,죽,Korean,15000,2,1,2,소고기,0,1,0
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,진품쇠고기육개장죽(해장),Jinpum soegogi yukgaejang juk (haejang),Beef spicy soup porridge,죽,Korean,12000,3,1,3,소고기,0,1,0
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,쇠고기야채죽,Soegogi yachae juk,Beef vegetable Porridge,죽,Korean,11500,2,1,2,소고기,0,1,0
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,단호박죽,Danhobak juk,Pumpkin Porridge,죽,Korean,10500,2,2,2,단호박,1,1,1
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,낙지김치죽,Nakji gimchi juk,Live octopus kimchi Porridge,죽,Korean,11000,3,1,3,낙지,0,1,1
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,전복죽,Jeonbok juk,Abalone Porridge,죽,Korean,13000,2,1,2,전복,0,1,1
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,삼계죽,Samgyejuk,Chicken Porridge,죽,Korean,12000,2,1,2,닭고기,0,1,1
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,삼계전복죽,Samgyejeonbok juk,Chicken abalone Porridge,죽,Korean,16000,2,1,2,닭고기,0,1,1
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,진전복죽(전복2배),Jinjeonbok juk (double jeonbok),Double abalone Porridge,죽,Korean,17000,2,1,2,전복,0,1,1
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,특전복죽(전복3배),Teukjeonbokjuk (triple jeonbok),Triple abalone Porridge,죽,Korean,21000,2,1,2,전복,0,1,1
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,전복내장죽,Jeonboknaejang juk,Abalone guts Porridge,죽,Korean,15000,2,1,2,전복,0,1,1
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,진전복내장죽(전복2배),Jinjeonbongnaejang juk (double jeonbok),Double abalone guts Porridge,죽,Korean,19000,2,1,2,전복,0,1,1
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,특전복내장죽(전복3배),Teuk jeonbongnaejang juk (triple jeonbok),Triple abalone guts Porridge,죽,Korean,23000,2,1,2,전복,0,1,1
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,트러플전복죽(특)(전복2배),Truffle jeonbok juk (teuk) (double jeonbok),Truffle double abalone Porridge,죽,Korean,24000,2,1,2,전복,0,1,1
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,트러플전복죽,Truffle jeonbok juk,Truffle Abalone Porridge,죽,Korean,17000,2,1,2,전복,0,1,1
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,불낙죽,Bullakjuk,Bulgogi & live octopus Porridge,죽,Korean,12500,2,1,3,낙지,0,1,1
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,홍게품은죽,Honggepumeun juk,Red snow crab Porridge,죽,Korean,14000,2,1,2,게살,0,1,1
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,홍게품은죽(진)(홍게다리살2배),Honggepumeun juk (jin) (double honggedarisal),Double red snow crab Porridge,죽,Korean,19000,2,1,2,게살,0,1,1
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,홍게품은죽(특)(홍게다리살3배),Honggepumeun juk (jin) (triple honggedarisal),Triple red snow crab Porridge,죽,Korean,24000,2,1,2,게살,0,1,1
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,쇠고기버섯죽,Soegogi Beoseotjuk,Beef Mushroom Porridge,죽,Korean,11000,2,1,2,소고기,0,1,0
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,새우죽,Saeujuk,Shrimp Porridge,죽,Korean,9500,2,1,2,새우,0,1,1
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,특새우죽(새우2배),Teuk saeu juk (double saeu),Double shrimp Porridge,죽,Korean,12500,2,1,2,새우,0,1,1
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,해물죽,Haemul juk,Seafood Porridge,죽,Korean,11500,2,1,2,해산물,0,1,1
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,특해물죽(해물2배),Teuk haemul juk (double haemul),Double seafood Porridge,죽,Korean,14500,2,1,2,해산물,0,1,1
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,통영굴버섯죽,Tongyeong gulbeoseot juk,Oyster mushroom Porridge,죽,Korean,10000,2,1,2,해산물,0,1,1
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,특통영굴버섯죽(굴2배),Teuk tongyeong gulbeoseot juk (double gul),Double oyster mushroom Porridge,죽,Korean,13000,2,1,2,해산물,0,1,1
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,7가지야채죽,Ilgopgaji yachae juk,7 kinds vegetable Porridge,죽,Korean,9500,2,1,2,야채,1,1,1
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,참치야채죽,Chamchi yachae juk,Tuna vegetable Porridge,죽,Korean,10000,2,1,2,야채,1,1,1
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,쇠고기미역죽,Soegogi Mijyeokguk,Beef seaweed Porridge,죽,Korean,11000,2,1,2,소고기,0,1,0
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,흰죽,Huinjuk,White rice Porridge,죽,Korean,6000,1,1,1,쌀,1,1,1
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,신짬뽕죽,Sinjjamppong juk,Jjamppong Porridge,죽,Korean,11500,3,1,3,밀가루,1,1,1
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,매생이굴죽,Maesaengigul juk,Seaweed fulvescens oyster porridge,죽,Korean,11500,2,1,2,해산물,0,1,1
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,동지팥죽,Dongjipat juk,Red bean Porridge,죽,Korean,10000,1,1,2,팥,1,1,1
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,단팥죽,Danpat juk,Sweet red bean Porridge,죽,Korean,10500,1,2,2,팥,1,1,1
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,녹두죽,Nokdu juk,Mung bean Porridge,죽,Korean,9000,2,1,2,콩,1,1,1
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,잣죽,Jat juk,Pine nut Porridge,죽,Korean,13000,2,1,2,견과류,1,1,1
+본죽 송도캠퍼스타운,Bon porridge,Campus Town,흑임자죽,Heugimja juk,Black Sesame Porridge,죽,Korean,9000,2,1,2,흑임자,1,1,1
+생고기대학교,Fresh Meat University,Campus Town,흑돼지 생삼겹살 (150g) (불판 전용),Heukdwaeji saengsamgyeopsal (150g),Black pork belly (150G),고기구이,Korean,9900,2,1,2,돼지고기,0,0,1
+생고기대학교,Fresh Meat University,Campus Town,한돈 항정살 (300g) (불판 전용),Handon hangjeongsal (300g),Korean pig jowl meat (180G),고기구이,Korean,26500,2,1,2,돼지고기,0,0,1
+생고기대학교,Fresh Meat University,Campus Town,대패삼겹살 (100g) (불판 전용),Daepae samgyeobsal (100g),Thinly sliced pork belly (100G),고기구이,Korean,4800,2,1,2,돼지고기,0,0,1
+생고기대학교,Fresh Meat University,Campus Town,한돈 갈비꽃살 (300g) (숯불 전용),Handon galbikkotsal (300g) (barbecue only),Korean pig spare rib (300G),고기구이,Korean,26500,2,1,2,돼지고기,0,0,1
+생고기대학교,Fresh Meat University,Campus Town,흑돼지 목살 (150g) (숯불 전용),Heukdwaeji moksal (150g) (barbecue only),Black pig collar (150G),고기구이,Korean,9900,2,1,2,돼지고기,0,0,1
+생고기대학교,Fresh Meat University,Campus Town,연탄 불고기 (300g) (숯불 전용),Yeontan bulgogi (300g),Bulgogi (cooked with briquet) (300G),고기구이,Korean,18500,2,1,2,소고기,0,0,1
+생고기대학교,Fresh Meat University,Campus Town,연탄 제육 불고기 (300g) (숯불 전용),Yeontan jeyukbokkeum (300g),Stir fried spicy pork belly (cooked with briquet) (300G),고기구이,Korean,18500,2,1,4,소고기,0,0,1
+생고기대학교,Fresh Meat University,Campus Town,오리훈제반마리 (400g) (불판 전용),Orihunje banmari (400g),Smoked 1/2 duck (400G),고기구이,Korean,18500,2,1,2,오리고기,0,1,1
+생고기대학교,Fresh Meat University,Campus Town,냉장 소갈비살 (150g) (숯불 전용),Naengjang sogalbisal (150g),Beef short ribs (150G),고기구이,Korean,16000,2,1,2,소고기,0,1,0
+생고기대학교,Fresh Meat University,Campus Town,냉장 토시살 (150g) (숯불 전용),Naengjang tosisal (150g),Beef hanging tender (150G),고기구이,Korean,16000,2,1,2,소고기,0,1,0
+생고기대학교,Fresh Meat University,Campus Town,A Set - 돼지고기 무한리필,A Set -Pork Infinite Refill,,고기구이,Korean,16800,2,1,2,돼지고기,0,0,1
+생고기대학교,Fresh Meat University,Campus Town,B Set - 돼지오리 무한리필,B Set -Pig Duck Unlimited Refill,,고기구이,Korean,18800,2,2,2,돼지고기,0,0,1
+생고기대학교,Fresh Meat University,Campus Town,C Set - 소고기 무한리필,C Set -Beef Unlimited Refill,,고기구이,Korean,32800,2,1,2,소고기,0,1,0
+서당골토종순대국,Seodangol-pork stew,Campus Town,순대 곱창전골 중,Sundae gopchangjeongol (M),Blood sausage intestine hot pot M,곱창,Korean,33000,3,1,4,순대,0,0,1
+서당골토종순대국,Seodangol-pork stew,Campus Town,순대 곱창전골 대,Sundae gopchangjeongol (L),Blood sausage intestine hot pot L,곱창,Korean,38000,3,1,4,순대,0,0,1
+서당골토종순대국,Seodangol-pork stew,Campus Town,순대모둠수육(중),Sundae modum suyuk M,Assorted blood sausage and braised pork M,수육,Korean,30000,1,1,2,돼지고기,0,0,1
+서당골토종순대국,Seodangol-pork stew,Campus Town,순대모둠수육(대),Sundae modum suyuk L,Assorted blood sausage and braised pork L,수육,Korean,35000,1,1,2,돼지고기,0,0,1
+서당골토종순대국,Seodangol-pork stew,Campus Town,토종순대,Tojong sundae,Korean style blood sausage,순대,Korean,10000,1,1,2,돼지고기,0,0,1
+서당골토종순대국,Seodangol-pork stew,Campus Town,순대국,Sundae guk,Blood sausage soup,순대국,Korean,9000,2,1,3,돼지고기,0,0,1
+서당골토종순대국,Seodangol-pork stew,Campus Town,순대국(특),Sundae guk large,Blood sausage soup large,순대국,Korean,10000,2,1,3,돼지고기,0,0,1
+서당골토종순대국,Seodangol-pork stew,Campus Town,순대곱창볶음,Sundae gopchang bokkeum,Stir fried blood sausage,순대볶음,Korean,28000,4,1,4,돼지고기,0,0,1
+송도양꼬치 캠퍼스타운점,Songdo Lamb skewers,Campus Town,양갈비 프렌치렉,Yanggalbi french rack,Lamb ribs sirloin,양갈비,Korean,38000,3,1,2,양고기,0,1,1
+송도양꼬치 캠퍼스타운점,Songdo Lamb skewers,Campus Town,양갈비 숄더렉,Yanggalbi shoulder rack,Lamb ribs shoulder,양갈비,Korean,32000,3,1,2,양고기,0,1,1
+송도양꼬치 캠퍼스타운점,Songdo Lamb skewers,Campus Town,송양꼬치,Songyang kkochi,Lamb skewers,양꼬치,Korean,14000,3,1,2,양고기,0,1,1
+송도족발149,Songdo Jokbal149,Campus Town,1인족발,Jokbal for one,Pig's trotter for one,족발,Korean,20000,2,1,2,돼지고기,0,0,1
+송도족발149,Songdo Jokbal149,Campus Town,깐풍족발 중,Kkanpung jokbal M,Chinese chili Pig's trotter M,족발,Korean,33000,3,1,3,돼지고기,0,0,1
+송도족발149,Songdo Jokbal149,Campus Town,깐풍족발 대,Kkanpung jokbal L,Chinese chili Pig's trotter L,족발,Korean,38000,3,1,3,돼지고기,0,0,1
+송도족발149,Songdo Jokbal149,Campus Town,족발 대,Jokbal L,Pig's trotter L,족발,Korean,36000,2,1,2,돼지고기,0,0,1
+송도족발149,Songdo Jokbal149,Campus Town,매운족발 대,Spicy Jokbal L,Spicy pig's trotter L,족발,Korean,38000,3,1,4,돼지고기,0,0,1
+송도족발149,Songdo Jokbal149,Campus Town,마늘족발 대,Garlic Jokbal L,Garlic pig's trotter L,족발,Korean,38000,3,1,4,돼지고기,0,0,1
+송도족발149,Songdo Jokbal149,Campus Town,미니족발,Mini jokbal,Mini pig's trotter,족발,Korean,20000,2,1,2,돼지고기,0,0,1
+송도족발149,Songdo Jokbal149,Campus Town,매운미니족발,Spicy mini Jokbal,Spicy mini pig's trotter,족발,Korean,22000,3,1,4,돼지고기,0,0,1
+송도족발149,Songdo Jokbal149,Campus Town,도시락족발,Jokbal lunch box,Lunch box pig's trotter,족발,Korean,12000,2,1,2,돼지고기,0,0,1
+송도족발149,Songdo Jokbal149,Campus Town,도시락세트,Lunch box set,,족발,Korean,15000,2,1,2,돼지고기,0,0,1
+송도족발149,Songdo Jokbal149,Campus Town,족발 중,Jokbal M,Pig's trotter M,족발,Korean,31000,2,1,2,돼지고기,0,0,1
+송도족발149,Songdo Jokbal149,Campus Town,매운족발 중,Spicy Jokbal M,Spicy pig's trotter M,족발,Korean,33000,3,1,4,돼지고기,0,0,1
+송도족발149,Songdo Jokbal149,Campus Town,마늘족발 중,Garlic Jokbal M,Garlic pig's trotter M,족발,Korean,33000,3,1,2,돼지고기,0,0,1
+송도족발149,Songdo Jokbal149,Campus Town,반반족발 대,Half&Half Jokbal L,Half and half pig's trotter L,족발,Korean,38000,3,1,2,돼지고기,0,0,1
+송도족발149,Songdo Jokbal149,Campus Town,반반족발 중,Half&Half Jokbal M,Half and half pig's trotter M,족발,Korean,33000,3,1,2,돼지고기,0,0,1
+송도족발149,Songdo Jokbal149,Campus Town,냉채족발 대(계절메뉴),Naenchae jokbal L,Chilled pig's trotter L,족발,Korean,38000,2,1,2,돼지고기,0,0,1
+수타 5900,Suta 5900,Campus Town,콤비네이션 피자,Combination pizza,,피자,Western,8900,4,1,2,빵,0,1,1
+수타 5900,Suta 5900,Campus Town,바비큐 핫치킨 피자,BBQ hot chicken pizza,,피자,Western,11900,4,1,3,빵,0,1,1
+수타 5900,Suta 5900,Campus Town,고구마 피자,Goguma pizza,potato pizza,피자,Western,9900,3,1,2,빵,1,1,1
+수타 5900,Suta 5900,Campus Town,직화 불고기 피자,Jikhwa bulgogi pizza,bulgogi pizza,피자,Western,11900,3,1,2,빵,0,1,0
+수타 5900,Suta 5900,Campus Town,포테이토 베이컨 피자,Potato bacon pizza,potato bacon pizza,피자,Western,10900,3,1,2,빵,0,0,1
+수타 5900,Suta 5900,Campus Town,쉬림프 가든 피자,Shrimp garden pizza,shrimp garden pizza,피자,Western,12900,3,1,2,빵,0,1,1
+수타 5900,Suta 5900,Campus Town,오리지널 시카고 피자,Original chicago pizza,original chicago pizza,피자,Western,17900,4,1,2,빵,1,1,1
+수타 5900,Suta 5900,Campus Town,불고기 시카고 피자,Bulgogi chicago pizza,bulgogi chicago pizza,피자,Western,19900,4,1,2,빵,0,1,0
+수타 5900,Suta 5900,Campus Town,베이컨 시카고 피자,Bacon chicago pizza,bacon chiacgo pizza,피자,Western,18900,4,1,2,빵,0,0,1
+수타 5900,Suta 5900,Campus Town,쉬림프 시카고 피자,Shrimp chicago pizza,shrimp chicago pizza,피자,Western,20900,4,1,2,빵,0,1,1
+수해복마라탕,Suhaebok- Maratang,Campus Town,꿔바로우,Kkwobarou,Sweet and sour pork,꿔바로우,Chinese,9000,2,2,2,돼지고기,0,0,1
+수해복마라탕,Suhaebok- Maratang,Campus Town,마라상궈,Mala xiang guo,,마라샹궈,Chinese,20000,3,2,4,마라,0,0,1
+수해복마라탕,Suhaebok- Maratang,Campus Town,야채마라탕,Yachae malatang,Vegetable mala tang,마라탕,Chinese,8000,3,2,4,마라,1,1,1
+수해복마라탕,Suhaebok- Maratang,Campus Town,소고기 마라탕,Sogogi malatang,Beef mala tang,마라탕,Chinese,12000,3,2,4,마라,1,1,1
+쉐프의 부대찌개,The Chef cooked Budae jjigae,Campus Town,얼큰해물부대찌개,Eolkeunhaemul budae jjigae,Spicy seafood Budae Jjigae,부대찌개,Korean,10000,4,1,4,돼지고기,0,0,1
+쉐프의 부대찌개,The Chef cooked Budae jjigae,Campus Town,칼바사 부대찌개,Kalbasa budae jjigae,Sausage Budae Jjigae,부대찌개,Korean,22000,4,1,3,돼지고기,0,0,1
+쉐프의 부대찌개,The Chef cooked Budae jjigae,Campus Town,순두부 부대찌개,Sundubu budae jjigae,Tofu Budae Jjigae,부대찌개,Korean,9500,4,1,3,돼지고기,0,0,1
+쉐프의 부대찌개,The Chef cooked Budae jjigae,Campus Town,쉐프의 부대찌개,Chef's budae jjigae,The chef's Budae Jjigae,부대찌개,Korean,9000,4,1,3,돼지고기,0,0,1
+쉐프의 부대찌개,The Chef cooked Budae jjigae,Campus Town,김치 부대찌개,Kimchi budae jjigae,Kimchi Budae Jjigae,부대찌개,Korean,9500,4,1,3,돼지고기,0,0,1
+쉐프의 부대찌개,The Chef cooked Budae jjigae,Campus Town,우삼겹 부대찌개,Usamgyeop budae jjigae,Brisket-navel end Budae Jjigae,부대찌개,Korean,10000,4,1,3,돼지고기,0,0,1
+쌈앤장,Ssam&Jang (seasoned bean & paste),Campus Town,뚝배기 계란찜,Ttugbaegi gyeranjjim,Steamed egg (in heated bowl),계란찜,Korean,5000,1,2,1,달걀,1,1,1
+쌈앤장,Ssam&Jang (seasoned bean & paste),Campus Town,쌈앤장 오리지널,Ssam & Janng Original,,고기구이,Korean,10000,2,1,2,돼지고기,1,0,0
+쌈앤장,Ssam&Jang (seasoned bean & paste),Campus Town,쌈앤장 골드,Ssam & Janng Gold,,고기구이,Korean,12000,2,1,2,돼지고기,0,0,1
+쌈앤장,Ssam&Jang (seasoned bean & paste),Campus Town,쌈앤장 스페셜,Ssam & Janng Special,,고기구이,Korean,13000,2,1,2,돼지고기,0,0,1
+쌈앤장,Ssam&Jang (seasoned bean & paste),Campus Town,쌈앤장 프리미엄,Ssam & Janng Premium,,고기구이,Korean,14000,2,1,2,돼지고기,0,0,0
+쌈앤장,Ssam&Jang (seasoned bean & paste),Campus Town,송도 칼집껍데기 (150g),Songdo kaljip kkeopdegi,Pork skin,고기구이,Korean,7000,2,1,2,돼지고기,0,0,1
+쌈앤장,Ssam&Jang (seasoned bean & paste),Campus Town,냉동 삼겹살 (180g),Naengdong samgyeopsal (180g),Frozen Pork Belly (180G),고기구이,Korean,9000,2,1,2,돼지고기,0,0,1
+쌈앤장,Ssam&Jang (seasoned bean & paste),Campus Town,대패 삼겹살 (180g),Daepae samgyeopsal,Thinly sliced pork belly (180G),고기구이,Korean,13000,2,1,2,돼지고기,0,0,1
+쌈앤장,Ssam&Jang (seasoned bean & paste),Campus Town,제주 똥돼지 오겹살 (150g),Jeju ttongdwaeji ogyeopsal (150g),Jeju skin-on black pork belly (180G),고기구이,Korean,15000,2,1,2,돼지고기,0,0,1
+쌈앤장,Ssam&Jang (seasoned bean & paste),Campus Town,제주 똥돼지 무항생제 생고기 (150g),Jeju ttongdwaeji muhangsaengje saenggogi (150g),antibiotic-free Jeju black pork (180G),고기구이,Korean,14000,2,1,2,돼지고기,0,0,1
+쌈앤장,Ssam&Jang (seasoned bean & paste),Campus Town,쌈앤장 생삼겹살 (180g),Ssam & Janng saengsamgyeopsal (180g),Pork belly (180G),고기구이,Korean,13000,2,1,2,돼지고기,0,0,1
+쌈앤장,Ssam&Jang (seasoned bean & paste),Campus Town,쌈앤장 생오겹살 (180g),Ssam & Janng saengogyeopsal (180g),Skin-on pork belly (180G),고기구이,Korean,14500,2,1,2,돼지고기,0,0,1
+쌈앤장,Ssam&Jang (seasoned bean & paste),Campus Town,차돌박이 (150g),Chadolbagi (150g),Thinly sliced beef brisket (180G),고기구이,Korean,16000,2,1,2,돼지고기,0,1,0
+쌈앤장,Ssam&Jang (seasoned bean & paste),Campus Town,꽃잎목살 (180g),Kkotipmoksal (180g),Skinless pork collar (180G),고기구이,Korean,13000,2,1,2,돼지고기,0,1,0
+쌈앤장,Ssam&Jang (seasoned bean & paste),Campus Town,소불고기 전골 (180g),Sobulgogi jeongol (180g),Bulgogi hotpot (180G),고기구이,Korean,16000,2,1,3,소고기,0,1,0
+쌈앤장,Ssam&Jang (seasoned bean & paste),Campus Town,유황 훈제오리구이 (1마리 700g),Yuhwang hunjeorigui (one whole duck 700g),Sulfur Smoked Duck (700G),고기구이,Korean,33000,2,2,2,오리고기,0,1,1
+쌈앤장,Ssam&Jang (seasoned bean & paste),Campus Town,유황 생오리구이 (1마리 700g),Yuhwang saengorigui (one whole duck 700g),Grilled Sulfur Raw Duck (700G),고기구이,Korean,35000,2,2,2,오리고기,0,1,1
+쌈앤장,Ssam&Jang (seasoned bean & paste),Campus Town,유황 생오리구이 (반마리 350g),Yuhwang saengorigui (half a duck 350g),Grilled Sulfur Raw Duck (350G Of Half),고기구이,Korean,20000,2,2,2,오리고기,0,1,1
+쌈앤장,Ssam&Jang (seasoned bean & paste),Campus Town,항정살 (180g),Hangjeongsal (180g),Jowl meat (180G),고기구이,Korean,14000,2,1,2,돼지고기,0,0,1
+쌈앤장,Ssam&Jang (seasoned bean & paste),Campus Town,뒷고기모둠 (180g),Dwitgogimodum (180g),Cuts of Pork (180G),고기구이,Korean,13000,2,1,2,돼지고기,0,0,1
+쌈앤장,Ssam&Jang (seasoned bean & paste),Campus Town,생고기/멸치 김치찌개,Saenggogi/myeolchi kimchi jjigae,Meat/anchovy kimchi stew,김치찌개,Korean,7000,3,1,3,멸치,0,0,1
+쌈앤장,Ssam&Jang (seasoned bean & paste),Campus Town,물냉면/ 비빔냉면,Mullaengmyeon/ bibimnaengmyeon,Cold buckwheat noodles/ spicy buckwheat noodles,냉면,Korean,6000,2,1,3,면,1,1,1
+쌈앤장,Ssam&Jang (seasoned bean & paste),Campus Town,누룽지탕,Nurungjitang,Scorched rice soup bowl,누룽지,Korean,5000,1,1,2,누룽지,1,1,1
+쌈앤장,Ssam&Jang (seasoned bean & paste),Campus Town,차돌 된장찌개,Chadol doenjang jjigae,Chadol Miso Stew,된장찌개,Korean,8000,3,1,3,된장,0,1,0
+쌈앤장,Ssam&Jang (seasoned bean & paste),Campus Town,옛날 육개장,Yennal yukkaejang,Spicy beef soup,육개장,Korean,8000,3,1,3,소고기,0,1,0
+쌈앤장,Ssam&Jang (seasoned bean & paste),Campus Town,옛날 육개장 칼국수,Yennal yukkaejang kalguksu,Spicy beef soup noodle,육개장,Korean,8000,3,1,3,소고기,0,1,0
+쌈앤장,Ssam&Jang (seasoned bean & paste),Campus Town,날치알 김치 주먹밥,Nalchial kimchi jumeokkbap,Tobiko kimchi rice ball,주먹밥,Korean,4000,3,1,3,참치,0,1,1
+쌈앤장,Ssam&Jang (seasoned bean & paste),Campus Town,전통 추어탕,Jeontong chueotang,Traditional loach stew,추어탕,Korean,8000,2,1,3,생선,0,1,1
+쌈앤장,Ssam&Jang (seasoned bean & paste),Campus Town,전통 수제비 추어탕,Jeontong sujebi chueotang,Traditional loach stew with flattened dough pasta,추어탕,Korean,9000,2,1,3,생선,0,1,1
+쌈앤장,Ssam&Jang (seasoned bean & paste),Campus Town,차조 흑미밥,Chajo heungmibap,Perilla black rice,흑미밥,Korean,1500,1,1,2,흑미,1,1,1
+유케야,Ukea,Campus Town,꼬막 무침,Kkomank muchim,seasoned cockles,꼬막무침,Korean,19900,3,2,3,꼬막,0,1,1
+유케야,Ukea,Campus Town,매운무뼈닭발,Maeunmuppyeodakbal,Spicy chicken feet (no bone),닭발,Korean,16000,3,2,5,닭발,0,1,1
+유케야,Ukea,Campus Town,떡갈비,Tteokgalbi,Grilled short rib patties,떡갈비,Korean,10000,3,1,2,소고기,0,1,0
+유케야,Ukea,Campus Town,소고기국물떡볶이,Sogogi gungmul tteokbokki,Beef spicy rice cake (with more sauce),떡볶이,Korean,15000,3,2,3,떡,1,1,1
+유케야,Ukea,Campus Town,소고기라면,sogogi ramyeon,Beef ramen,라면,Korean,7000,3,1,3,면,1,1,1
+유케야,Ukea,Campus Town,문어라면,Muneo ramyeon,Octopus ramen,라면,Korean,8000,3,1,3,면,1,1,1
+유케야,Ukea,Campus Town,산낙면포탕,Sannangmyeonpotang,Live octopus soup,포탕,Korean,25000,2,1,4,낙지,0,1,1
+유케야,Ukea,Campus Town,육회물회,Yukoemulhoe,Meat and fish sashimi,물회,Korean,19000,1,1,3,생선,0,1,1
+유케야,Ukea,Campus Town,산낙육회물회,Sannangyukoemulhwae,"Live ocotpus, meat and fish sashimi",물회,Korean,29000,1,1,3,생선,0,1,1
+유케야,Ukea,Campus Town,전복육회물회,Jeonbogyukoemulhwae,"Abalone, meat and fish sashimi",물회,Korean,29000,1,1,3,생선,0,1,1
+유케야,Ukea,Campus Town,소불고기,Sobulgogi,Beef Bulgogi,불고기,Korean,21900,3,1,2,소고기,0,1,0
+유케야,Ukea,Campus Town,황제비빔밥,Hwangje bibimbap,Emperor Bibimbap,비빔밥,Korean,29900,3,1,3,오징어,0,1,1
+유케야,Ukea,Campus Town,여수 꼬막밥,Yeosu kkomakbap,Yeosu Cockle rice,비빔밥,Korean,28900,3,1,3,해산물,0,1,1
+유케야,Ukea,Campus Town,꼬막비빔밥,Kkomak bibimbap,Cockle bibimbap,비빔밥,Korean,9900,3,1,3,꼬막,0,1,1
+유케야,Ukea,Campus Town,육회비빔밥,Yukoe bibimbap,Beef sashimi bibimbap,비빔밥,Korean,8900,2,1,3,소고기,0,1,0
+유케야,Ukea,Campus Town,반반비빔밥,Banban bibimbap,half&half bibimbap,비빔밥,Korean,11900,3,1,3,채소,1,1,1
+유케야,Ukea,Campus Town,산낙지,Sannakjij,Live Octopus,산낙지,Korean,22000,1,1,3,낙지,0,1,1
+유케야,Ukea,Campus Town,알탕,Altang,Fish roe soup,알탕,Korean,18000,2,1,3,해산물,0,1,1
+유케야,Ukea,Campus Town,육회무침,Yukoemuchim,Seasoned beef sashimi,육회,Korean,18000,1,1,2,소고기,0,1,0
+유케야,Ukea,Campus Town,육회(180g),Yukhwae (180g),Beef sashimi (180G),육회,Korean,15900,1,1,2,소고기,0,1,0
+유케야,Ukea,Campus Town,육회(270g),Yukhwae (270g),Beef sashimi (270G),육회,Korean,23800,1,1,2,소고기,0,1,0
+유케야,Ukea,Campus Town,육회(360g),Yukhwae (360g),Beef sashimi (360G),육회,Korean,30900,1,1,2,소고기,0,1,0
+유케야,Ukea,Campus Town,산낙육회,Sannag yukhwae,Live octopus and Beef sashimi,육회,Korean,27900,1,1,2,소고기,0,1,0
+유케야,Ukea,Campus Town,전복육회,Jeonbog yukhwae,Ablone and Beef sashimi,육회,Korean,26900,1,1,2,소고기,0,1,0
+유케야,Ukea,Campus Town,육회모둠,Yukhwae modum,Assorted beef sashimi,육회,Korean,65000,1,1,2,소고기,0,1,0
+유케야,Ukea,Campus Town,눈꽃치즈육회,Nunkkot cheese yukhwae,Beef sashimi with cheese,육회,Korean,17900,2,2,2,소고기,0,1,0
+유케야,Ukea,Campus Town,갈릭육회,Garlic yukhwae,Garlic Beef sashimi,육회,Korean,17900,2,1,2,소고기,0,1,0
+유케야,Ukea,Campus Town,어니언육회,Onion yukhwae,Onion Beef sashimi,육회,Korean,17900,2,1,2,소고기,0,1,0
+유케야,Ukea,Campus Town,48cm 육회 초밥,48cm yukhwae chobap,48cm beef Sashimi Sushi,초밥,Korean,17000,2,1,2,생선,0,1,1
+유케야,Ukea,Campus Town,전복,Jeonbok,Abalone,회,Korean,18000,1,1,2,전복,0,1,1
+유케야,Ukea,Campus Town,연어(중),Yeoneo M,Salmon (Medium),회,Korean,27000,1,1,2,생선,0,1,1
+유케야,Ukea,Campus Town,연어(대),Yeoneo L,Salmon (Large),회,Korean,36000,1,1,2,생선,0,1,1
+유케야,Ukea,Campus Town,연육세트,Yeonyuk set,Fish cake Set,회,Korean,35000,1,1,2,생선,0,1,1
+유케야,Ukea,Campus Town,면사세트,Myeonsa set,,회,Korean,37000,1,1,2,생선,0,1,1
+유케야,Ukea,Campus Town,문어숙회,Muneo sukhwae,poached Octopus sashimi,회,Korean,21900,1,1,2,생선,0,1,1
+유케야,Ukea,Campus Town,육회+연어+문어,Yukhwae + yeoneo + muneo,raw beef Sashimi+Salmon+Octopus,회,Korean,37000,1,1,2,생선,0,1,0
+유케야,Ukea,Campus Town,육회+문어,Yukhwae + muneo,raw beef sashimi+Octopus,회,Korean,27900,1,1,2,생선,0,1,0
+유케야,Ukea,Campus Town,연어+문어,Yeoneo + muneo,Salmon+Octopus,회,Korean,29900,1,1,2,생선,0,1,1
+유케야,Ukea,Campus Town,사시미+문어,Sashimi + muneo,Sashimi+Octopus,회,Korean,30900,1,1,2,생선,0,1,1
+유케야,Ukea,Campus Town,육사스페셜,Yuksa special,Raw beef sashimi special,회,Korean,25900,1,1,2,생선,0,1,0
+유케야,Ukea,Campus Town,육사시미,Yuk sashimi,Raw beef sashii,회,Korean,29900,1,1,2,생선,0,1,0
+인생닭강정 송도1호점,The southern sea,Campus Town,달콤닭강정,Dalkom dakgangjeong,Sweet fried chicken,닭강정,Korean,17000,3,2,3,닭고기,0,1,1
+인생닭강정 송도1호점,Life Dakgangjeong,Campus Town,매콤닭강정,Maekom dakgangjeong,Spicy fried chicken,닭강정,Korean,17000,3,2,4,닭고기,0,1,1
+인생닭강정 송도1호점,The southern sea,Campus Town,마늘간장닭강정,Maneul ganjang dakgangjeong,Garlic soy sauce fried chicken,닭강정,Korean,17000,4,2,3,닭고기,0,1,1
+인생닭강정 송도1호점,Life Dakgangjeong,Campus Town,수원왕갈비닭강정,Suwon wanggalbi dakgangjeong,Savory soy sauce fried chicken,닭강정,Korean,17000,4,2,3,닭고기,0,1,1
+인생닭강정 송도1호점,The southern sea,Campus Town,스노우 치즈 닭강정,Snow cheese dakgangjeong,Snow cheese fried chicken,닭강정,Korean,17000,3,2,3,닭고기,0,1,1
+인생닭강정 송도1호점,Life Dakgangjeong,Campus Town,숯불바베큐 닭강정,Sutbul Barbecue dakgangjeong,Barbecue flavored fried chicken,닭강정,Korean,17000,4,2,3,닭고기,0,1,1
+인생닭강정 송도1호점,Life Dakgangjeong,Campus Town,순살후라이드,Sunsal fried,Boneless Fried chicken,치킨,Korean,17000,3,2,2,닭고기,0,1,1
+인생닭강정 송도1호점,The southern sea,Campus Town,닭똥집(후라이드),Dakttongjip (fried),Fried chicken gizzard,치킨,Korean,10900,3,2,2,닭고기,0,1,1
+일품양평해장국,No1 haejanguk,Campus Town,갈비탕,Galbitang,Short rib soup,갈비탕,Korean,15000,3,1,2,소고기,0,1,0
+일품양평해장국,No1 haejanguk,Campus Town,곱창볶음,Gopchangbokkeum,stir fried intestine,곱창,Korean,20000,3,1,4,곱창,0,0,1
+일품양평해장국,No1 haejanguk,Campus Town,내장탕,Naejangtang,Intestinal stew,내장탕,Korean,12000,3,1,3,내장,0,1,0
+일품양평해장국,No1 haejanguk,Campus Town,순대국,Sundae guk,Blood sausage soup,순대국,Korean,10000,2,1,3,돼지고기,0,0,1
+일품양평해장국,No1 haejanguk,Campus Town,얼큰순대국,Eolkeun sundae guk,Spicy bood sausage soup,순대국,Korean,11000,3,1,4,돼지고기,0,0,1
+일품양평해장국,No1 haejanguk,Campus Town,얼큰순대국(특),Eolkeun sundae guk large,Spicy bood sausage soup large,순대국,Korean,12000,3,1,4,돼지고기,0,0,1
+일품양평해장국,No1 haejanguk,Campus Town,육개장,Yukgaejang,Spicy beef soup,육개장,Korean,10000,3,1,3,소고기,0,1,0
+일품양평해장국,No1 haejanguk,Campus Town,편육,Pyeonyuk,braised pork,편육,Korean,12000,2,1,2,돼지고기,0,0,1
+일품양평해장국,No1 haejanguk,Campus Town,양평해장국,Yangpyeong haejang guk,Yangpyeong hangover soup,해장국,Korean,10000,3,1,3,국,0,1,1
+일품양평해장국,No1 haejanguk,Campus Town,양평해장국(특),Yangpyeong haejang guk L,Yangpyeong hangover soup large,해장국,Korean,11000,3,1,3,국,0,1,1
+일품양평해장국,No1 haejanguk,Campus Town,뼈다귀해장국,Ppyeodagwi haejang guk,Bone hangover soup,해장국,Korean,11000,3,1,3,국,0,0,1
+일품양평해장국,No1 haejanguk,Campus Town,얼큰양평해장국,Eolkeun yangpyeong haejang guk,Spicy yangpyeong hangover soup,해장국,Korean,11000,3,1,3,국,0,0,1
+일품양평해장국,No1 haejanguk,Campus Town,얼큰양평해장국(특),Eolkeun yangpyeong haejang guk L,Spicy yangpyeong hangover soup large,해장국,Korean,12000,3,1,3,국,0,0,1
+일품양평해장국,No1 haejanguk,Campus Town,소우거지해장국,Sougeoji haejang guk,Beef hangover soup,해장국,Korean,10000,3,1,3,우거지,0,1,0
+일품양평해장국,No1 haejanguk,Campus Town,소우거지해장국(특),Sougeoji haejang guk L,Beef hangover soup large,해장국,Korean,11000,3,1,3,우거지,0,1,0
+일품양평해장국,No1 haejanguk,Campus Town,황태해장국,Hwangtae haejang guk,Dried pollack hangover soup,해장국,Korean,10000,3,1,3,황태,0,1,1
+장미꽃 떡볶이&라면 송도본점,Rose Tteokbokki&Ramen,Campus Town,떡볶이,Tteokbokk,Spicy rice cake,떡볶이,Korean,3800,3,2,3,떡,1,1,1
+장미꽃 떡볶이&라면 송도본점,Rose Tteokbokki&Ramen,Campus Town,라면,Ramyeon,Ramen,라면,Korean,2800,3,1,3,면,1,1,1
+차이원,Chai-won,Campus Town,피망고추잡채(중),Pimanggochujapchae (M),Bell pepper glass noodles M,고추잡채,Chinese,32000,2,2,4,고추,0,0,1
+차이원,Chai-won,Campus Town,삼선누룽지탕,Seafood scorched rice soup,,깐풍기,Chinese,32000,1,1,2,누룽지,1,1,1
+차이원,Chai-won,Campus Town,깐풍기(중),Kkanpunggi (M),Sweet and sour chicken,깐풍기,Chinese,30000,2,2,3,닭고기,0,0,1
+차이원,Chai-won,Campus Town,깐풍육(중),Kkanpungyuk (M),Sweet and sour meat,깐풍기,Chinese,30000,2,2,3,닭고기,0,0,1
+차이원,Chai-won,Campus Town,꽃빵,Kkotppang,Steamed buns,꽃빵,Chinese,5000,1,2,2,빵,1,1,1
+차이원,Chai-won,Campus Town,난자완스,Nanjawanseu,Nanjianwanzi,난자완스,Chinese,30000,2,2,2,돼지고기기,0,0,1
+차이원,Chai-won,Campus Town,중화누룽지밥,Junghwanurungjibap,Chinese style scorched rice soup,누룽지,Chinese,13000,1,1,3,누룽지,1,1,1
+차이원,Chai-won,Campus Town,해물당면잡채(중),Haemuldangmyeonjapchae M,Seafood glass noodles M,당면잡채,Chinese,22000,2,2,3,당면,0,1,1
+차이원,Chai-won,Campus Town,중화불고기덮밥,Junghwabulgogi deopbap,Chinese Bulgogi rice,덮밥,Chinese,10000,3,1,3,밥,0,1,0
+차이원,Chai-won,Campus Town,중화새우덮밥,Junghwasaeu deopbap,Chinese shrimp rice,덮밥,Chinese,10000,2,1,3,밥,0,1,1
+차이원,Chai-won,Campus Town,중화송이덮밥,Junghwasongi deopbap,Chinese mushroom rice,덮밥,Chinese,10000,2,1,3,밥,1,1,1
+차이원,Chai-won,Campus Town,중화제육비빔밥,Junghwajeyuk bibimbap,Chinese spicy pork rice,덮밥,Chinese,10000,3,1,4,밥,0,0,1
+차이원,Chai-won,Campus Town,라초기,Rachogi,,라조기,Chinese,30000,3,1,3,닭고기,0,1,1
+차이원,Chai-won,Campus Town,라조육,Rajoyuk,,라조기,Chinese,30000,3,1,4,닭고기,0,1,1
+차이원,Chai-won,Campus Town,사천마파두부밥,Sacheon mapadubu bap,Sacheon mapo tofu,마파두부,Chinese,10000,3,2,4,두부,0,0,1
+차이원,Chai-won,Campus Town,해물마파두부(중),Haemulmapadubu (M),Seafood mapo tofu M,마파두부,Chinese,22000,3,2,4,두부,0,0,1
+차이원,Chai-won,Campus Town,군만두,Gunmandu,Toasted dumplings,만두,Chinese,6000,2,1,3,만두,0,0,1
+차이원,Chai-won,Campus Town,수제왕만두,Sujewang mandu,Handmade King Dumplings,만두,Chinese,6000,2,1,3,만두,0,0,1
+차이원,Chai-won,Campus Town,물만두,Mulmandu,Soft dumplings,만두,Chinese,6000,1,1,2,만두,0,0,1
+차이원,Chai-won,Campus Town,멘보샤,Menbosha,,멘보샤,Chinese,9000,2,1,2,새우,0,1,1
+차이원,Chai-won,Campus Town,후난식볶음밥,Hunan style fired rice,,볶음밥,Chinese,10000,2,1,2,밥,1,1,1
+차이원,Chai-won,Campus Town,야채볶음밥,Vegetable fried rice,,볶음밥,Chinese,8000,2,1,2,밥,1,1,1
+차이원,Chai-won,Campus Town,사천야채볶음밥,Sachun style vegetable rice,,볶음밥,Chinese,8000,3,1,3,밥,1,1,1
+차이원,Chai-won,Campus Town,게살볶음밥,Crab meat fried rice,,볶음밥,Chinese,10000,2,1,2,밥,1,1,1
+차이원,Chai-won,Campus Town,새우볶음밥,Shrimp fried rice,,볶음밥,Chinese,10000,2,1,2,밥,1,1,1
+차이원,Chai-won,Campus Town,차이삼선볶음밥,Chaisamseon bokkeumbap,Seafood fried rice,볶음밥,Chinese,10000,3,1,3,밥,1,1,1
+차이원,Chai-won,Campus Town,중화오징어비빔밥,Junghwaojingeo bibimbap,Chinese style squid bibimbap,비빔밥,Chinese,10000,3,1,3,오징어,0,1,1
+차이원,Chai-won,Campus Town,중화비빔밥,Junghwa bibimbap,Chinese style bibimbap,비빔밥,Chinese,10000,3,1,3,오징어,0,1,1
+차이원,Chai-won,Campus Town,삼선탕,Samseontang,Seafood stew,삼선탕,Chinese,15000,2,1,3,해물,0,1,1
+차이원,Chai-won,Campus Town,양장피(중),Yangjangpi M,Stir fried starch sheets,양장피,Chinese,32000,3,1,2,해산물,0,1,1
+차이원,Chai-won,Campus Town,유산슬밥,Yusanseulbap,"Stir fried seafood, vegetables and beef over rice",유산슬,Chinese,13000,3,1,2,해산물,0,1,1
+차이원,Chai-won,Campus Town,구름유산슬,Gureumyusanseul,"Stir fried seafood, vegetables and beef over rice",유산슬,Chinese,32000,3,1,2,해산물,0,1,1
+차이원,Chai-won,Campus Town,해물당면잡채밥,Haemuldangmyeon japchae bap,Seafood glass noodles rice bowl,잡채밥,Chinese,10000,3,1,2,채소,1,1,1
+차이원,Chai-won,Campus Town,당면잡채밥,Dangmyeon japchae bap,Glass noodles rice bowl,잡채밥,Chinese,9000,3,1,2,채소,1,1,1
+차이원,Chai-won,Campus Town,고추잡채밥,Gochu japchae bap,Pepper glass noodles rice bowl,잡채밥,Chinese,10000,3,1,3,채소,1,1,1
+차이원,Chai-won,Campus Town,중화잡탕(중),Junhwajaptang M,Chinese style soup M,잡탕,Chinese,32000,3,1,3,채소,1,1,1
+차이원,Chai-won,Campus Town,잡탕밥,Japtangbap,Assorted seafood over rice,잡탕밥,Chinese,13000,3,1,3,채소,1,1,1
+차이원,Chai-won,Campus Town,짜장면,Jjajangmyeon,Black bean noodles,짜장면,Chinese,6500,3,1,2,면,0,0,1
+차이원,Chai-won,Campus Town,간자장,Ganjajang,Black bean noodles with onions,짜장면,Chinese,8000,3,1,2,면,0,0,1
+차이원,Chai-won,Campus Town,삼선간짜장,Samseonganjjajang,Seafod black bean noodles,짜장면,Chinese,10000,3,1,2,면,0,0,1
+차이원,Chai-won,Campus Town,차돌간짜장,Chadolganjjajang,Black bean noodle with beef,짜장면,Chinese,10000,3,1,2,면,0,0,1
+차이원,Chai-won,Campus Town,매운간짜장,Maeunganjjajang,Spicy black bean noodles,짜장면,Chinese,10000,3,1,4,면,0,0,1
+차이원,Chai-won,Campus Town,사천짜장면,Sacheonjjajangmyeon,Sachon black bean noodles,짜장면,Chinese,10000,3,1,3,면,0,0,1
+차이원,Chai-won,Campus Town,유니짜장면,Yuni jjajangmyeon,Uni black bean noodles,짜장면,Chinese,10000,3,1,2,면,0,0,1
+차이원,Chai-won,Campus Town,차이쟁반짜장,Chaijaengban jjajang,Chai black bean noodles on a tray,짜장면,Chinese,9000,3,1,2,면,0,0,1
+차이원,Chai-won,Campus Town,차이쟁반짜장(2인분),Chaijaengban jjajang (2 portion),Chai black bean noodles for two on a tray,짜장면,Chinese,18000,3,1,2,면,0,0,1
+차이원,Chai-won,Campus Town,해물쟁반짜장,Haemuljaengban jjajang,Seafood black bean noodles on a tray,짜장면,Chinese,9000,3,1,3,면,0,0,1
+차이원,Chai-won,Campus Town,해물쟁반짜장(2인분),Haemuljaengban jjajang,Seafood black bean noodles on a tray for two,짜장면,Chinese,18000,3,1,3,면,0,0,1
+차이원,Chai-won,Campus Town,매운해물쟁반짜장 (1인분),Maeunhaemul jaengban jjajang (portion 1),Spicy seafood black bean noodles on a tray (1 portion),짜장면,Chinese,9000,3,1,4,면,0,0,1
+차이원,Chai-won,Campus Town,매운해물쟁반짜장( 2인분),Maeunhaemul jaengban jjajang (portion 2),Spicy seafood black bean noodles on a tray (2 portion),짜장면,Chinese,8000,3,1,4,면,0,0,1
+차이원,Chai-won,Campus Town,자장밥,Jjajangbap,Black bean rice bowl,짜장밥,Chinese,7000,3,1,2,면,0,0,1
+차이원,Chai-won,Campus Town,해물짬뽕,Haemuljjamppong,Seafood spicy noodles,짬뽕,Chinese,7000,3,1,3,면,0,0,1
+차이원,Chai-won,Campus Town,순두부짬뽕,Sundubujjamppong,Silk tofu spicy noodles,짬뽕,Chinese,8000,3,1,3,면,0,0,1
+차이원,Chai-won,Campus Town,삼선순두부짬뽕,Samsun sundubu jjamppong,Seafood tofu spicy noodles,짬뽕,Chinese,10000,3,1,3,면,0,0,1
+차이원,Chai-won,Campus Town,삼성매운짬뽕,Samsunmaeun jjamppong,Seafood spicy noodles,짬뽕,Chinese,10000,3,1,3,면,0,0,1
+차이원,Chai-won,Campus Town,삼선마라짬뽕,Samsun mala jjamppong,Seafood mala spicy noodles,짬뽕,Chinese,10000,3,1,3,면,0,0,1
+차이원,Chai-won,Campus Town,삼선백짬뽕,Samsun baek jjamppong,Seafood spicy noodles (white soup),짬뽕,Chinese,10000,3,1,3,면,0,0,1
+차이원,Chai-won,Campus Town,해물홍합짬뽕,Haemul honghap jjamppong,Seafood spicy noodles with mussel,짬뽕,Chinese,10000,3,1,3,면,0,0,1
+차이원,Chai-won,Campus Town,사천백짬뽕,Sacheonbaek jjamppong,Sacheon white spicy noodles,짬뽕,Chinese,10000,3,1,3,면,0,0,1
+차이원,Chai-won,Campus Town,삼선우동,Samsun udon,Seafood udon,짬뽕,Chinese,10000,3,1,3,면,0,0,1
+차이원,Chai-won,Campus Town,삼선울면,Samsun ulmyeon,Seafood ulmyeon,짬뽕,Chinese,10000,3,1,3,면,0,0,1
+차이원,Chai-won,Campus Town,차돌마리짬뽕,Chadolmarijjamppong,Beef spicy noodles,짬뽕,Chinese,11000,3,1,3,면,0,0,1
+차이원,Chai-won,Campus Town,차돌순두부짬뽕,Chadol sundubu jjamppong,Beef and skil tofu spicy noodles,짬뽕,Chinese,11000,3,1,3,면,0,0,1
+차이원,Chai-won,Campus Town,중화부대짬뽕,Junghwa budae jjamppong,Chinese army stew spicy noodles,짬뽕,Chinese,10000,3,1,3,면,0,0,1
+차이원,Chai-won,Campus Town,중화고기짬뽕,Junghwa gogi jjamppong,Chinese meat spicy noodles,짬뽕,Chinese,10000,3,1,3,면,0,0,1
+차이원,Chai-won,Campus Town,중화불고기짬뽕,Junghwa bulgogi jjamppong,Chinese bulgogi spicy noodles,짬뽕,Chinese,10000,3,1,3,면,0,0,0
+차이원,Chai-won,Campus Town,사천식 볶음짬뽕(1인분),Sacheonsing bokkeumjjamppong (1 portion),Sichuan Stir -Fried spicy noodles (1 Serving),짬뽕,Chinese,9000,3,1,3,면,0,0,1
+차이원,Chai-won,Campus Town,사천식 볶음짬뽕(2인분),Sacheonsing bokkeumjjamppong (2 portion),Sichuan -Style Fried spicy noodles (2 Servings),짬뽕,Chinese,18000,3,1,3,면,0,0,1
+차이원,Chai-won,Campus Town,해물짬뽕밥,Haemul jjamppong bap,Seafood spicy soup and rice,짬뽕밥,Chinese,8000,3,1,3,해산물,0,0,1
+차이원,Chai-won,Campus Town,해물순두부짬뽕밥,Haemul sundubu jjamppong bap,Seafood silk tofu spicy soup and Rice,짬뽕밥,Chinese,9000,3,1,3,해산물,0,0,1
+차이원,Chai-won,Campus Town,삼선순두부짬뽕밥,Samsun sundubu jjamppong bap,Seafood silk tofu spicy soup and rice,짬뽕밥,Chinese,11000,3,1,3,해산물,0,0,1
+차이원,Chai-won,Campus Town,삼선마라짬뽕밥,Samsun mala jjamppong bap,Seafood mala spicy soup and rice,짬뽕밥,Chinese,11000,3,1,3,해산물,0,0,1
+차이원,Chai-won,Campus Town,삼선매운짬뽕밥,Samsun maeun jjamppong bap,Seafood spicy soup and rice,짬뽕밥,Chinese,11000,3,1,3,해산물,0,0,1
+차이원,Chai-won,Campus Town,사천백반짬뽕밥,Sacheonbaekban jjamppong bap,Sichuan spicy soup and white rice,짬뽕밥,Chinese,11000,3,1,3,해산물,0,0,1
+차이원,Chai-won,Campus Town,중화부대짬뽕밥,Junhwa budae jjamppongbap,Chinese army stew spicy soup and rice,짬뽕밥,Chinese,11000,3,1,3,해산물,0,0,1
+차이원,Chai-won,Campus Town,중화불고기짬뽕밥,Junghwa bulgogi jjamppong bap,Chinese Bulgogi spicy soup and rice,짬뽕밥,Chinese,11000,3,1,3,소고기,0,0,0
+차이원,Chai-won,Campus Town,중화고기짬뽕밥,Junghwa gogi jjamppong bap,Chinese Meat spicy soup and rice,짬뽕밥,Chinese,11000,3,1,3,고기,0,0,1
+차이원,Chai-won,Campus Town,차돌마라짬뽕밥,Chadol mala jjamppong bap,Beef mala spicy soup and rice,짬뽕밥,Chinese,12000,3,1,3,고기,0,0,1
+차이원,Chai-won,Campus Town,차돌순두부짬뽕밥,Chadol sundubu jjamppong bap,Beef and silk tofu spicy soup and rice,짬뽕밥,Chinese,12000,3,1,3,고기,0,0,1
+차이원,Chai-won,Campus Town,칠리중새우,Chili jungsaeu,Chili shrimp,칠리새우,Chinese,30000,3,2,3,새우,1,1,1
+차이원,Chai-won,Campus Town,깐풍중새우,Kkanpung jungsaeu,Chinese fried shrimp,칠리새우,Chinese,30000,4,2,3,새우,1,1,1
+차이원,Chai-won,Campus Town,깐쇼새우,Kkansyo saeu,Chinese shrimp dish,칠리새우,Chinese,30000,4,2,3,새우,1,1,1
+차이원,Chai-won,Campus Town,크림중새우,Cream jungsaeu,Creamy shrimp dish,크림새우,Chinese,30000,2,3,2,새우,0,1,1
+차이원,Chai-won,Campus Town,탕수육(대),Tangsuyuk L,Sweet And Sour Pork (Large),탕수육,Chinese,30000,2,2,2,돼지고기,0,0,1
+차이원,Chai-won,Campus Town,탕수육(중),Tangsuyuk M,Sweet And Sour Pork (Middle),탕수육,Chinese,24000,2,2,2,돼지고기,0,0,1
+차이원,Chai-won,Campus Town,탕수육(소),Tangsuyuk S,Sweet And Sour Pork (Small),탕수육,Chinese,18000,2,2,2,돼지고기,0,0,1
+차이원,Chai-won,Campus Town,사천탕수육(중),Sacheon tangsuyuk M,Sichuan sweet and sour pork M,탕수육,Chinese,24000,3,2,3,돼지고기,0,0,1
+차이원,Chai-won,Campus Town,칠리탕수육(중),Chili tangsuyuk M,Chili sweet and sour pork M,탕수육,Chinese,24000,3,2,3,돼지고기,0,0,1
+차이원,Chai-won,Campus Town,팔보채(중),Palbochae M,Stir fried seafood and vegetables,팔보채,Chinese,32000,3,2,2,죽순,0,0,1
+참피온,Champion,Campus Town,계란밥 (테라오카),Gyeranbap,Egg rice,계란밥,Japanese,4000,1,2,1,달걀,1,1,1
+참피온,Champion,Campus Town,생삼겹살 (170g),Saengsamgyeopsal (170g),Pork belly (170G),고기구이,Korean,13000,2,1,2,돼지고기,0,0,1
+참피온,Champion,Campus Town,냉삼겹살 (170g),Naengsamgyeobsal (170g),Frozen pork belly (170G),고기구이,Korean,12000,2,1,2,돼지고기,0,0,1
+참피온,Champion,Campus Town,김치말이국수,Kimchi mari guksu,Kimchi noodles,김치말이국수,Korean,6000,2,1,3,면,1,1,1
+참피온,Champion,Campus Town,갓김치꽁치찌개,Gatkimchi kkongchi jjigae,Canned fish kimchi stew,김치찌개,Korean,7000,4,1,3,꽁치,0,1,1
+참피온,Champion,Campus Town,비빔국수,Bibimguksu,Spicy noodles,비빔국수,Korean,6000,2,1,3,면,1,1,1
+참피온,Champion,Campus Town,청국장,Cheonggukjang,Fermented soy bean soup,청국장,Korean,6000,3,2,3,콩,1,1,0
+청기와감자탕,Cheonggiwa Gamjatang (The Blue Tiled Roof's Potato Stew),Campus Town,청기와감자탕 (비조리) (소),"Gamjatang (Uncooked, Small)",Potato stew (small),감자탕,Korean,29000,3,1,4,돼지고기,0,0,1
+청기와감자탕,Cheonggiwa Gamjatang (The Blue Tiled Roof's Potato Stew),Campus Town,청기와감자탕 (비조리) (중),"Gamjatang (Uncooked, Medium)",Potato stew (medium),감자탕,Korean,37000,3,1,4,돼지고기,0,0,1
+청기와감자탕,Cheonggiwa Gamjatang (The Blue Tiled Roof's Potato Stew),Campus Town,청기와감자탕 (비조리) (대),"Gamjatang (Uncooked, Large)",Potato stew (large),감자탕,Korean,45000,3,1,4,돼지고기,0,0,1
+청기와감자탕,Cheonggiwa Gamjatang (The Blue Tiled Roof's Potato Stew),Campus Town,통마늘뼈찜 (완조리) (소),Tongmaneul ppyeojjim (cooked S),Whole garlic bone steam S,뼈찜,Korean,33000,3,1,3,돼지고기,0,0,1
+청기와감자탕,Cheonggiwa Gamjatang (The Blue Tiled Roof's Potato Stew),Campus Town,통마늘뼈찜 (완조리) (중),Tongmaneul ppyeojjim (cooked M),Whole garlic bone steam M,뼈찜,Korean,41000,3,1,3,돼지고기,0,0,1
+청기와감자탕,Cheonggiwa Gamjatang (The Blue Tiled Roof's Potato Stew),Campus Town,통마늘뼈찜 (완조리) (대),Tongmaneul ppyeojjim (cooked L),Whole garlic bone steam L,뼈찜,Korean,49000,3,1,3,돼지고기,0,0,1
+청기와감자탕,Cheonggiwa Gamjatang (The Blue Tiled Roof's Potato Stew),Campus Town,뼈해장국 (비조리) (1인분),Ppyeo haejang guk (uncooked) (1 portion),Bone hangover soup,해장국,Korean,9000,3,1,3,국,0,0,1
+투다리,Two dari,Campus Town,골뱅이무침,Golbaengimuchim,Seasoned bai-top shell,골뱅이,Korean,20000,3,2,4,골벵이,1,1,1
+투다리,Two dari,Campus Town,염통꼬치,Yeomtong kkochi,Chicken heart skewer,꼬치,Korean,9500,3,2,3,염통,0,1,1
+투다리,Two dari,Campus Town,모래집꼬치,Moraejip kkochi,Chicken gizzard skewer,꼬치,Korean,9500,3,2,3,모래집,0,1,1
+투다리,Two dari,Campus Town,떡돌이꼬치,Tteokdori kkochi,Rice cake skewer,꼬치,Korean,9500,3,2,2,떡떡,1,1,1
+투다리,Two dari,Campus Town,닭산적꼬치,Daksanjeok kkochi,Chicken skewer,꼬치,Korean,9500,3,2,3,닭고기,0,1,1
+투다리,Two dari,Campus Town,매운닭살코치,Maeun daksal kochi,spicy chicken skewer,꼬치,Korean,9500,3,1,4,닭고기,0,1,1
+투다리,Two dari,Campus Town,날개꼬치,Nalgae kkochi,Wing Skewer,꼬치,Korean,9500,3,1,2,닭고기,0,1,1
+투다리,Two dari,Campus Town,은행꼬치,Eunhaeng kkochi,gingko skewer,꼬치,Korean,9500,3,1,2,은행,1,1,1
+투다리,Two dari,Campus Town,소시지베이컨말이,Sausage Bacon mari,Sausage bacon roll,꼬치,Korean,,4,1,2,돼지고기,0,0,1
+투다리,Two dari,Campus Town,태양초치즈닭갈비,Taeyangcho cheese dakgalbi,Spicy stir fried chicken ribs with cheese,닭갈비,Korean,19000,3,2,3,닭고기,0,1,1
+투다리,Two dari,Campus Town,모래집볶음,Moraejip bokkeum,Stir fried gizzard,모래집볶음,Korean,15000,3,1,4,닭고기,0,1,1
+투다리,Two dari,Campus Town,사천볶음밥,Sachon bokkeumbap,Sichuan Fried Rice,볶음밥,Korean,18000,3,1,3,밥,1,1,1
+투다리,Two dari,Campus Town,알탕,Altang,Fish roe soup,알탕,Korean,,2,1,3,해산물,0,1,1
+투다리,Two dari,Campus Town,오뎅탕,Odengtang,Fish cake soup,오뎅탕,Korean,23000,3,1,3,오뎅,0,1,1
+투다리,Two dari,Campus Town,우동,Udon,,우동,Korean,11000,3,1,2,밀가루,1,1,1
+투다리,Two dari,Campus Town,김치우동전골,Kimchi udon hot pot,,우동,Korean,13000,3,1,3,밀가루,1,1,1
+투다리,Two dari,Campus Town,해물탕,Haemultang,Seafood stew,해물탕,Korean,,3,1,3,헤물,0,1,1
+프랭크버거 송도캐퍼스타운역점,Frank Burger,Campus Town,프랭크버거 R,Frank burger R,Frank Burger R,햄버거,Korean,4300,3,1,2,빵,0,1,0
+프랭크버거 송도캐퍼스타운역점,Frank Burger,Campus Town,프랭크버거 L,Frank burger L,Frank Burger L,햄버거,Western,5300,3,1,2,빵,0,1,0
+프랭크버거 송도캐퍼스타운역점,Frank Burger,Campus Town,SG불고기버거 R,SG bulgogi burger R,SG bulgogi Burger R,햄버거,Western,3800,3,1,2,빵,0,1,0
+프랭크버거 송도캐퍼스타운역점,Frank Burger,Campus Town,SG불고기버거 L,SG bulgogi burger L,SG bulgogi Burger L,햄버거,Western,4800,3,1,2,빵,0,1,0
+프랭크버거 송도캐퍼스타운역점,Frank Burger,Campus Town,SG크림치즈버거 R,SG cream cheese burger R,SG cream cheese Burger R,햄버거,Western,4800,3,1,2,빵,0,1,0
+프랭크버거 송도캐퍼스타운역점,Frank Burger,Campus Town,SG크림치즈버거 L,SG cream cheese burger L,SG cream cheese Burger L,햄버거,Western,5800,3,1,2,빵,0,1,0
+프랭크버거 송도캐퍼스타운역점,Frank Burger,Campus Town,치즈버거 R,Cheese burger R,Cheese Burger R,햄버거,Western,5300,3,1,2,빵,0,1,0
+프랭크버거 송도캐퍼스타운역점,Frank Burger,Campus Town,치즈버거 L,Cheese burger L,Cheese Burger L,햄버거,Western,6300,3,1,2,빵,0,1,0
+프랭크버거 송도캐퍼스타운역점,Frank Burger,Campus Town,베이컨치즈버거 R,Bacon cheese burger R,Bacon cheese Burger R,햄버거,Western,6700,4,1,2,빵,0,1,0
+프랭크버거 송도캐퍼스타운역점,Frank Burger,Campus Town,베이컨치즈버거 L,Bacon cheese burger L,Bacon cheese Burger L,햄버거,Western,7700,4,1,2,빵,0,1,0
+프랭크버거 송도캐퍼스타운역점,Frank Burger,Campus Town,더블치즈버거 R,Double cheese burger R,Double Cheese Burger R,햄버거,Western,7700,4,1,2,빵,0,1,0
+프랭크버거 송도캐퍼스타운역점,Frank Burger,Campus Town,더블치즈버거 L,Double cheese burger L,Double Cheese Burger L,햄버거,Western,8700,4,1,2,빵,0,1,0
+프랭크버거 송도캐퍼스타운역점,Frank Burger,Campus Town,쉬림프버거 R,Shrimp buger R,Shrimp Burger R,햄버거,Western,4700,3,1,2,빵,0,1,0
+프랭크버거 송도캐퍼스타운역점,Frank Burger,Campus Town,머쉬룸버거 R,Mushroom burger R,Mushroom Burger R,햄버거,Western,8300,3,1,2,빵,0,1,0
+프랭크버거 송도캐퍼스타운역점,Frank Burger,Campus Town,머쉬룸버거 L,Mushroom burger L,Mushroom Burger L,햄버거,Western,9300,3,1,2,빵,0,1,0
+프랭크버거 송도캐퍼스타운역점,Frank Burger,Campus Town,JG버거 R,JG burger R,JG Burger R,햄버거,Western,9300,3,1,2,빵,0,1,0
+프랭크버거 송도캐퍼스타운역점,Frank Burger,Campus Town,JG버거 L,JG burger L,JG Burger L,햄버거,Western,12300,3,1,2,빵,0,1,0
+회가대표초밥24,Sushi Representative 24,Campus Town,오마카세초밥 (12개),omakase chobap (12 pieces),Omakase sushi (12 Pieces),초밥,Japanese,12900,2,1,2,생선,0,1,1
+회가대표초밥24,Sushi Representative 24,Campus Town,모듬초밥 (11개),Modeum chobap (11 pieces),Assorted Sushi (11 Pieces),초밥,Japanese,9900,2,1,2,생선,0,1,1
+회가대표초밥24,Sushi Representative 24,Campus Town,연어초밥 (10개),Yeoneo chobap (10 pieces),Salmon Sushi (10),초밥,Japanese,12900,2,1,2,생선,0,1,1
+회가대표초밥24,Sushi Representative 24,Campus Town,광어초밥 (10개),Gwangeo chobap (10 pieces),Flounder Sushi (10 Pieces),초밥,Japanese,12900,2,1,2,생선,0,1,1
+회가대표초밥24,Sushi Representative 24,Campus Town,광어연어초밥 (10개),Gwangeo yeoneo chobap (10 pieces),Flounder Salmon Sushi (10 Pieces),초밥,Japanese,12900,2,1,2,생선,0,1,1
+회가대표초밥24,Sushi Representative 24,Campus Town,프리미엄 초밥 (24개),Premium chobap (24 pieces),Premium Sushi (24 Pieces),초밥,Japanese,29900,2,1,2,생선,0,1,1
+회가대표초밥24,Sushi Representative 24,Campus Town,청년초밥 (24개),Cheongnyeon chobap (24 pieces),Young adult's Sushi (24 Pieces),초밥,Japanese,24900,2,1,2,생선,0,1,1
+회가대표초밥24,Sushi Representative 24,Campus Town,모듬그릴초밥 (10개),Modeum grill chobap (10 pieces),Assorted Grilled Sushi (10 Pieces),초밥,Japanese,12900,2,1,2,생선,0,1,1
+회가대표초밥24,Sushi Representative 24,Campus Town,소고기그릴초밥 (10개),Sogogi grill chobap (10 pieces),Beef Grill Sushi (10 Pieces),초밥,Japanese,11900,2,1,2,소고기,0,1,0
+회가대표초밥24,Sushi Representative 24,Campus Town,모듬새우초밥,Modeum saeu chobap,Assorted Shrimp Sushi,초밥,Japanese,10900,2,1,2,생선,0,1,1
+회가대표초밥24,Sushi Representative 24,Campus Town,연어회사시미,Yeoneo hwae sashimi,Salmon sashimi,초밥,Japanese,14900,2,1,2,생선,0,1,1
+회가대표초밥24,Sushi Representative 24,Campus Town,모듬회사시미,Modeum hwae sashimi,Assorted sashimi,초밥,Japanese,19900,2,1,2,생선,0,1,1
+회가대표초밥24,Sushi Representative 24,Campus Town,참치마요 대왕유부,Chamchi mayo daewang yubu,Tuna mayo king fried bean curd,초밥,Japanese,2500,2,1,2,생선,0,1,1
+회가대표초밥24,Sushi Representative 24,Campus Town,타코와사비 대왕유부,Taco wasabi daewang yubu,Taco And wasabi King fried bean curd,초밥,Japanese,2500,2,1,2,생선,0,0,1
+회가대표초밥24,Sushi Representative 24,Campus Town,생연어 대왕유부,Saeng yeoneo daewang yubu,Raw salmon king fried bean curd,초밥,Japanese,2500,2,1,2,생선,0,1,1
+회가대표초밥24,Sushi Representative 24,Campus Town,광어 (3개),Gwangeo (3 pieces),Flounder (3),초밥,Japanese,4200,2,1,2,생선,0,1,1
+회가대표초밥24,Sushi Representative 24,Campus Town,연어 (3개),Yeoneo (3 pieces),Salmon (3),초밥,Japanese,3900,2,1,2,생선,0,1,1
+회가대표초밥24,Sushi Representative 24,Campus Town,구운연어 (3개),Guun yeoneo (3 pieces),Baked salmon (3 Pieces),초밥,Japanese,4200,2,1,2,생선,0,1,1
+회가대표초밥24,Sushi Representative 24,Campus Town,장어 (3개),Jangeo (3 pieces),Eel (3),초밥,Japanese,3900,2,1,2,생선,0,1,1
+회가대표초밥24,Sushi Representative 24,Campus Town,백미새우 (3개),Baengmi saeu (3 pieces),Triple tail shrimp (3 Pieces),초밥,Japanese,3900,2,1,2,생선,0,1,1
+회가대표초밥24,Sushi Representative 24,Campus Town,간장새우 (3개),Ganjang saeu (3 pieces),Soy Sauce marinated Shrimp (3 Pieces),초밥,Japanese,4200,2,1,2,생선,0,1,1
+회가대표초밥24,Sushi Representative 24,Campus Town,초새우 (3개),Chosaeu (3 pieces),shrim (3 Pieces),초밥,Japanese,3900,2,1,2,생선,0,1,1
+회가대표초밥24,Sushi Representative 24,Campus Town,계란 (3개),Gyeran (3 pieces),Egg (3),초밥,Japanese,2900,2,1,2,생선,0,1,1
+회가대표초밥24,Sushi Representative 24,Campus Town,유부 (3개),Yubu (3 pieces),fried bean curd (3),초밥,Japanese,2900,2,1,2,생선,0,1,1
+힘난다버거,Himnanda burgers,Campus Town,포크,Pork,,고기구이,Korean,9600,2,1,2,돼지고기,0,0,1
+힘난다버거,Himnanda burgers,Campus Town,비프 스테이크,Beef Steak,,고기구이,Korean,10500,2,1,2,돼지고기,0,1,0
+힘난다버거,Himnanda burgers,Campus Town,힘난닭,Himnandak,Chicken,치킨,Korean,13500,3,2,2,닭고기,0,1,1
+힘난다버거,Himnanda burgers,Campus Town,힘난다치즈버거,Himnanda cheese burger,Cheese burger,햄버거,Western,6800,3,1,2,빵,0,1,0
+힘난다버거,Himnanda burgers,Campus Town,머쉬룸치즈버거,Mushroom cheese burger,Mushroom cheese burger,햄버거,Western,6900,3,1,2,빵,0,1,0
+힘난다버거,Himnanda burgers,Campus Town,베이컨치즈버거,Bacon cheese burger,bacon cheese burger,햄버거,Western,7900,4,1,2,빵,0,1,0
+힘난다버거,Himnanda burgers,Campus Town,힘난다불스버거,Himnanda bulseu burger,Bulls burger,햄버거,Western,8400,3,1,3,빵,0,1,0
+힘난다버거,Himnanda burgers,Campus Town,구운양파치즈버거,Guun yangpa cheese burger,Onion cheese burger,햄버거,Western,6800,3,1,2,빵,0,1,0
+힘난다버거,Himnanda burgers,Campus Town,불고기버거,Bulgogi burger,Bullgogi burger,햄버거,Western,6600,4,1,2,빵,0,1,0
+힘난다버거,Himnanda burgers,Campus Town,시금치뽀빠이버거,Sigeumchi ppoppai burger,Spinach burger,햄버거,Western,7900,3,1,2,빵,0,1,0
+힘난다버거,Himnanda burgers,Campus Town,힘난다쉬림프 버거,Himnanda shrimp burger,Shrimp burger R,햄버거,Western,5800,3,1,2,빵,0,1,1
+힘난다버거,Himnanda burgers,Campus Town,아보카도 비프 스테이크,Avocado beef steak,Beef steak wirh Avocado,햄버거,Western,12500,3,1,2,소고기,0,1,0
+힘난다버거,Himnanda burgers,Campus Town,아보카도 쉬림프,Avocado shrimp,Shrimp Avocado Salad,햄버거,Western,11900,3,1,2,새우,0,1,1
+힘난다버거,Himnanda burgers,Campus Town,아보카도 수비드 치킨,Avocado sous vide chicken,Chicken salad with Avocado,햄버거,Western,11400,3,1,2,닭고기,0,1,1
+힘난다버거,Himnanda burgers,Campus Town,아보카도 함박스테이크,Avocado hambak steak,Pork steak with Avocado,햄버거,Western,11400,3,1,2,돼지고기,0,0,1
+힘난다버거,Himnanda burgers,Campus Town,훈제오리,Hunjeori,Roasted duck,훈제오리,Korean,10500,2,1,2,오리고기,0,1,1

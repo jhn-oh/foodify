@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+{% load i18n %}
+{% load static %}
+<html>
+<head>
+    <title>{% trans "Foodify" %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=0.75">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+</head><!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GQ02LDBY0D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GQ02LDBY0D');
+</script>
+<body>
+    {% include 'header_to_homeroom.html' %}
+    <div class="container">
+        <h1> {% trans "Initial Survey" %} </h1>
+        {% trans "11/15 Complete." %}
+        <br>
+        <br> <b>
+        {% trans "How good is your spice tolerance?" %}
+        </b>
+        <br>
+
+        <a href="2" class="white_rectangle">{% trans  "Low spice tolerance" %}</a> <br>
+        <a href="3" class="white_rectangle">{% trans  "Average spice tolerance" %}</a> <br>
+        <a href="5" class="white_rectangle">{% trans  "High spice tolerance" %}</a>
+
+    </div>
+</body>
+</html>

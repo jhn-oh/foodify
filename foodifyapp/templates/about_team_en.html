@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+{% load i18n %}
+{% load static %}
+<html>
+<head>
+    <title>{% trans "Foodify" %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=0.75">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+    <link rel="icon" type="image/x-icon" href="{% static '/collected/collected/icon/foodify-logo-in-a-white-circle.ico' %}">
+</head>
+<body>
+    {% include 'header.html' %}
+    <div class="container">
+        <h1> {% trans "About Us" %} </h1> <br>
+            <div class="button-container">
+                <a class="white_button_half" type="button" href="/about/project"> {% trans "Our Project"%} </a> 
+                <a class="filled_button_half" type="button" href="/about/team"> {% trans "Our Team"%} </a>
+            </div>
+            <br>
+            <h2> Our Team </h2>
+            {% comment %} <img src="https://www.insert.com/images/here.jpg" alt="Image of Foodify Team"> {% endcomment %}
+
+            
+            <br>
+            <div class="button-container">
+                <b> Juhyun Oh  <br> Jisoo Han  <br> Seiyon Kim  <br> Gayoung Wui  <br> Hyunsoo Jung  </b> 
+                <div class="v_line"></div>
+                Dept. of Urban Planning and Engineering <br> Dept. of Urban Planning and Engineering <br> School of Business <br> School of Business <br> School of Business
+            </div>
+            <br>
+            <p>
+                The Team PlatePal is constituted of 5 Yonsei University freshmen students, who are all concerned about international students that may not be familiar with Korean foods and restaurants.
+                Among the team members from different RC houses and majors, we are doing our best for our the single goal of helping the international students.
+            </p>
+        </div>
+    </div>
+</body>
+</html>

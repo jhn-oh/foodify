@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+{% load i18n %}
+{% load static %}
+<html>
+<head>
+    <title>{% trans "Foodify Home" %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=0.75">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+    <link rel="icon" type="image/x-icon" href="{% static '/collected/collected/icon/foodify-logo-in-a-white-circle.ico' %}">
+</head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GQ02LDBY0D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GQ02LDBY0D');
+</script>
+<body>
+    {% include 'header_to_homeroom.html' %}
+    <div class="container">
+        <h1> {% trans "Filtered List"%}</h1>
+        {% trans "The food list that complies to your desires"%}
+        <br><br><br>
+        {% if na != "na" %}
+            {% for item in name_list %}
+                <a href = {{item.1}} style="text-decoration: none;">
+                    <div class="font_custom_more_main"> {{item.0.0}} </div>
+                    <div class="font_custom_grey"> {{item.0.1}} </div>
+                    <hr>
+                </a>
+
+            {% endfor%}
+    </div>
+        {% else %}
+            {% trans "No Results Available" %}
+        {% endif %}
+
+</body>
+</html>

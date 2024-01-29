@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+{% load i18n %}
+{% load static %}
+<html>
+<head>
+    <title>{% trans "Foodify" %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=0.75">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+</head><!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GQ02LDBY0D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GQ02LDBY0D');
+</script>
+<body>
+    {% include 'header_to_homeroom.html' %}
+    <div class="container">
+        <h1> {% trans "Initial Survey" %} </h1>
+        {% blocktrans %}
+            {{survey_count}}/15 Complete.
+        {% endblocktrans %}
+        <br>
+        <h1> This is a taboo survey page. This page will be modified soon. </h1>
+        <br>
+        {% blocktrans %}
+        Do you like this food served at {{ restaurant }}?
+        {% endblocktrans %}
+        <br>
+        <div class="grey_rectangle_2">
+
+            <div class="homeroom_button_title"> {{ food_name }} </div>
+            {% if food_name_korean != "" %}
+                <div class="homeroom_button_description"> {{ food_name_korean }} </div>
+            {% endif %} 
+            {% if food_description != "" %}
+               <div class="homeroom_button_description"> {{ food_description }} </div>
+            {% endif %}
+
+            {% comment %} {{ location }} <br>
+            {{ menu_type }} {% endcomment %}
+        
+        </div>
+        <br>
+        <div class="button-container">
+            <a class="filled_button_half_2" href="like"> {% trans "Yes 😀" %} </a> 
+            <a class="filled_button_half_2" href="dislike"> {% trans "No 😢" %} </a>
+        </div>
+        <div class="button-container">
+            <a class="white_button_full" href="dont_know">{% trans "Don't know 😑" %}</a>
+        </div>
+    </div>
+</body>
+</html>

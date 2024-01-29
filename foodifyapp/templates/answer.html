@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+{% load i18n %}
+{% load static %}
+<html>
+<head>
+    <title>{% trans "Foodify Recommendation" %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=0.75">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+    <link rel="icon" type="image/x-icon" href="{% static '/collected/collected/icon/foodify-logo-in-a-white-circle.ico' %}">
+</head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GQ02LDBY0D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GQ02LDBY0D');
+</script>
+<body>
+    {% include 'header_to_homeroom.html' %}
+    <div class="container">
+        <h1> {% trans "Food Recommendation" %} </h1>
+        <br>
+        {% blocktrans %}
+        What about trying this food at {{ restaurant }}?
+        {% endblocktrans %}
+        <br>
+        <div class="grey_rectangle_2">
+
+            <div class="homeroom_button_title"> {{ food_name }} </div>
+            {% if food_name_korean != "" %}
+                <div class="homeroom_button_description"> {{ food_name_korean }} </div>
+            {% endif %} 
+            {% if food_description != "" %}
+               <div class="homeroom_button_description"> {{ food_description }} </div>
+            {% endif %}
+        </div>
+        <br>
+        <div class="button-container">
+            <a class="filled_button_half_2" href={{ like_url }}> {% trans "I like it!" %} </a>
+            <a class="white_button_half" href={{ dislike_url }}> {% trans "Another one" %} </a>
+        </div>
+        <br>
+        <div class="font_size_16_5">
+        {% blocktrans %}
+        By clicking "I like it!", further information will be provided. <br>
+        If you don't like this food, press "Another one".
+        {% endblocktrans %}
+        </div>
+    </div>
+</body>
+</html>

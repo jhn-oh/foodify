@@ -1,0 +1,547 @@
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-08 16:43+0900\n"
+"Language: ko\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#: .\foodifyapp\templates\_default.html:6
+#: .\foodifyapp\templates\about_project_en.html:6
+#: .\foodifyapp\templates\about_project_ko.html:6
+#: .\foodifyapp\templates\about_team_en.html:6
+#: .\foodifyapp\templates\about_team_ko.html:6
+#: .\foodifyapp\templates\desire_choice_flavor.html:6
+#: .\foodifyapp\templates\desire_choice_origin.html:6
+#: .\foodifyapp\templates\model_upload.html:6
+#: .\foodifyapp\templates\privacy_policy.html:6
+#: .\foodifyapp\templates\register_success.html:6
+#: .\foodifyapp\templates\survey.html:6
+#: .\foodifyapp\templates\survey_complete.html:6
+#: .\foodifyapp\templates\survey_hindu.html:6
+#: .\foodifyapp\templates\survey_info.html:6
+#: .\foodifyapp\templates\survey_islam.html:6
+#: .\foodifyapp\templates\survey_spicy.html:6
+#: .\foodifyapp\templates\survey_taboo.html:6
+#: .\foodifyapp\templates\survey_vegeterian.html:6
+#: .\foodifyapp\templates\terms_and_conditions.html:6
+#, fuzzy
+#| msgid "Foodify Home"
+msgid "Foodify"
+msgstr "Foodify 홈"
+
+#: .\foodifyapp\templates\_default.html:22
+msgid "Text"
+msgstr "본문"
+
+#: .\foodifyapp\templates\about_project_en.html:23
+#: .\foodifyapp\templates\about_project_ko.html:23
+#: .\foodifyapp\templates\about_team_en.html:14
+#: .\foodifyapp\templates\about_team_ko.html:23
+msgid "About Us"
+msgstr "About Us"
+
+#: .\foodifyapp\templates\about_project_en.html:25
+#: .\foodifyapp\templates\about_project_ko.html:25
+#: .\foodifyapp\templates\about_team_en.html:16
+#: .\foodifyapp\templates\about_team_ko.html:25
+msgid "Our Project"
+msgstr "프로젝트"
+
+#: .\foodifyapp\templates\about_project_en.html:26
+#: .\foodifyapp\templates\about_project_ko.html:26
+#: .\foodifyapp\templates\about_team_en.html:17
+#: .\foodifyapp\templates\about_team_ko.html:26
+msgid "Our Team"
+msgstr "팀 PlatePal"
+
+#: .\foodifyapp\templates\answer.html:6
+#, fuzzy
+#| msgid "Food Recommendation"
+msgid "Foodify Recommendation"
+msgstr "음식 추천"
+
+#: .\foodifyapp\templates\answer.html:23
+msgid "Food Recommendation"
+msgstr "음식 추천"
+
+#: .\foodifyapp\templates\answer.html:25
+#, python-format
+msgid ""
+"\n"
+"        What about trying this food at %(restaurant)s?\n"
+"        "
+msgstr ""
+"\n"
+"%(restaurant)s에서 이 음식을 먹어보는 건 어떨까요?\n"
+" "
+
+#: .\foodifyapp\templates\answer.html:41
+msgid "I like it!"
+msgstr "좋아요!"
+
+#: .\foodifyapp\templates\answer.html:42
+msgid "Another one"
+msgstr "다른 음식 추천"
+
+#: .\foodifyapp\templates\answer.html:46
+msgid ""
+"\n"
+"        By clicking \"I like it!\", further information will be provided. "
+"<br>\n"
+"        If you don't like this food, press \"Another one\".\n"
+"        "
+msgstr ""
+"\n"
+" \"좋아요!\" 버튼을 클릭하면 추가 정보가 제공됩니다. <br>\n"
+" 이 음식이 마음에 들지 않으면 \"다른 음식 추천\" 버튼을 누르세요.\n"
+" "
+
+#: .\foodifyapp\templates\desire_choice_flavor.html:21
+#: .\foodifyapp\templates\desire_choice_origin.html:21
+#: .\foodifyapp\templates\homeroom.html:55
+msgid "Search for Your Desires"
+msgstr "오늘 기분따라 검색하기"
+
+#: .\foodifyapp\templates\desire_choice_flavor.html:25
+msgid "Which flavor do you prefer today?"
+msgstr "오늘은 무슨 맛이 당시기나요?"
+
+#: .\foodifyapp\templates\desire_choice_flavor.html:29
+#: .\foodifyapp\templates\more.html:43
+msgid "Saltiness"
+msgstr "짠맛"
+
+#: .\foodifyapp\templates\desire_choice_flavor.html:30
+#: .\foodifyapp\templates\more.html:47
+msgid "Spiceness"
+msgstr "매운맛"
+
+#: .\foodifyapp\templates\desire_choice_flavor.html:31
+#: .\foodifyapp\templates\more.html:39
+msgid "Sweetness"
+msgstr "단맛"
+
+#: .\foodifyapp\templates\desire_choice_origin.html:25
+msgid "Which kind of food do you prefer today?"
+msgstr "오늘은 무슨 나라 음식을 먹고 싶으신가요?"
+
+#: .\foodifyapp\templates\desire_choice_origin.html:29
+msgid "Korean food"
+msgstr "한식"
+
+#: .\foodifyapp\templates\desire_choice_origin.html:30
+msgid "Chinese food"
+msgstr "중식"
+
+#: .\foodifyapp\templates\desire_choice_origin.html:31
+msgid "Japanese food"
+msgstr "일식"
+
+#: .\foodifyapp\templates\desire_choice_origin.html:32
+msgid "Western food"
+msgstr "양식"
+
+#: .\foodifyapp\templates\desire_choice_origin.html:33
+msgid "Asian food"
+msgstr "아시아 음식"
+
+#: .\foodifyapp\templates\desire_name_list.html:6
+#: .\foodifyapp\templates\homepage.html:6
+msgid "Foodify Home"
+msgstr "Foodify 홈"
+
+#: .\foodifyapp\templates\desire_name_list.html:23
+msgid "Filtered List"
+msgstr "검색된 리스트"
+
+#: .\foodifyapp\templates\desire_name_list.html:24
+msgid "The food list that complies to your desires"
+msgstr "검색하신 조건에 맞는 음식 리스트입니다."
+
+#: .\foodifyapp\templates\desire_name_list.html:36
+msgid "No Results Available"
+msgstr "검색된 결과가 없습니다. 다른 조건으로 다시 검색해보세요"
+
+#: .\foodifyapp\templates\header_to_homeroom.html:45
+#, fuzzy
+#| msgid "Log In"
+msgid "Log Out"
+msgstr "로그아웃"
+
+#: .\foodifyapp\templates\homepage.html:25
+msgid ""
+"\n"
+"            Foodify,<br>\n"
+"            your PlatePal\n"
+"            "
+msgstr ""
+"\n"
+"            당신만을 위한 음식,<br>\n"
+"            Foodify\n"
+"            "
+
+#: .\foodifyapp\templates\homepage.html:30
+msgid "Learn more >>"
+msgstr "더 알아보기 >>"
+
+#: .\foodifyapp\templates\homepage.html:33
+#: .\foodifyapp\templates\register_success.html:29
+#: .\foodifyapp\templates\registration\login.html:38
+#, fuzzy
+#| msgid "Log In"
+msgid "Log in"
+msgstr "로그인"
+
+#: .\foodifyapp\templates\homepage.html:34
+#: .\foodifyapp\templates\register.html:41
+#: .\foodifyapp\templates\registration\login.html:34
+msgid "Register"
+msgstr "가입하기"
+
+#: .\foodifyapp\templates\homeroom.html:24
+#, python-format
+msgid ""
+"\n"
+"            Welcome, %(username)s.\n"
+"        "
+msgstr ""
+"\n"
+" 환영합니다, %(username)s 님.\n"
+" "
+
+#: .\foodifyapp\templates\homeroom.html:33
+msgid "Recommended Just for You"
+msgstr "당신을 위한 추천"
+
+#: .\foodifyapp\templates\homeroom.html:34
+msgid "Menu selected based on your preferences"
+msgstr "사용자 선호도를 기반으로 음식을 추천해 드립니다."
+
+#: .\foodifyapp\templates\homeroom.html:44
+msgid "Complete Random"
+msgstr "랜덤 추천"
+
+#: .\foodifyapp\templates\homeroom.html:45
+msgid "Returns any food in random"
+msgstr "아무 음식이나 랜덤으로 반환합니다."
+
+#: .\foodifyapp\templates\homeroom.html:56
+msgid "Returns all foods that complies to your desires today"
+msgstr "조건에 맞는 모든 음식을 반환합니다."
+
+#: .\foodifyapp\templates\homeroom.html:62
+msgid "More features will come along with new updates."
+msgstr "새로운 업데이트와 함께 더 많은 기능이 제공될 예정입니다."
+
+#: .\foodifyapp\templates\homeroom.html:64
+msgid ""
+"The icons used in this page has been designed using images from Flaticon.com"
+msgstr ""
+"이 페이지에서 사용된 아이콘은 Flaticon.com의 이미지를 사용하여 디자인되었습니"
+"다."
+
+#: .\foodifyapp\templates\more.html:6
+#, fuzzy
+#| msgid "Foodify Home"
+msgid "Foodify More Info"
+msgstr "Foodify 홈"
+
+#: .\foodifyapp\templates\more.html:26
+msgid "Menu Name in Korean"
+msgstr "메뉴 이름"
+
+#: .\foodifyapp\templates\more.html:31
+msgid "Menu Description"
+msgstr "메뉴 설명"
+
+#: .\foodifyapp\templates\more.html:36
+msgid "Taste Index"
+msgstr "맛 지수"
+
+#: .\foodifyapp\templates\more.html:54
+msgid "Served at"
+msgstr "식당 정보"
+
+#: .\foodifyapp\templates\more.html:117
+msgid "Price (in KRW)"
+msgstr "가격 (원)"
+
+#: .\foodifyapp\templates\more.html:122
+msgid "Country of Origin"
+msgstr "국가"
+
+#: .\foodifyapp\templates\more.html:127
+msgid "Menu Type (in Korean)"
+msgstr "메뉴 분류"
+
+#: .\foodifyapp\templates\more.html:132
+msgid "Main Ingredient (in Korean)"
+msgstr "주재료"
+
+#: .\foodifyapp\templates\more.html:137
+msgid "Additional Info"
+msgstr "추가 정보"
+
+#: .\foodifyapp\templates\more.html:140
+msgid "Vegetarian"
+msgstr "채식주의자 섭취 가능 여부"
+
+#: .\foodifyapp\templates\more.html:145
+msgid "Hindu (Beef-free)"
+msgstr "힌두교인 섭취 가능 여부"
+
+#: .\foodifyapp\templates\more.html:150
+msgid "Islam (Pork-free)"
+msgstr "이슬람교도인 섭취 가능 여부"
+
+#: .\foodifyapp\templates\more.html:154
+#, python-format
+msgid ""
+"Please note that this information may not be 100%% accurate since we do not "
+"have the exact recipe information."
+msgstr "정확한 레시피 정보가 없기 때문에, 이 정보는 정확하지 않을 수 있습니다."
+
+#: .\foodifyapp\templates\more.html:158
+#: .\foodifyapp\templates\survey_complete.html:28
+msgid "Go back to Homeroom"
+msgstr "돌아가기"
+
+#: .\foodifyapp\templates\privacy_policy.html:22
+msgid "Foodify Privacy Policy"
+msgstr "Foodify 개인정보 처리방침"
+
+#: .\foodifyapp\templates\register.html:6
+#, fuzzy
+#| msgid "Foodify Login"
+msgid "Foodify Register"
+msgstr "Foodify 가입"
+
+#: .\foodifyapp\templates\register.html:21
+#, fuzzy
+#| msgid "Welcome to Foodify."
+msgid "Register to Foodify"
+msgstr "Foodify 가입"
+
+#: .\foodifyapp\templates\register.html:32
+msgid "Your password can't be too similar to your personal information."
+msgstr "비밀번호는 개인 정보와 너무 유사하게 설정할 수 없습니다."
+
+#: .\foodifyapp\templates\register.html:33
+msgid "Your password must contain at least 8 characters."
+msgstr "비밀번호는 최소 8자 이상이어야 합니다."
+
+#: .\foodifyapp\templates\register.html:34
+msgid "Your password can't be a commonly used password."
+msgstr "비밀번호는 일반적으로 널리 사용되는 비밀번호일 수 없습니다."
+
+#: .\foodifyapp\templates\register.html:35
+msgid "Your password can't be entirely numeric."
+msgstr "비밀번호는 숫자로만 이루어질 수 없습니다."
+
+#: .\foodifyapp\templates\register.html:39
+#, fuzzy
+#| msgid "Don't have your account?"
+msgid "Already have your account?"
+msgstr "계정이 있으신가요?"
+
+#: .\foodifyapp\templates\register.html:39
+msgid "Log In"
+msgstr "로그인"
+
+#: .\foodifyapp\templates\register.html:46
+msgid ""
+"\n"
+"        By registering, you are agreeing to our <a href=\"/terms\"> Terms of "
+"Service</a>  and <a href=\"/privacy\"> Privacy Policy</a>.\n"
+"        "
+msgstr ""
+"\n"
+" Foodify 가입 버튼을 누름으로써 <a href=\"/terms\"> 이용약관</a> 및 <a href="
+"\"/privacy\"> 개인정보 처리방침</a>에 동의하는 것으로 간주됩니다.\n"
+" "
+
+#: .\foodifyapp\templates\register_success.html:22
+msgid "Register Complete!"
+msgstr "가입 완료!"
+
+#: .\foodifyapp\templates\register_success.html:27
+msgid "Thank you for registering to Foodify."
+msgstr "Foodify에 가입해 주셔서 감사합니다."
+
+#: .\foodifyapp\templates\registration\login.html:7
+msgid "Foodify Login"
+msgstr "Foodify 로그인"
+
+#: .\foodifyapp\templates\registration\login.html:24
+#, fuzzy
+#| msgid "Welcome back."
+msgid "Welcome Back."
+msgstr "환영합니다."
+
+#: .\foodifyapp\templates\registration\login.html:34
+msgid "Don't have your account?"
+msgstr "계정이 없으신가요?"
+
+#: .\foodifyapp\templates\survey.html:21
+#: .\foodifyapp\templates\survey_hindu.html:21
+#: .\foodifyapp\templates\survey_info.html:21
+#: .\foodifyapp\templates\survey_islam.html:21
+#: .\foodifyapp\templates\survey_spicy.html:21
+#: .\foodifyapp\templates\survey_taboo.html:21
+#: .\foodifyapp\templates\survey_vegeterian.html:21
+msgid "Initial Survey"
+msgstr "초기 설문조사"
+
+#: .\foodifyapp\templates\survey.html:22
+#: .\foodifyapp\templates\survey_taboo.html:22
+#, python-format
+msgid ""
+"\n"
+"            %(survey_count)s/15 Complete.\n"
+"        "
+msgstr ""
+"\n"
+" %(survey_count)s/15 완료.\n"
+" "
+
+#: .\foodifyapp\templates\survey.html:27
+#: .\foodifyapp\templates\survey_taboo.html:28
+#, python-format
+msgid ""
+"\n"
+"        Do you like this food served at %(restaurant)s?\n"
+"        "
+msgstr ""
+"\n"
+" %(restaurant)s에서 제공되는 이 음식을 좋아하십니까?\n"
+" "
+
+#: .\foodifyapp\templates\survey.html:48
+#: .\foodifyapp\templates\survey_taboo.html:49
+msgid "Yes 😀"
+msgstr "네 😀"
+
+#: .\foodifyapp\templates\survey.html:49
+#: .\foodifyapp\templates\survey_taboo.html:50
+msgid "No 😢"
+msgstr "아니요 😢"
+
+#: .\foodifyapp\templates\survey.html:52
+#: .\foodifyapp\templates\survey_taboo.html:53
+msgid "Don't know 😑"
+msgstr "모르겠습니다 😑"
+
+#: .\foodifyapp\templates\survey_complete.html:21
+msgid "Survey Complete"
+msgstr "설문조사 완료"
+
+#: .\foodifyapp\templates\survey_complete.html:26
+msgid "Now we can recommend you the best food for you!"
+msgstr "이제 최고의 음식을 추천해 드릴 수 있습니다!"
+
+#: .\foodifyapp\templates\survey_hindu.html:22
+msgid "14/15 Complete."
+msgstr "14/15 완료."
+
+#: .\foodifyapp\templates\survey_hindu.html:26
+msgid "Do you specify yourself as Hindu?"
+msgstr "당신은 힌두교인입니까?"
+
+#: .\foodifyapp\templates\survey_hindu.html:28
+msgid ""
+"If you say 'yes' to this question, we will try to avoid beef from your "
+"recommendation."
+msgstr ""
+"소고기 섭취를 할 수 없다면 이 질문에 \"예\"라고 답하세요. 소고기를 함유하는 "
+"음식을 최대한 추천하지 않겠습니다."
+
+#: .\foodifyapp\templates\survey_hindu.html:31
+#: .\foodifyapp\templates\survey_islam.html:31
+#: .\foodifyapp\templates\survey_vegeterian.html:30
+msgid "Yes"
+msgstr "네"
+
+#: .\foodifyapp\templates\survey_hindu.html:32
+#: .\foodifyapp\templates\survey_islam.html:32
+#: .\foodifyapp\templates\survey_vegeterian.html:31
+msgid "No"
+msgstr "아니요"
+
+#: .\foodifyapp\templates\survey_info.html:25
+msgid ""
+"\n"
+"            <b> Welcome to Foodify! </b> <br>\n"
+"            This is a initial survey for Foodify, asking you whether you "
+"like certain foods or not. <br>\n"
+"            The data will only be used for finding the best food for you. "
+"<br>\n"
+"            The whole survey will only take about a minuite.\n"
+"            "
+msgstr ""
+"\n"
+" <b> Foodify에 오신 것을 환영합니다! </b> <br>\n"
+" 이것은 Foodify의 초기 설문조사로, 각 음식의 선호도를 묻는 형태로 이루어집니"
+"다.  <br>\n"
+" 설문 데이터는 사용자님을 위한 음식 추천에만 사용됩니다. <br>\n"
+" 전체 설문은 약 1분 정도 소요됩니다.\n"
+" "
+
+#: .\foodifyapp\templates\survey_info.html:34
+msgid "Start survey"
+msgstr "설문조사 시작"
+
+#: .\foodifyapp\templates\survey_islam.html:22
+msgid "13/15 Complete."
+msgstr "13/15 완료."
+
+#: .\foodifyapp\templates\survey_islam.html:26
+msgid "Do you specify yourself as Islam?"
+msgstr "당신은 이슬람인입니까?"
+
+#: .\foodifyapp\templates\survey_islam.html:28
+msgid ""
+"If you say 'yes' to this question, we will try to avoid pork from your "
+"recommendation."
+msgstr ""
+"돼지고기 섭취를 할 수 없다면 이 질문에 \"예\"라고 답하세요. 돼지고기를 함유하"
+"는 음식을 최대한 추천하지 않겠습니다."
+
+#: .\foodifyapp\templates\survey_spicy.html:22
+msgid "11/15 Complete."
+msgstr "11/15 완료."
+
+#: .\foodifyapp\templates\survey_spicy.html:25
+msgid "How good is your spice tolerance?"
+msgstr "매운 음식을 얼마나 잘 먹습니까?"
+
+#: .\foodifyapp\templates\survey_spicy.html:29
+msgid "Low spice tolerance"
+msgstr "잘 못 먹습니다"
+
+#: .\foodifyapp\templates\survey_spicy.html:30
+msgid "Average spice tolerance"
+msgstr "보통 수준입니다"
+
+#: .\foodifyapp\templates\survey_spicy.html:31
+msgid "High spice tolerance"
+msgstr "잘 먹습니다"
+
+#: .\foodifyapp\templates\survey_vegeterian.html:22
+msgid "12/15 Complete."
+msgstr "12/15 완료."
+
+#: .\foodifyapp\templates\survey_vegeterian.html:26
+msgid "Do you specify yourself as vegeterian?"
+msgstr "채식주의자입니까?"
+
+#: .\foodifyapp\templates\terms_and_conditions.html:21
+msgid "Terms and Conditions"
+msgstr "이용약관"
+
+#, fuzzy
+#~| msgid "Foodify Login"
+#~ msgid "Foodify,<br>your PlatePal"
+#~ msgstr "당신만을 위한 음식,<br>PlatePal"
+
+#~ msgid "Login"
+#~ msgstr "로그인"

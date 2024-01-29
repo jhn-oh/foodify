@@ -1,0 +1,42 @@
+{% load i18n %}
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{% trans "Foodify Login" %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=0.75">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+    <link rel="icon" type="image/x-icon" href="{% static '/collected/collected/icon/foodify-logo-in-a-white-circle.ico' %}">
+</head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GQ02LDBY0D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GQ02LDBY0D');
+</script>
+<body>
+    {% include 'header.html' %}
+    <div class="container">
+        <h1>{% trans "Welcome Back." %}</h1>
+        <br> <br> 
+        <form method="post">
+            {% csrf_token %}
+            <input name="username" class="login_box" placeholder="Username">
+            
+            <input name="password" type="password" class="login_box" placeholder="Password">
+            
+            <br> <br> 
+
+            {% trans "Don't have your account?" %} <a href="/register"> {% trans "Register" %} </a>
+
+            <br><br><br>
+
+            <button type="submit" class="filled_rectangle">{% trans "Log in"%} </button>
+        </form>
+    </div>
+</body>
+</html>
